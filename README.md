@@ -1,2 +1,2 @@
 # ml.github.io
-machine learning research group at TU Wien (Technical University of Vienna)
+Machine Learning research group at TU Wien (Technical University of Vienna)
