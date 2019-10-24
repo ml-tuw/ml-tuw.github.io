@@ -21,7 +21,7 @@ baseurl: "/"
 url: "http://127.0.0.1:4000/"
 #url: "https://t-gaertner.github.io/"
 twitter_username: none
-github_username:  t-gaertner
+github_username:  ml-tuw
 
 # Build settings
 markdown: kramdown
