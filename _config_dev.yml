@@ -1,0 +1,121 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Thomas Gärtner
+email: me@thomasgaertner.org
+description: >- # this means to ignore newlines until "baseurl:"
+  This will be the new version of my homepage at some point
+baseurl: "/"
+url: "http://127.0.0.1:4000/"
+#url: "https://t-gaertner.github.io/"
+twitter_username: none
+github_username:  t-gaertner
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins: ['jekyll/scholar']
+#  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+permalink: /blog/:year/:month/:day/:title
+
+
+scholar:
+  style: _bibliography/mystyle.csl
+#  style: _bibliography/acm-sigchi-proceedings.csl
+#  style: apa 
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography
+#  bibliography: "*.bib"
+  bibliography: confjrnl.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+people: 
+  Thomas: <a href="http://thomasgaertner.org">Thomas</a>
+  ThomasGaertner: <a href="http://thomasgaertner.org">Thomas Gärtner</a>
+  RomanGarnett: <a href="https://www.cse.wustl.edu/~garnett/">Roman Garnett</a>
+  JonathanHirst: <a href="https://www.nottingham.ac.uk/chemistry/people/jonathan.hirst">Jonathan D. Hirst</a>
+  DinoOglic: <a href="https://sites.google.com/site/dinooglic/">Dino Oglic</a>
+  MarioBoley: <a href="https://research.monash.edu/en/persons/mario-boley">Mario Boley</a>
+  KatrinUllrich: Katrin Ullrich
+  JensHumrich: Jens Humrich
+  SebastianBothe: Sebastian Bothe
+  HenrikGrosskreutz: Henrik Grosskreutz
+  UlfBrefeld: <a href="https://www.leuphana.de/en/institutes/iis/personen/ulf-brefeld.html">Ulf Brefeld</a>
+  GemmaGarriga: <a href="https://de.linkedin.com/in/gemmagarriga">Gemma C. Garriga</a>
+  OlanaMissura: <a href="https://scholar.google.com/citations?user=MeeV3BEAAAAJ&hl=en">Olana Missura</a>
+  ThomasMcinally  : <a href="https://www.nottingham.ac.uk/chemistry/people/thomas.mcinally">Thomas Mcinally</a>
+  SimonMacdonald: <a href="https://www.researchgate.net/scientific-contributions/39285281_Simon_J_F_Macdonald">Simon J. F. Macdonald</a>
+  StevenOatley: <a href="http://comp.chem.nottingham.ac.uk/members/oatley.html">Steven A. Oatley</a>
+  JuergenBajorath: <a href="">Jürgen Bajorath</a>
+  ShankarVembu: <a href="https://scholar.google.com/citations?user=CSujHJ0AAAAJ&hl=en">Shankar Vembu</a>
+  TamasHorvath: <a href="https://dblp.org/pers/hd/h/Horv=aacute=th_0001:Tam=aacute=s">Tamás Horváth</a>
+  StefanWrobel: <a href="https://www.iais.fraunhofer.de/en/institute/about-us/institute-management/stefan-wrobel.html">Stefan Wrobel</a>
+  PeterFlach: <a href="http://people.cs.bris.ac.uk/~flach//">Peter A. Flach</a>
+  KurtDriessens: <a href="https://www.maastrichtuniversity.nl/kurt.driessens">Kurt Driessens</a>
+  JanRamon: <a href="http://researchers.lille.inria.fr/jramon/">Jan Ramon</a>
+  DanielPaurat: <a href="https://scholar.google.com/citations?user=s0PkelAAAAAJ&hl=en">Daniel Paurat</a>
+  MichaelKamp: <a href="https://research.monash.edu/en/persons/michael-kamp">Michael Kamp</a>
+  StephaneCanu: <a href="http://asi.insa-rouen.fr/enseignants/~scanu/">Stéphane Canu</a>
+  QuocLe: <a href="https://cs.stanford.edu/~quocle/">Quoc V. Le</a>
+  AlexSmola: <a href="https://alex.smola.org/">Alex J. Smola</a>
+  SVNVishwanathan: <a href="https://www.stat.purdue.edu/~vishy/">S. V. N. Vishwanathan</a>
+  KristianKersting: <a href="https://ml-research.github.io/people/kkersting/index.html">Kristian Kersting</a>
+  TobiasScheffer: <a href="https://www.uni-potsdam.de/cs-ml/staff/contacts/scheffer.html">Tobias Scheffer</a>
+  BertrandPerrat: <a href=https://www.nottingham.ac.uk/business/people/pszbp.html>Bertrand Perrat</a>
+  NicoloNavarin: <a href="https://sites.google.com/view/nicknavarin">Nicolò Navarin</a>
+  GillesGasso: <a href="http://asi.insa-rouen.fr/enseignants/~gasso/">Giles Gasso</a>
+  YaseminAltun: <a href="https://ai.google/research/people/105781">Yasemin Altun</a>
+  ClaudioLucchese: <a href="https://claudio-lucchese.github.io/">Claudio Lucchese</a>
+  MaikeKrause-Trudes: Maike Krause-Trudes
+  JohnLloyd: <a href="http://users.cecs.anu.edu.au/~jwl/">John W. Lloyd</a>
+  TimothyEllersiek: <a href="https://www.geog.uni-heidelberg.de/gis/ellersiek_en.html">Timothy Ellersiek</a>
+
+links:
+  TUWienInformatics: <a href="https://informatics.tuwien.ac.at/">TU Wien Informatics</a>
+  InformaticsTUWien: <a href="https://informatics.tuwien.ac.at/">Computer Science faculty</a> at the <a href="https://www.tuwien.at/en/">TU Wien</a>
+  TUWienML: Maschinelles Lernen
+  TUWienML_en: Machine Learning
+  TUWienMLRU_en: Machine Learning reserach unit
+#  : <a href=""></a>

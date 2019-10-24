@@ -1,0 +1,19 @@
+    <script>
+    var tmp;
+    function dark() {
+         document.getElementById("style").href="{{'/css/dark.css' | prepend: site.url }}" ;
+         sessionStorage.setItem('bg', "dark");
+    }
+    function light() {
+         document.getElementById("style").href="{{'/css/main.css' | prepend: site.url }}";
+         sessionStorage.setItem('bg', "light");
+    }
+    function magic() {
+          if (sessionStorage.getItem('bg') == "dark" ) {
+             dark();
+          } else if(sessionStorage.getItem('bg') == "light" ) {
+             light();
+          }
+    }
+    magic()
+    </script>

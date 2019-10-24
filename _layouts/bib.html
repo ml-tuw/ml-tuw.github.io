@@ -1,0 +1,15 @@
+---
+---
+<div class="text-justify">
+    {{reference}}
+    {% if entry.doi %}
+    [<a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a>]
+    {% endif %}
+    {% if entry.url %}
+    [<a href="{{ entry.url }}">url</a>]
+    {% endif %}
+    {% if entry.video %}
+    [<a href="{{ entry.video }}">video</a>]
+    {% endif %}
+    
+</div>

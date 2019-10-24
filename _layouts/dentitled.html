@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Machine Learning research unit at TU Wien Informatics --- {{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link id="style" rel="stylesheet" type="text/css" href="{{'/css/dark.css' | prepend: site.url }}">
+{% include scripts.html %}
+		</head>
+		<body>
+{% include navbar.html %}
+			<div class="container">
+			<h1>{{ page.title }}</h1>
+			{{ content }}
+			
+			</div><!-- /.container -->
+{% include footer.html %}
+		</body>
+	</html>
+
