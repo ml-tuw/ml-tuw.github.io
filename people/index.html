@@ -16,10 +16,7 @@ Univ.-Prof. DI Dr. rer. nat. {{ site.data.people.ThomasGaertner}}, MSc
   {{ member.title }} 
   {% assign key = member.id %}
   {{ site.data.people[key] }}
-  {{ member.role }} 
-  {% if member.current != nil %}
-    , now {{ member.current }}
-  {% endif %}
+  {{ member.role }}{% if member.current != nil %}, now {{ member.current }}  {% endif %}
  </li>
 {% endfor %}
 </ul>
@@ -33,10 +30,7 @@ Univ.-Prof. DI Dr. rer. nat. {{ site.data.people.ThomasGaertner}}, MSc
   {{ member.title }} 
   {% assign key = member.id %}
   {{ site.data.people[key] }}
-  {{ member.role }} 
-  {% if member.current != nil %}
-    , now {{ member.current }}
-  {% endif %}
+  {{ member.role }}{% if member.current != nil %}, now {{ member.current }}{% endif %}
  </li>
 {% endfor %}
 </ul>
