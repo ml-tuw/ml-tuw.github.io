@@ -2,6 +2,8 @@
 layout: entitled
 title: People
 ---
+<h2>Group Leader</h2>
+Univ.-Prof. DI Dr. rer. nat. {{ site.data.people.ThomasGaertner}}, MSc
 <h2>Group members</h3>
 <h3>TU Wien (from 2019)</h3>
 <b><a href="{{'/hiring_en/' | prepend: site.url }}">We are hiring!!!</a></b>
@@ -9,37 +11,46 @@ title: People
 
 <h3>University of Nottingham (2015--2019)</h3>
 <ul>
-<li>Joseph Redshaw (co-supervised PhD candidate, since 2018)</li>
-<li>Alexe Haywood (co-supervised PhD candidate, since 2018)</li>
-<li>Dr. {{site.people.DinoOglic}} (supervised PhD candidate in Bonn, PDRA in Nottingham, completed '18 with <i>magna cum laude</i>)</li>
-<li>Dr. {{site.people.BertrandPerrat}} (ML PDRA in the Rights Lab)</li>
-<li>Dr. {{site.people.NicoloNavarin}} (ML PDRA in the Rights Lab)</li>
+{% for member in site.data.group.notts %}
+ <li>
+  {{ member.title }} 
+  {% assign key = member.id %}
+  {{ site.data.people[key] }}
+  {{ member.role }} 
+  {% if member.current != nil %}
+    , now {{ member.current }}
+  {% endif %}
+ </li>
+{% endfor %}
 </ul>
 
 
 <h3>University of Bonn / Fraunhofer IAIS (until 2015)<br>
 </h3>
 <ul>
-<li>{{site.people.KatrinUllrich}} (supervised PhD candidate, started writing up)</li>
-<li>Dr. {{site.people.MichaelKamp}} (supervised PhD candidate, completed '19 with <i>magna cum laude</i>)</li>
-<li>Dr. {{site.people.DanielPaurat}} (supervised PhD candidate, completed '17 with <i>magna cum laude</i>)</li>
-<li>Dr. {{site.people.OlanaMissura}} (supervised PhD candidate, completed '15 with <i>magna cum laude</i>)</li>
-<li>Dr. {{site.people.MarioBoley}} (PhD and later PostDoc)</li>
-<li>Dr. {{site.people.TamasHorvath}} (senior scientist)</li>
-<li>Dr. {{site.people.ShankarVembu}} (co-supervised PhD, completed '09 with <i>magna cum laude</i>)</li>
-<li>Dr. {{site.people.MaikeKrause-Trudes}} (PostDoc)</li>
-<li>Prof. Dr. {{site.people.UlfBrefeld}} (PostDoc)</li>
-<li>Prof. Dr. {{site.people.RomanGarnett}} (PostDoc)</li></ul>
+{% for member in site.data.group.bonn %}
+ <li>
+  {{ member.title }} 
+  {% assign key = member.id %}
+  {{ site.data.people[key] }}
+  {{ member.role }} 
+  {% if member.current != nil %}
+    , now {{ member.current }}
+  {% endif %}
+ </li>
+{% endfor %}
+</ul>
+
 <div>
 <h2>Other Co-authors</h2>
 <h3>Former Supervisors</h3>
-<ul><li>Prof. Dr. {{site.people.PeterFlach}}</li>
-<li>Prof. Dr. {{site.people.StefanWrobel}}<br>
+<ul><li>Prof. Dr. {{site.data.people.PeterFlach}}</li>
+<li>Prof. Dr. {{site.data.people.StefanWrobel}}<br>
 </li></ul>
 <h3>Co-supervised graduate students <br>
 </h3>
 <ul>
-<li>{{site.people.TimothyEllersiek}}</li>
+<li>{{site.data.people.TimothyEllersiek}}</li>
 <li>Sebastian Bothe</li>
 <li>Jens Humrich</li>
 <li>Laurentiu Ilici</li>
@@ -50,20 +61,20 @@ title: People
 <h3>Some others<br>
 </h3>
 <ul>
-<li>Emeritus Prof. Dr. {{site.people.JohnLloyd}}</li>
-<li>Prof. Dr. {{site.people.SVNVishwanathan}}</li>
-<li>Prof. Dr. {{site.people.ClaudioLucchese}}</li>
-<li>Prof. Dr. {{site.people.KristianKersting}}</li>
-<li>Prof. Dr. {{site.people.TobiasScheffer}}</li>
-<li>Prof. Dr. {{site.people.JuergenBajorath}}</li>
-<li>Prof. Dr. {{site.people.StephaneCanu}}</li>
-<li>Prof. Dr. {{site.people.GillesGasso}}</li>
-<li>Dr. {{site.people.GemmaGarriga}}</li>
-<li>Dr. {{site.people.KurtDriessens}}</li>
-<li>Dr. {{site.people.YaseminAltun}}</li>
-<li>Dr. {{site.people.AlexSmola}}</li>
-<li>Dr. {{site.people.JanRamon}}</li>
-<li>Dr. {{site.people.QuocLe}}</li>
+<li>Emeritus Prof. Dr. {{site.data.people.JohnLloyd}}</li>
+<li>Prof. Dr. {{site.data.people.SVNVishwanathan}}</li>
+<li>Prof. Dr. {{site.data.people.ClaudioLucchese}}</li>
+<li>Prof. Dr. {{site.data.people.KristianKersting}}</li>
+<li>Prof. Dr. {{site.data.people.TobiasScheffer}}</li>
+<li>Prof. Dr. {{site.data.people.JuergenBajorath}}</li>
+<li>Prof. Dr. {{site.data.people.StephaneCanu}}</li>
+<li>Prof. Dr. {{site.data.people.GillesGasso}}</li>
+<li>Dr. {{site.data.people.GemmaGarriga}}</li>
+<li>Dr. {{site.data.people.KurtDriessens}}</li>
+<li>Dr. {{site.data.people.YaseminAltun}}</li>
+<li>Dr. {{site.data.people.AlexSmola}}</li>
+<li>Dr. {{site.data.people.JanRamon}}</li>
+<li>Dr. {{site.data.people.QuocLe}}</li>
 <li>Dr. Hanna Geppert</li>
 <li>Eyjolfur Gudmondsson</li>
 <li>Karina Zapien Arreola</li>
