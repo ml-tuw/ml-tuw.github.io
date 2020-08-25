@@ -3,10 +3,19 @@ layout: entitled
 title: People
 ---
 <h2>Group Leader</h2>
-Univ.-Prof. DI Dr. rer. nat. {{ site.data.people.ThomasGaertner}}, MSc
+Univ.-Prof. Dr. rer. nat. {{ site.data.people.ThomasGaertner}}
 <h2>Group members</h3>
 <h3>TU Wien (from 2019)</h3>
 <ul>
+{% for member in site.data.group.wien %}
+ <li>
+  {{ member.title }} 
+  {% assign key = member.id %}
+  {{ site.data.people[key] }}
+  {{ member.role }}{% if member.current != nil %}, now {{ member.current }}  {% endif %}
+ </li>
+{% endfor %}
+
 <li><a href="https://informatics.tuwien.ac.at/people/franziska-tiefenthaller">Franziska Tiefenthaller</a> (Administration)</li>
 <li><a href="https://informatics.tuwien.ac.at/people/martina-trauner">Martina Trauner</a> (IT Services)</li>
 </ul>
