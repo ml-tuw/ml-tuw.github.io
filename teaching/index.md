@@ -9,9 +9,10 @@ title: Teaching
 
 ### WS 2020 
 
-- MSc **Seminar** *`Theoretical Aspects of Machine Learning'* (Sem)
-- MSc **Lecture** *`Theoretical Foundations and Research Topics in Machine Learning'* (VU)
-- MSc **Practicals**
+- MSc **Seminar** [*Theoretical Aspects of Machine Learning* (SE)](./ws2021/seminar_msc.html)
+- MSc **Lecture** *Theoretical Foundations and Research Topics in Machine Learning* (VU)
+- MSc **Practicals** *Machine Learning Algorithms and Applications* (PR)
+- BSc **Seminar** [*Scientific Research and Writing* (SE)](./ws2021/seminar_bsc.html)
 
 
 ## Supervision
