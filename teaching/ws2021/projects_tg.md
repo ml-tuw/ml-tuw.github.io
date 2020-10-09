@@ -71,7 +71,7 @@ is to transfer knowledge from similar tasks. In this project we will explore app
 
 This is an interdisciplinary project jointly with the [Institute for Computer Technology (ICT) at TU Wien](https://www.ict.tuwien.ac.at/en/).
 
-**Question**: How well can we predict emotions from raw biosignals (PPG, EDA, temperature, and acceleration) and features (heart rate, respiratory rate, ...) extracted from these signals?
+**Question**: How well can we predict emotions from raw biosignals?
 
 **Approach**: Kernel methods in Krein Space.
 
