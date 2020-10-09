@@ -12,7 +12,7 @@ Once you've chosen a topic, it is very important to narrow down the rough topic 
 
 ## Scalable Interactive Analysis
 
-**Question**: How can constraints be incorporated into meaningful low-dimensional embeddings of data?
+**Question**: How can constraints be incorporated into meaningful low-dimensional embeddings of large data sets?
 
 **Suggested Approach**: Approximate knowledge-constrained PCA via the power method.
 
