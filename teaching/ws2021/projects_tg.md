@@ -3,7 +3,7 @@ layout: entitled
 title: Prof. Thomas Gärtner's Project List
 ---
 
-Below is a list of a few topics I am happy to supervise. Most of the topics can scale 
+Below is a list of a few topics that I am happy to supervise. Most of the topics can scale 
 from an [*algorithms and applications*](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=4515&dsrid=310&courseNr=194101&semester=2020W&locale=en) project all the way to a thesis. Smaller projects can 
 focus on a few aspects while theses should be more extensive and answer a research question. I am happy to supervise other topics as well if you are able to describe the scientific merrit and novelty of the machine learning algorithm/theory sufficiently well. 
 
@@ -14,7 +14,7 @@ Once you've chosen a topic, it is very important to narrow down the rough topic 
 
 **Question**: How can constraints be incorporated into meaningful low-dimensional embeddings of data?
 
-**Suggested Approach**: PCA, power method.
+**Suggested Approach**: Approximate knowledge-constrained PCA via the power method.
 
 **Related Works**:
 -  Dino Oglic, Daniel Paurat, and Thomas Gärtner. Interactive Knowledge-Based Kernel PCA. Proceedings of ECML PKDD, 2014. Springer.
@@ -44,7 +44,7 @@ phages do not infect the cells of animals or humans and can be found widely in t
 
 **Question**: How can we find robust hypotheses that attackers can not easily manipulate?
 
-**Suggested Approach**: Tukey center, Radon points.
+**Suggested Approach**: Approximate Tukey center of hypotheses via iterated Radon points.
 
 **Related Works**:
  - Michael Kamp, Mario Boley, Olana Missura, and Thomas Gärtner. Effective Parallelisation for Machine Learning. Accepted for publication in Advances in Neural Information Processing Systems 30, 2017.
@@ -73,7 +73,7 @@ This is an interdisciplinary project jointly with the [Institute for Computer Te
 
 **Question**: How well can we predict emotions from raw biosignals?
 
-**Suggested Approach**: Kernel methods in Krein Space.
+**Suggested Approach**: Kernel methods in Kreı̆n Space.
 
 **Related Works**: 
  - Dino Oglic and Thomas Gärtner. Learning in Reproducing Kernel Kreı̆n Spaces. In Proceedings of the 35th International Conference on Machine learning, 2018.
