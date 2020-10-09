@@ -5,9 +5,9 @@ title: Prof. Thomas Gärtner's Project List
 
 Below is a list of a few topics that I am happy to supervise. Most of the topics can scale 
 from an [*algorithms and applications*](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=4515&dsrid=310&courseNr=194101&semester=2020W&locale=en) project all the way to a thesis. Smaller projects can 
-focus on a few aspects while theses should be more extensive and answer a research question. I am happy to supervise other topics as well if you are able to describe the scientific merrit and novelty of the machine learning algorithm/theory sufficiently well. 
+focus on a few aspects while theses should be more extensive and answer a research question. I am happy to supervise other topics as well if you are able to describe the scientific merit and novelty of the machine learning algorithm/theory sufficiently well. 
 
-Once you've chosen a topic, it is very important to narrow down the rough topic to a *tentative research question and approach* of interest to us. The research question should not have been answered previously and should involve machine learning algorithms and/or theory. To answer the question, typically one has to implement an algorithm and apply it to some dataset. 
+Once you have chosen a topic, it is very important to narrow down the rough topic to a *tentative research question and approach* of interest to us. The research question should not have been answered previously and should involve machine learning algorithms and/or theory. To answer the question, typically one has to implement an algorithm and apply it to some dataset. 
 
 
 ## Scalable Interactive Analysis
