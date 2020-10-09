@@ -11,7 +11,7 @@ title: Teaching
 
 - MSc **Seminar** [*Theoretical Aspects of Machine Learning* (SE)](./ws2021/seminar_msc.html)
 - MSc **Lecture** *Theoretical Foundations and Research Topics in Machine Learning* (VU)
-- MSc **Practicals** *Machine Learning Algorithms and Applications* (PR) Topics by supervisor: [tg](./ws2021/projects_tg.html) 
+- MSc **Practicals** *Machine Learning Algorithms and Applications* (PR) Topics by supervisor: [tg](./ws2021/projects_tg.html) [jr](./ws2021/projects_jr.html)
 - BSc **Seminar** [*Scientific Research and Writing* (SE)](./ws2021/seminar_bsc.html)
 
 
