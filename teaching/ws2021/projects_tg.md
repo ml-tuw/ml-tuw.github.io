@@ -73,7 +73,7 @@ This is an interdisciplinary project jointly with the [Institute for Computer Te
 
 **Question**: How well can we predict emotions from raw biosignals?
 
-**Approach**: Kernel methods in Krein Space.
+**Suggested Approach**: Kernel methods in Krein Space.
 
 **Related Works**: 
  - Dino Oglic and Thomas Gärtner. Learning in Reproducing Kernel Kreı̆n Spaces. In Proceedings of the 35th International Conference on Machine learning, 2018.
