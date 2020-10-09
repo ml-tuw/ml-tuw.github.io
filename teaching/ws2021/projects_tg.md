@@ -67,7 +67,7 @@ The more (distributed) machine learning algorithms and/or the models learned by 
 In many applications of machine learning one has to start making decisions without having access to lablelled training data specific to the task at hand. One approach in that case 
 is to transfer knowledge from similar tasks. In this project we will explore approaches that jointly embed tasks and hypotheses in the same space to find a good starting hypothesis for a novel (*``orphan''*) task. 
 
-## Extracting emotional status from biosignals
+## Extracting Emotional Status from Biosignals
 
 This is an interdisciplinary project jointly with the [Institute for Computer Technology (ICT) at TU Wien](https://www.ict.tuwien.ac.at/en/).
 
