@@ -15,7 +15,14 @@ title: Teaching
 - BSc **Seminar** [*Scientific Research and Writing* (SE)](./ws2021/seminar_bsc.html)
 
 
+
+
+
+
+
+
+{% comment %} 
 ## Supervision
 
 ### Current
-
+{% endcomment %}
