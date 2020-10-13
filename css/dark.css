@@ -5,7 +5,7 @@
   --otherteal: #205550;
 }
 
-body, p {
+body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     margin: 60px auto;
     width: 70%;
