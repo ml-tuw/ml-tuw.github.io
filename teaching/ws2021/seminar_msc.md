@@ -8,13 +8,13 @@ title: Seminar on Theoretical Aspects of Machine Learning Algorithms
 - Introductory slides: [(pdf)](Master_Seminar_2020_Intro_Slides.pdf)
 - TISS: [(link)](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=4776&dsrid=534&courseNumber=194102&courseSemester=2020W)
 - contact: [Maximilian Thiessen](mailto:maximilian.thiessen@tuwien.ac.at)
+- meeting link: [https://gotomeet.me/maximilianthiessen](https://gotomeet.me/maximilianthiessen)
 
 ## Timeline
-To be announced.
 
 | Date | Deadline |
 |   :-----------   |   ----------:   |
-| 14.10. 17:00 | first Zoom meeting |
+| 14.10. 17:00 | first **[goto](https://gotomeet.me/maximilianthiessen)** meeting  |
 | TBA/Oct | spotlight and abstract |
 | TBA/Nov | bidding |
 | TBA/Dec | progress presentation and draft report |  
@@ -36,14 +36,14 @@ This seminar simulates a machine learning conference, where the students take on
 
 - **What** is the problem?
 - **Why** is it an interesting problem?
-- **How** do you plan to approach the problem?/
+- **How** do you plan to approach the problem? /
 **How** have the authors of your project approached the problem?
 
-Send an email to [Maximilian Thiessen](mailto:maximilian.thiessen@tuwien.ac.at?subject=Seminar%on%Theoretical%Aspects%of%Machine%Learning%Algorithms%(proposal))  with the subject "Seminar on Theoretical Aspects of Machine Learning Algorithms (proposal)", containing your name, the two selected projects and a short description of your projects together with the answers to the questions.
+Send an email to [Maximilian Thiessen](mailto:maximilian.thiessen@tuwien.ac.at?subject=Seminar%on%Theoretical%Aspects%of%Machine%Learning%Algorithms%(proposal))  with the subject "Seminar on Theoretical Aspects of Machine Learning Algorithms (proposal)", containing your name, the two selected projects and a short description of your projects together with the answers to the questions (~3 sentences shoud be sufficient).
 
 We can only accept your own proposals if you can answer the mentioned questions and have a well worked out project idea.
 
-Attend the **mandatory** first Zoom session on 14.10 at 17:00. We will give preferences to students who can already present some details of their projects.
+Attend the **mandatory** first meeting on 14.10 at 17:00 (**[https://gotomeet.me/maximilianthiessen](https://gotomeet.me/maximilianthiessen)**). There you will have a chance to introduce yourself and pitch your projects. We will give preferences to students who can already present some details of their projects.
 
 Roughly two weeks later (deadline will be announced), record a short (~30 seconds) spotlight talk for **both** your topics upload it to [owncloud](https://owncloud.tuwien.ac.at/index.php/s/tfYBXnsRzZEszhH). Please name your files as `yourName_yourTopic`. Also, write an abstract on **both** topics and upload them to [easychair]([easychair.org](https://easychair.org/conferences/submissions?a=25305514)). 
 
