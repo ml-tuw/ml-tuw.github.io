@@ -46,7 +46,7 @@ We can only accept your own proposals if you can answer the mentioned questions 
 Attend the **mandatory** first meeting on 14.10 at 17:00 (**[https://gotomeet.me/maximilianthiessen](https://gotomeet.me/maximilianthiessen)**). There you will have a chance to introduce yourself and pitch your projects. We will give preferences to students who can already present some details of their projects.
 
 Roughly two weeks later (deadline will be announced), record a short (~30 seconds) spotlight talk for **both** your topics upload it to [**TUWEL**](https://tuwel.tuwien.ac.at/course/view.php?id=33805).{% comment %}[owncloud](https://owncloud.tuwien.ac.at/index.php/s/tfYBXnsRzZEszhH). Please name your files as `yourName_yourTopic`.{% endcomment %}
- Also, write an abstract on **both** topics and upload them to [easychair]([easychair.org](https://easychair.org/conferences/submissions?a=25305514)). 
+ Also, write an abstract on **both** topics and upload them to [easychair.org](https://easychair.org/conferences/submissions?a=25305514). 
 
 ### 2. Bidding and assignment phase
 You will also act as reviewers and bid on the projects of your peers you want to review. Based on the biddings, we (in the role as chairs of the conference) will select one of each student's proposals as the actual project you will work on for the rest of this semester. You **do not** need to work on the other project, anymore. Additionally, we will also assign two different projects from other students to you, which you will have to review later in the semester. 
