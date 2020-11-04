@@ -14,12 +14,14 @@ title: Bachelor Seminar Wissenschaftliches Arbeiten
 
 | Date | Deadline |
 |   :-----------   |   ----------:   |
-| 14.10. 16:00 | first **[goto](https://gotomeet.me/maximilianthiessen)** meeting |
-| TBA/Oct | spotlight and abstract |
-| TBA/Nov | bidding |
-| TBA/Dec | progress presentation and draft report |  
-| TBA/Dec | reviewing your peers |
-| TBA/Jan | final presentation and report |
+| 14.10. 17:00 | first **[goto](https://gotomeet.me/maximilianthiessen)** meeting  |
+| 29.10. | spotlight and abstract |
+| 11.11. | bidding |
+| 02.12. 16:00 | progress presentation **[goto](https://gotomeet.me/maximilianthiessen)**|
+| 08.12. | draft report | 
+| 15.12. | reviewing your peers |
+| 20.01. 16:00 | final presentation **[goto](https://gotomeet.me/maximilianthiessen)** |
+| 28.01. | final report |
 
 ## Format
 This seminar simulates a machine learning conference, where the students take on the role of authors and reviewers. It consists of multiple phases.
@@ -45,7 +47,7 @@ We can only accept your own proposals if you can answer the mentioned questions 
 
 Attend the **mandatory** first meeting on 14.10 at 16:00 (**[https://gotomeet.me/maximilianthiessen](https://gotomeet.me/maximilianthiessen)**). There you will have a chance to introduce yourself and pitch your projects. We will give preferences to students who can already present some details of their projects.
 
-Roughly two weeks later (deadline will be announced), record a short (~30 seconds) spotlight talk for **both** your topics upload it to [**TUWEL**](https://tuwel.tuwien.ac.at/course/view.php?id=33808).{% comment %} [owncloud](https://owncloud.tuwien.ac.at/index.php/s/gT8pAnv4bfwA1Nw). Please name your files as `yourName_yourTopic`. {% endcomment %}
+Until 29.10. (AoE), record a short (~30 seconds) spotlight talk for **both** your topics upload it to [**TUWEL**](https://tuwel.tuwien.ac.at/course/view.php?id=33808).{% comment %} [owncloud](https://owncloud.tuwien.ac.at/index.php/s/gT8pAnv4bfwA1Nw). Please name your files as `yourName_yourTopic`. {% endcomment %}
 Also, write an abstract on **both** topics and upload them to [easychair.org](https://easychair.org/conferences/submissions?a=25305515). 
 
 
