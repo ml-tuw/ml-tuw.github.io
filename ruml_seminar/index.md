@@ -18,7 +18,7 @@ title: Research Seminar of the TUW RU Machine Learning
 
 -  [Linara Adilova](https://scholar.google.de/citations?user=Z34FjHgAAAAJ&hl=en) (Fraunhofer IAIS) (27/10/2020, 2pm)
 
--  [Fabio Vitale](http://researchers.lille.inria.fr/vitale/) (Inria Lille – Nord Europe and University of Lille) on ``Fast Clustering through Pairwise Similarity Information'' (29/9/2020, 2pm, [recording](https://transcripts.gotomeeting.com/#/s/61cf9293b391fceca9850bdd6dc80808fffdb3b9db63adafa9f7ff5a92b8dc1e))
+-  [Fabio Vitale](http://researchers.lille.inria.fr/vitale/) (Inria Lille – Nord Europe and University of Lille) on ``Fast Clustering through Pairwise Similarity Information'' (29/9/2020, 2pm)
 
 -  {{ site.data.people.MichaelKamp }} (Monash University, Melbourne) on ``Black-Box Machine Learning'' (1/9/2020, 1pm)
 
