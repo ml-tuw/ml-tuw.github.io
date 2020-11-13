@@ -5,12 +5,13 @@ title: Research Seminar of the TUW RU Machine Learning
 
 ### Location and Date
 
- - Held biweekly at 2pm on Tuesdays in [goto](https://gotomeet.me/ThomasGaertner).
+ - Held roughly biweekly at 2pm on Tuesdays in [goto](https://gotomeet.me/ThomasGaertner).
 
 ### Upcoming Events
 
 - **24/11/2020, 1.30pm**: [Nicolò Navarin](https://sites.google.com/view/nicknavarin/home) (University of Padova) 
 
+- 8/12/20, 2pm: {{ site.data.people.DanielPaurat }} (Telekom) 
 
 ### Past Events
 
