@@ -1,5 +1,5 @@
 ---
-layout: entitled
+layout: dentitled
 title: Research Seminar of the TUW RU Machine Learning
 ---
 
