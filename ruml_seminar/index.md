@@ -11,7 +11,7 @@ title: Research Seminar of the TUW RU Machine Learning
 
 - **24/11/2020, 1.30pm**: [Nicolò Navarin](https://sites.google.com/view/nicknavarin/home) (University of Padova) 
 
-- 8/12/20, 2pm: {{ site.data.people.DanielPaurat }} (Telekom) 
+- 8/12/20, 2pm: {{ site.data.people.DanielPaurat }} (Telekom) --- with Christmas shenanigans?
 
 ### Past Events
 
