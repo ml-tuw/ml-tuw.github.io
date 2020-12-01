@@ -13,14 +13,14 @@ title: Seminar on Theoretical Aspects of Machine Learning Algorithms
 ## Timeline
 
 | Date | Deadline |
-|   :-----------   |   ----------:   |
+|   :-----------   |   :----------   |
 | 14.10. 17:00 | first **[goto](https://gotomeet.me/maximilianthiessen)** meeting  |
 | 29.10. | spotlight and abstract |
 | 11.11. | bidding |
-| 03.12. 16:00 | progress presentation **[goto](https://gotomeet.me/maximilianthiessen)**|
+| 03.12. 14:00 | progress presentation **[goto](https://gotomeet.me/maximilianthiessen)**|
 | 08.12. | draft report | 
 | 15.12. | reviewing your peers |
-| 19.01. 16:00 | final presentation **[goto](https://gotomeet.me/maximilianthiessen)** |
+| 19.01. 14:00 | final presentation **[goto](https://gotomeet.me/maximilianthiessen)** |
 | 28.01. | final report |
 
 ## Format
