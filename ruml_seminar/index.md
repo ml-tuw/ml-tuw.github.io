@@ -9,11 +9,13 @@ title: Research Seminar of the TUW RU Machine Learning
 
 ### Upcoming Events
 
-- **24/11/2020, 1.30pm: [Nicolò Navarin](https://sites.google.com/view/nicknavarin/home) (University of Padova)**
 
-- 8/12/20, 2pm: {{ site.data.people.DanielPaurat }} (Telekom) --- with Christmas shenanigans?
+- March 2021: {{ site.data.people.DanielPaurat }} (Telekom) 
+- April 2021: {{ site.data.people.MarioBoley}} (Monash) 
 
 ### Past Events
+
+- [Nicolò Navarin](https://sites.google.com/view/nicknavarin/home) (University of Padova) ``Learning effective representations with Graph Neural Networks'' (24/11/2020, 1.30pm)
 
 -  {{ site.data.people.DinoOglic }} (King's College London) on ``Parznets -- Deep CNNs for Waveform-based Speech Recognition '' (10/11/2020, 2pm)
 
