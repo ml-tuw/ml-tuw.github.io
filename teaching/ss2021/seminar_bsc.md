@@ -10,6 +10,9 @@ title: Bachelor Seminar Wissenschaftliches Arbeiten
 - contact: [Maximilian Thiessen](mailto:maximilian.thiessen@tuwien.ac.at)
 - meeting link: [https://gotomeet.me/maximilianthiessen](https://gotomeet.me/maximilianthiessen)
 
+{% comment %} 
+
+
 ## Timeline
 
 | Date | Deadline |
@@ -22,6 +25,7 @@ title: Bachelor Seminar Wissenschaftliches Arbeiten
 | 15.12. | reviewing your peers |
 | 20.01. 16:00 | final presentation **[goto](https://gotomeet.me/maximilianthiessen)** |
 | 28.01. | final report |
+{% endcomment %}
 
 ## Format
 This seminar simulates a machine learning conference, where the students take on the role of authors and reviewers. It consists of multiple phases.
