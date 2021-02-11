@@ -78,7 +78,7 @@ Give a final presentation and submit your report.
 - Mining of massive datasets. Jure Leskovec, Anand Rajaraman, and Jeffrey D. Ullman [(pdf)](http://infolab.stanford.edu/~ullman/mmds/book0n.pdf)
 - Reinforcement learning: an introduction. Richard Sutton and Andrew Barto [(pdf)](http://incompleteideas.net/book/the-book.html)
 
-## Topics
+## Topics (Tentative)
 You should have access to the literature and papers through Google scholar, DBLP, the provided links, or the TU library.
 
 ### Submodular optimisation
