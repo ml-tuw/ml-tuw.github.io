@@ -10,7 +10,7 @@ title: Research Seminar of the TUW RU Machine Learning
 ### Upcoming Events
 
 
-- March 2021: {{ site.data.people.DanielPaurat }} (Telekom) 
+- **3/3/2021: {{ site.data.people.DanielPaurat }} (Telekom)**
 - April 2021: {{ site.data.people.MarioBoley}} (Monash) 
 
 ### Past Events
@@ -20,6 +20,8 @@ title: Research Seminar of the TUW RU Machine Learning
 -  {{ site.data.people.DinoOglic }} (King's College London) on ``Parznets -- Deep CNNs for Waveform-based Speech Recognition '' (10/11/2020, 2pm)
 
 -  [Linara Adilova](https://scholar.google.de/citations?user=Z34FjHgAAAAJ&hl=en) (Fraunhofer IAIS) (27/10/2020, 2pm)
+
+- [Florian Seiffarth](https://mlai.cs.uni-bonn.de/people/florian-seiffarth) (University of Bonn) ``Learning  with Closure Spaces'' (13/10/2020)
 
 -  [Fabio Vitale](http://researchers.lille.inria.fr/vitale/) (Inria Lille – Nord Europe and University of Lille) on ``Fast Clustering through Pairwise Similarity Information'' (29/9/2020, 2pm)
 
