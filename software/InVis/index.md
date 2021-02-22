@@ -3,32 +3,29 @@ layout: entitled
 title: Interactive Visualisation with InVis
 ---
 
-## Papers
+### Papers
 
 Please have a look at and cite:
  - Dino Oglic, Daniel Paurat, and Thomas Gärtner. **Interactive Knowledge-Based Kernel PCA**. _Proceedings of ECML PKDD 2014_.
 
  - Daniel Paurat and Thomas Gärtner. **InVis: A Tool for Interactive Visual Data Analysis**. _Proceedings of ECML PKDD 2013_. 
  
-## Using it
+### Using it
  
-### Download
+#### Download
     wget {{site.url}}{{page.url}}InVis_v1.tar.bz2
     tar xfj InVis_v1.tar.bz2
     
-### Install
-    
-
-#### With Conda
+#### Install with Conda
     cd InVis
     conda create --name invis --file spec-file.txt 
 
-### Run
+#### Run
     conda activate invis
     python Main.py 
     
-### Help
+#### Help
 
-See the [manual]({{site.url}}{{page.url}}manual.pdf),
+Watch the [demo](https://drive.google.com/file/d/1EYubxd6CxgXlmYsKJNii5ryPX8OWlMvj/view?usp=sharing) and see the [manual]({{site.url}}{{page.url}}manual.pdf).
 
 
