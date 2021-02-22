@@ -26,6 +26,6 @@ Please have a look at and cite:
     
 #### Help
 
-Watch the [demo](https://drive.google.com/file/d/1EYubxd6CxgXlmYsKJNii5ryPX8OWlMvj/view?usp=sharing) and see the [manual]({{site.url}}{{page.url}}manual.pdf).
+Watch the [demo](https://drive.google.com/file/d/1EYubxd6CxgXlmYsKJNii5ryPX8OWlMvj/view?usp=sharing) and read the [manual]({{site.url}}{{page.url}}manual.pdf).
 
 
