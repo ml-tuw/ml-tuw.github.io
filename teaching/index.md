@@ -9,11 +9,11 @@ title: Teaching
    - Example Topics: **[mt1]({{ page.dir }}ss2021/ana_projects/graph_active_learning.html) [mt2]({{ page.dir }}ss2021/ana_projects/convexity_real_world_graphs.html) [tg]({{ page.dir }}ss2021/projects_tg/)**
 {% endcomment %}
 
-## Courses 
 
 ### SoSe 2021 
 
 - MSc **Lecture** [*Theoretical Foundations and Research Topics in Machine Learning* (VU)](./ss2021/tfrtML.html)
+
 - MSc **Seminar** [*Theoretical Aspects of Machine Learning* (SE)](./ss2021/seminar_msc.html)
 - MSc **Project** *Machine Learning Theory* (PR) 
 {% include liq_filter.md term="sose21" projs="theo_projects" %}
@@ -21,6 +21,13 @@ title: Teaching
 {% include liq_filter.md term="sose21" projs="ana_projects" %}
 - BSc **Seminar** [*Scientific Research and Writing* (SE)](./ss2021/seminar_bsc.html)
 
+### Supervision
+
+ - Maximilian Holzmüller *Procedural Level Generation for Video Games* (BSc Thesis)
+
+
+
+## Previously
 
 ### WiSe 2020/21 
 
@@ -37,10 +44,8 @@ title: Teaching
 
 
 
-## Supervision
 
- - Maximilian Holzmüller *Procedural Level Generation for Video Games* (BSc Thesis)
-
+ 
 {% comment %} 
 
 ### Current
