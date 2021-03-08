@@ -43,6 +43,11 @@ plugins: ['jekyll/scholar']
 permalink: /blog/:year/:month/:day/:title
 
 
+collections:
+  sose21theo:
+    output: true
+
+
 scholar:
   style: _bibliography/mystyle.csl
 #  style: _bibliography/acm-sigchi-proceedings.csl

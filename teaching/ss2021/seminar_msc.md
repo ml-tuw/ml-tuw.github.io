@@ -82,7 +82,7 @@ You should have access to the literature and papers through Google scholar, DBLP
 Overview:   
 * chapter 1-3 of "Learning with submodular functions: a convex optimization perspective" by Francis Bach, 2013.
 * introduction to submodularity in machine learning: Stefanie Jegelka - MLSS 2017   
-https://www.youtube.com/watch?v=umA8QzY5C54
+[(youtube-link)](https://www.youtube.com/watch?v=umA8QzY5C54)
 
 Papers and projects:
 
