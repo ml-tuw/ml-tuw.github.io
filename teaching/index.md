@@ -13,8 +13,8 @@ title: Teaching
 ### SoSe 2021 
 
 <ul>
-<li> MSc <b>Lecture</b> <a href="./sose2021/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li>MSc <b>Seminar</b> <a href="./sose2021/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
+<li> MSc <b>Lecture</b> <a href="./sose21/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li>MSc <b>Seminar</b> <a href="./sose21/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
 </li>
 
 <li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
@@ -28,7 +28,7 @@ To answer the question, typically one has conduct a mathematical proof.
 {% include liq_filter.html term="sose21" projs="ana_projects" %}
 For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to implement some machine learning algorithms and apply them to dataset or implement an interesting application that uses machine learning.
 </li>
-<li> BSc <b>Seminar</b> <a href="./sose2021/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+<li> BSc <b>Seminar</b> <a href="./sose21/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
 ### Supervision
