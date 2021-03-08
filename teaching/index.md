@@ -12,14 +12,19 @@ title: Teaching
 
 ### SoSe 2021 
 
-- MSc **Lecture** [*Theoretical Foundations and Research Topics in Machine Learning* (VU)](./ss2021/tfrtML.html)
+<ul>
+<li> MSc <b>Lecture</b> <a href="./ss2021/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning* (VU)</i></a></li>
+<li>MSc <b>Seminar</b> <a href="./ss2021/seminar_msc.html"><i>Theoretical Aspects of Machine Learning* (SE)</i></a> 
+</li>
 
-- MSc **Seminar** [*Theoretical Aspects of Machine Learning* (SE)](./ss2021/seminar_msc.html)
-- MSc **Project** *Machine Learning Theory* (PR) 
-{% include liq_filter.md term="sose21" projs="theo_projects" %}
-- MSc **Project** *Machine Learning Algorithms and Applications* (PR) 
-{% include liq_filter.md term="sose21" projs="ana_projects" %}
-- BSc **Seminar** [*Scientific Research and Writing* (SE)](./ss2021/seminar_bsc.html)
+<li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
+{% include liq_filter.html term="sose21" projs="theo_projects" %}
+</li>
+<li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i>
+{% include liq_filter.html term="sose21" projs="ana_projects" %}
+</li>
+<li> BSc <b>Seminar</b> <a href="./ss2021/seminar_bsc.html"><i>Scientific Research and Writing* (SE)</i></a></li>
+</ul>
 
 ### Supervision
 

@@ -1,0 +1,12 @@
+<ul>
+{% for p in site.pages %}
+{% if p.url contains include.term and p.url contains include.projs %}
+    <li> <a href="{{p.url}}">{{p.title}}</a></li>
+{% endif %}
+{% endfor %}
+{% for p in site.static_files %}
+{% if p.path contains include.term and p.path contains include.projs %}
+    <li> <a href="{{p.path}}">{{p.name}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
