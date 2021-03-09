@@ -1,0 +1,3 @@
+cat people.yml | sed -e "s/\"//g" | sed -e "s/<a href=//g" | sed -e "s/<\/a>//g" | sed -e "s/>/,/g" | grep http | sed -e "s/: h/:\n    link: h/g" | sed -e "s/,/\n    name: /g" > tmp_people_with_links.yml
+cat people.yml | grep -v "a href" | sed -e "s/:/:\n    name:/g" > tmp_people_without_links.yml
+cat tmp_people_with_links.yml tmp_people_without_links.yml > tmp_peoplenl.yml

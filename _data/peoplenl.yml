@@ -25,7 +25,7 @@
   OlanaMissura:
     link: https://scholar.google.com/citations?user=MeeV3BEAAAAJ&hl=en
     name: Olana Missura
-  ThomasMcinally  :
+  ThomasMcinally:
     link: https://www.nottingham.ac.uk/chemistry/people/thomas.mcinally
     name: Thomas Mcinally
   SimonMacdonald:
@@ -121,3 +121,9 @@
     name: David Penz
   AnnaSepliarskaia:
     name: Dr. Anna Sepliarskaia
+  FranziskaTiefenthaller:
+    name: Franziska Tiefenthaller
+    link: https://informatics.tuwien.ac.at/people/franziska-tiefenthaller
+  MartinaTrauner:
+    name: Martina Trauner
+    link: https://informatics.tuwien.ac.at/people/martina-trauner

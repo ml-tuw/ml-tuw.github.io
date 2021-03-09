@@ -3,7 +3,7 @@ layout: entitled
 title: People
 ---
 <h2>Group Leader</h2>
-Univ.-Prof. Dr. rer. nat. {{ site.data.people.ThomasGaertner}}
+Univ.-Prof. Dr. rer. nat. {% include linked_name.html id="ThomasGaertner" %}
 <h2>Group members</h3>
 <h3>TU Wien (from 2019)</h3>
 <ul>
@@ -11,13 +11,13 @@ Univ.-Prof. Dr. rer. nat. {{ site.data.people.ThomasGaertner}}
  <li>
   {{ member.title }} 
   {% assign key = member.id %}
-  {{ site.data.people[key] }}
+  {% include linked_name.html id=key %}
   {{ member.role }}{% if member.current != nil %}, now {{ member.current }}  {% endif %}
  </li>
 {% endfor %}
 
-<li><a href="https://informatics.tuwien.ac.at/people/franziska-tiefenthaller">Franziska Tiefenthaller</a> (Administration)</li>
-<li><a href="https://informatics.tuwien.ac.at/people/martina-trauner">Martina Trauner</a> (IT Services)</li>
+<li>{% include linked_name.html id="FranziskaTiefenthaller" %} (Administration)</li>
+<li>{% include linked_name.html id="MartinaTrauner" %} (IT Services)</li>
 </ul>
 <b><a href="{{'/hiring_en/' | prepend: site.url }}">We are hiring!!!</a></b>
 <br>
@@ -28,7 +28,7 @@ Univ.-Prof. Dr. rer. nat. {{ site.data.people.ThomasGaertner}}
  <li>
   {{ member.title }} 
   {% assign key = member.id %}
-  {{ site.data.people[key] }}
+  {% include linked_name.html id=key %}
   {{ member.role }}{% if member.current != nil %}, now {{ member.current }}  {% endif %}
  </li>
 {% endfor %}
@@ -42,7 +42,7 @@ Univ.-Prof. Dr. rer. nat. {{ site.data.people.ThomasGaertner}}
  <li>
   {{ member.title }} 
   {% assign key = member.id %}
-  {{ site.data.people[key] }}
+  {% include linked_name.html id=key %}
   {{ member.role }}{% if member.current != nil %}, now {{ member.current }}{% endif %}
  </li>
 {% endfor %}
@@ -51,13 +51,13 @@ Univ.-Prof. Dr. rer. nat. {{ site.data.people.ThomasGaertner}}
 <div>
 <h2>Other Co-authors</h2>
 <h3>Former Supervisors</h3>
-<ul><li>Prof. Dr. {{site.data.people.PeterFlach}} (University of Bristol)</li>
-<li>Prof. Dr. {{site.data.people.StefanWrobel}} (University of Bonn and Fraunhofer IAIS)<br>
+<ul><li>Prof. Dr. {% include linked_name.html id="PeterFlach"%} (University of Bristol)</li>
+<li>Prof. Dr. {% include linked_name.html id="StefanWrobel"%} (University of Bonn and Fraunhofer IAIS)<br>
 </li></ul>
 <h3>Co-supervised graduate students <br>
 </h3>
 <ul>
-<li>{{site.data.people.TimothyEllersiek}}</li>
+<li>{% include linked_name.html id="TimothyEllersiek"%}</li>
 <li>Sebastian Bothe</li>
 <li>Jens Humrich</li>
 <li>Laurentiu Ilici</li>
@@ -68,23 +68,23 @@ Univ.-Prof. Dr. rer. nat. {{ site.data.people.ThomasGaertner}}
 <h3>National and International Collaborators<br>
 </h3>
 <ul>
-<li>Dr. {{site.data.people.GemmaGarriga}} (Global Head of AI &amp; Advanced Business Analytics at Allianz, cf <a href="https://www.handelsblatt.com/unternehmen/it-medien/koepfe-der-kuenstlichen-intelligenz-8-eine-spanierin-will-den-allianz-konzern-radikal-vereinfachen/23110488.html">Handelsblatt</a>)</li>
+<li>Dr. {% include linked_name.html id="GemmaGarriga"%} (Global Head of AI &amp; Advanced Business Analytics at Allianz, cf <a href="https://www.handelsblatt.com/unternehmen/it-medien/koepfe-der-kuenstlichen-intelligenz-8-eine-spanierin-will-den-allianz-konzern-radikal-vereinfachen/23110488.html">Handelsblatt</a>)</li>
 <li>Dr. Eyjolfur Gudmondsson (president of the University of Akureyri, cf <a href="https://web.uri.edu/quadangles/the-virtual-economist/">The Virtual Economist</a>)</li>
-<li>Dr. {{site.data.people.AlexSmola}} (Director for Machine Learning at Amazon Web Services)</li>
-<li>Prof. Dr. {{site.data.people.SVNVishwanathan}} (University of California, Santa Cruz)</li>
-<li>Emeritus Prof. Dr. {{site.data.people.JohnLloyd}} (Australian National University)</li>
-<li>Prof. Dr. {{site.data.people.ClaudioLucchese}} (Ca’ Foscari University of Venice)</li>
-<li>Prof. Dr. {{site.data.people.TobiasScheffer}} (University of Potsdam)</li>
-<li>Prof. Dr. {{site.data.people.KurtDriessens}} (Maastricht University)</li>
-<li>Prof. Dr. {{site.data.people.JuergenBajorath}} (University of Bonn)</li>
-<li>Prof. Dr. {{site.data.people.KristianKersting}} (TU Darmstadt)</li>
-<li>Prof. Dr. {{site.data.people.StephaneCanu}} (INSA of Rouen)</li>
+<li>Dr. {% include linked_name.html id="AlexSmola"%} (Director for Machine Learning at Amazon Web Services)</li>
+<li>Prof. Dr. {% include linked_name.html id="SVNVishwanathan"%} (University of California, Santa Cruz)</li>
+<li>Emeritus Prof. Dr. {% include linked_name.html id="JohnLloyd"%} (Australian National University)</li>
+<li>Prof. Dr. {% include linked_name.html id="ClaudioLucchese"%} (Ca’ Foscari University of Venice)</li>
+<li>Prof. Dr. {% include linked_name.html id="TobiasScheffer"%} (University of Potsdam)</li>
+<li>Prof. Dr. {% include linked_name.html id="KurtDriessens"%} (Maastricht University)</li>
+<li>Prof. Dr. {% include linked_name.html id="JuergenBajorath"%} (University of Bonn)</li>
+<li>Prof. Dr. {% include linked_name.html id="KristianKersting"%} (TU Darmstadt)</li>
+<li>Prof. Dr. {% include linked_name.html id="StephaneCanu"%} (INSA of Rouen)</li>
 <li>Dr. Hanna Geppert (Fraunhofer FKIE)</li>
-<li>Prof. Dr. {{site.data.people.GillesGasso}} (INSA of Rouen)</li>
-<li>Dr. {{site.data.people.JanRamon}} (INRIA Lille)</li>
-<li>Dr. {{site.data.people.YaseminAltun}} (Google)</li>
+<li>Prof. Dr. {% include linked_name.html id="GillesGasso"%} (INSA of Rouen)</li>
+<li>Dr. {% include linked_name.html id="JanRamon"%} (INRIA Lille)</li>
+<li>Dr. {% include linked_name.html id="YaseminAltun"%} (Google)</li>
 <li>Dr. Karina Zapien Arreola</li>
-<li>Dr. {{site.data.people.QuocLe}} (Google)</li>
+<li>Dr. {% include linked_name.html id="QuocLe"%} (Google)</li>
 <li>Dr. Henrik Grosskreutz</li>
 <li>Dr. Dagmar Stumpfe</li>
 <li>Dr. Adam Kowalczyk</li>
