@@ -10,13 +10,14 @@ title: Research Seminar of the TUW RU Machine Learning
 ### Upcoming Events
 
 
-- **2/3/2021: {{ site.data.people.DanielPaurat }} (Telekom) ``Machine Learning @ Telekom''**
 
-- 16/3/2021: [Gavin Smith](http://www.cs.nott.ac.uk/~pszgss/) ``Model Class Reliance for Random Forests''
+- **16/3/2021: [Gavin Smith](http://www.cs.nott.ac.uk/~pszgss/) ``Model Class Reliance for Random Forests''**
 
 - April 2021: {{ site.data.people.MarioBoley}} (Monash), [Pascal Welke](https://mlai.cs.uni-bonn.de/people/pascal-welke)  (University of Bonn)
 
 ### Past Events
+
+- {{ site.data.people.DanielPaurat }} (Telekom) ``Machine Learning @ Telekom'' (2/3/2021, 2pm)
 
 - [Nicolò Navarin](https://sites.google.com/view/nicknavarin/home) (University of Padova) ``Learning effective representations with Graph Neural Networks'' (24/11/2020, 1.30pm)
 
