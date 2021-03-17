@@ -32,7 +32,7 @@ This seminar simulates a machine learning conference, where the students take on
 
 ### 1. Proposal phase
 
-Attend the **mandatory** first meeting on 16.03, 16:00 (**date to be confirmed, [https://gotomeet.me/maximilianthiessen](https://gotomeet.me/maximilianthiessen)**).
+Attend the **mandatory** first meeting on 24.03, 14:00 (**[https://gotomeet.me/maximilianthiessen](https://gotomeet.me/maximilianthiessen)**).
 
 #### Option 1: our suggestions
  > You select **two** projects/papers (i.e. two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the project-specific resources.   
