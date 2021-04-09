@@ -5,17 +5,19 @@ title: Research Seminar of the TUW RU Machine Learning
 
 ### Location and Date
 
- - Held roughly biweekly at 2pm on Tuesdays in [goto](https://gotomeet.me/ThomasGaertner).
+ - Held roughly biweekly at 2pm (CEST) on Tuesdays in [goto](https://gotomeet.me/ThomasGaertner).
 
 ### Upcoming Events
 
+- **13/4/2021 [Antoine Ledent](https://ml.informatik.uni-kl.de/people/antoine-ledent.html) (TU Kaiserslautern) _Orthogonal Inductive Matrix Completion_**
 
+- 20/4/2021 **11am** {{ site.data.people.MarioBoley}} (Monash) _TBC: Better Short Than Greedy: Interpretable Models Through Optimal Rule Boosting _
 
-- **16/3/2021: [Gavin Smith](http://www.cs.nott.ac.uk/~pszgss/) ``Model Class Reliance for Random Forests''**
-
-- April 2021: {{ site.data.people.MarioBoley}} (Monash), [Pascal Welke](https://mlai.cs.uni-bonn.de/people/pascal-welke)  (University of Bonn)
+- TBA [Pascal Welke](https://mlai.cs.uni-bonn.de/people/pascal-welke)  (University of Bonn) _TBA_
 
 ### Past Events
+
+- [Gavin Smith](http://www.cs.nott.ac.uk/~pszgss/) (University of Nottingham) ``Model Class Reliance for Random Forests'' (16/3/2021, 2pm)
 
 - {{ site.data.people.DanielPaurat }} (Telekom) ``Machine Learning @ Telekom'' (2/3/2021, 2pm)
 
