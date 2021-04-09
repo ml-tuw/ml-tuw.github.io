@@ -11,7 +11,7 @@ title: Research Seminar of the TUW RU Machine Learning
 
 - **13/4/2021 [Antoine Ledent](https://ml.informatik.uni-kl.de/people/antoine-ledent.html) (TU Kaiserslautern) _Orthogonal Inductive Matrix Completion_**
 
-- 20/4/2021 **11am** {{ site.data.people.MarioBoley}} (Monash) _TBC: Better Short Than Greedy: Interpretable Models Through Optimal Rule Boosting _
+- 20/4/2021 **11am** {{ site.data.people.MarioBoley}} (Monash) _TBC: Better Short Than Greedy: Interpretable Models Through Optimal Rule Boosting_
 
 - TBA [Pascal Welke](https://mlai.cs.uni-bonn.de/people/pascal-welke)  (University of Bonn) _TBA_
 
