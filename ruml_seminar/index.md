@@ -9,13 +9,14 @@ title: Research Seminar of the TUW RU Machine Learning
 
 ### Upcoming Events
 
-- **13/4/2021 [Antoine Ledent](https://ml.informatik.uni-kl.de/people/antoine-ledent.html) (TU Kaiserslautern) _Orthogonal Inductive Matrix Completion_**
 
-- 20/4/2021 **11am** {{ site.data.people.MarioBoley}} (Monash) _TBC: Better Short Than Greedy: Interpretable Models Through Optimal Rule Boosting_
+- 20/4/2021 **11am** {{ site.data.people.MarioBoley}} (Monash) _Better Short Than Greedy: Interpretable Models Through Optimal Rule Boosting_
 
-- TBA [Pascal Welke](https://mlai.cs.uni-bonn.de/people/pascal-welke)  (University of Bonn) _TBA_
+- 27/4/2021 [Pascal Welke](https://mlai.cs.uni-bonn.de/people/pascal-welke)  (University of Bonn) _Efficient Graph Similarity Learning_
 
 ### Past Events
+
+- [Antoine Ledent](https://ml.informatik.uni-kl.de/people/antoine-ledent.html) (TU Kaiserslautern) _Orthogonal Inductive Matrix Completion_ (13/4/2021, 2pm)
 
 - [Gavin Smith](http://www.cs.nott.ac.uk/~pszgss/) (University of Nottingham) ``Model Class Reliance for Random Forests'' (16/3/2021, 2pm)
 
