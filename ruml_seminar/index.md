@@ -12,6 +12,8 @@ title: Research Seminar of the TUW RU Machine Learning
 
 - 8/6/2021 {{ site.data.people.KatrinUllrich}} (Fraunhofer IWU) _Binding Affinity Prediction - Multi-View Regression in Three Different  Learning Scenarios_
 
+- 22/6/2021 [Sebastian Mair](https://www.leuphana.de/en/institutes/iis/persons/sebastian-mair.html) (Leu­pha­na Uni­ver­sität Lüne­burg) _Computing Efficient Data Summaries_
+
 ### Past Events
 
 - [Pascal Welke](https://mlai.cs.uni-bonn.de/people/pascal-welke)  (University of Bonn) _Efficient Graph Similarity Learning_ (27/4/2021, 2pm)
