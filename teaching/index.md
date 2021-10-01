@@ -19,13 +19,13 @@ title: Teaching
 
 <li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
 <br>We are happy to supervise machine learning theory projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="sose21" projs="theo_projects" %}
+{% include liq_filter.html term="ws2022" projs="theo_projects" %}
 For other topics you will need to describe the scientific merit and novelty on the machine learning side. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable.
 To answer the question, typically one has conduct a mathematical proof.
 </li>
 <li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i>
 <br>We are happy to supervise machine learning algorithm and application related projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="sose21" projs="ana_projects" %}
+{% include liq_filter.html term="ws2022" projs="ana_projects" %}
 For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to implement some machine learning algorithms and apply them to dataset or implement an interesting application that uses machine learning.
 </li>
 <li> BSc <b>Seminar</b> <a href="./ws2022/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
