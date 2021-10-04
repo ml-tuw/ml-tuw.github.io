@@ -50,7 +50,9 @@ We can only accept your own proposals if you can answer the mentioned questions 
 - **How** do you plan to approach the problem? /
 **How** have the authors of your project approached the problem?
 ​
-Record a short (~30 seconds) spotlight talk for **both** your topics upload it to [owncloud](https://owncloud.tuwien.ac.at/index.php/s/gT8pAnv4bfwA1Nw). Please name your files as `yourName_yourTopic`. Also, write an abstract on **both** topics and upload them to [easychair.org](https://easychair.org/conferences/submissions?a=27296932). 
+Select projects and write a short description of them together with the answers to the questions (~3 sentences shoud be sufficient) in **TUWEL**.
+
+We can only accept your own proposals if you can answer the mentioned questions and have a well worked out project idea.
 
 ### 2. Bidding and assignment phase
 You and your fellow students will act as reviewers and bid on the projects of your peers you want to review. Based on the biddings, we (in the role as chairs of the conference) will select one of each student's proposals as the actual project you will work on for the rest of this semester. You **do not** need to work on the other project, anymore. Additionally, we will also assign two different projects from other students to you, which you will have to review later in the semester. 
@@ -77,151 +79,160 @@ Give a final presentation and submit your report.
 - Reinforcement learning: an introduction. Richard Sutton and Andrew Barto [(pdf)](http://incompleteideas.net/book/the-book.html)
 - Deep learning and neural networks. Ian Goodfellow and Yoshua Bengio and Aaron Courville [(pdf)](https://www.deeplearningbook.org/)
 
-{% comment %} 
 ## Topics (Tentative)
 You should have access to the literature and papers through Google scholar, DBLP, the provided links, or the TU library. Feel free to watch the linked talks to get an overview on the topics.
 
-
 <details>
   <summary><b>Kernels</b> (click to expand)</summary>
-Overview:   
+<p>Overview:</p>
+<ul>
+<li>preface and introduction up to section 1.5 of "Learning with kernels" by Bernhard Schölkopf and Alex Smola, 2002 <a href="http://agbs.kyb.tuebingen.mpg.de/lwk/">(pdf)</a>.</li>
+<li>introduction to kernels: Bernhard Schölkopf - MLSS 2013 <a href="https://www.youtube.com/watch?v=uzWgB1VO9xQ">(youtube-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>support vector machines (Bennett and Campbell. "Support vector machines: hype or hallelujah?." ACM SIGKDD 2000)</li>
+<li>one class support vector machine (Khan and Madden. "A survey of recent trends in one class classification." Irish conference on artificial intelligence and cognitive science 2009)</li>
+<li>string kernels (Lodhi, et al. "Text classification using string kernels." Journal of machine learning research 2002)</li>
+<li>kernels for distances (Schölkopf. "The kernel trick for distances." NIPS 2001)</li>
+</ul>
 
-* preface and introduction up to section 1.5 of "Learning with kernels" by Bernhard Schölkopf and Alex Smola, 2002 [(pdf)](http://agbs.kyb.tuebingen.mpg.de/lwk/).
- * introduction to kernels: Bernhard Schölkopf - MLSS 2013 [(youtube-link)](https://www.youtube.com/watch?v=uzWgB1VO9xQ)
-
-Papers and projects:
- - support vector machines (Bennett and Campbell. "Support vector machines: hype or hallelujah?." ACM SIGKDD 2000)
- - one class support vector machine (Khan and Madden. "A survey of recent trends in one class classification." Irish conference on artificial intelligence and cognitive science 2009)
- - string kernels (Lodhi, et al. "Text classification using string kernels." Journal of machine learning research 2002)
- - kernels for distances (Schölkopf. "The kernel trick for distances." NIPS 2001)
 </details>
 
 
 <details>
   <summary><b>Online learning</b> (click to expand)</summary>
-Overview:  
+<p>Overview:</p>
+<ul>
+<li>chapter 1 of "A modern introduction to online learning" by Francesco Orabona, 2020.</li>
+<li>introduction to online learning (iterative learning / streaming settings): Nicolò Cesa-Bianchi - Mediterranean Machine Learning school 2021 <a href="https://www.youtube.com/watch?v=M6DNMESf5Xk">(youtube-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>online (sub-)gradient descent (chapter 2 of "A modern introduction to online learning", Francesco Orabona, 2020)</li>
+<li>stochastic bandits (introduction and chapter 1 of "Introduction to multi-armed bandits", Aleksandrs Slivkins, 2019)</li>
+<li>online learning with expert advice (introduction and chapter 5 of "Introduction to multi-armed bandits", Aleksandrs Slivkins, 2019)</li>
+<li>adversarial bandits (introduction and chapter 6 of "Introduction to multi-armed bandits", Aleksandrs Slivkins, 2019)</li>
+<li>learning directed cuts (Gärtner and  Garriga. "The cost of learning directed cuts." ECML 2007)</li>
+<li>predicting dynamic difficulty (Missura and Gärtner. "Predicting dynamic difficulty." NIPS 2011)</li>
+</ul>
 
-* chapter 1 of "A modern introduction to online learning" by Francesco Orabona, 2020.
-* introduction to online learning (iterative learning / streaming settings): Nicolò Cesa-Bianchi - Mediterranean Machine Learning school 2021 [(youtube-link)](https://www.youtube.com/watch?v=M6DNMESf5Xk)
-
-Papers and projects:
- - online (sub-)gradient descent (chapter 2 of "A modern introduction to online learning", Francesco Orabona, 2020)
- - stochastic bandits (introduction and chapter 1 of "Introduction to multi-armed bandits", Aleksandrs Slivkins, 2019)
- - online learning with expert advice (introduction and chapter 5 of "Introduction to multi-armed bandits", Aleksandrs Slivkins, 2019)
- - adversarial bandits (introduction and chapter 6 of "Introduction to multi-armed bandits", Aleksandrs Slivkins, 2019)
- - learning directed cuts (Gärtner and  Garriga. "The cost of learning directed cuts." ECML 2007)
- - predicting dynamic difficulty (Missura and Gärtner. "Predicting dynamic difficulty." NIPS 2011)
 </details>
 
 <details>
   <summary><b>Dimensionality reduction</b> (click to expand)</summary>
 
-Overview:  
+<p>Overview:</p>
+<ul>
+<li>chapter 1 and 2 of "Dimension reduction: a guided tour" by Christopher Burges, 2010.</li>
+<li>introduction and overview on probabilistic dimensionality reduction: Neil Lawrence - MLSS 2012 <a href="https://www.youtube.com/watch?v=RmjMLeYXDnI">(youtube-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>principal component analysis (PCA) and singular value decomposition (SVD) (chapter 3 of Foundations of Data Science book)</li>
+<li>random projections (chapter 23.2 of "Understanding machine learning" <strong>and</strong> Dasgupta. "Experiments with random projection." UAI 2000)</li>
+</ul>
 
-* chapter 1 and 2 of "Dimension reduction: a guided tour" by Christopher Burges, 2010.
-* introduction and overview on probabilistic dimensionality reduction: Neil Lawrence - MLSS 2012 [(youtube-link)](https://www.youtube.com/watch?v=RmjMLeYXDnI)
-
-Papers and projects:
- - principal component analysis (PCA) and singular value decomposition (SVD) (chapter 3 of Foundations of Data Science book)
- - random projections (chapter 23.2 of "Understanding machine learning" **and** Dasgupta. "Experiments with random projection." UAI 2000)
 </details>
 
 <details>
   <summary><b>Equivariant neural networks</b> (click to expand)</summary>
 
-Overview:
+<p>Overview:</p>
+<ul>
+<li>chapter 8 "equivariant neural networks" of "Deep learning for molecules and materials" by Andrew D. White, 2021. <a href="https://whitead.github.io/dmol-book/dl/Equivariant.html">(pdf)</a>.</li>
+<li>introduction to equivariance: Taco Cohen and Risi Kondor - Neurips 2020 Tutorial (first half) <a href="https://slideslive.com/38943570/equivariant-networks">(slideslive-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>deep sets (Zaheer, et al. "Deep sets." NIPS 2017)</li>
+<li>meta-learning symmetries (Zhou, et al. "Meta-learning symmetries by reparameterization." ICLR 2021)</li>
+<li>learning unitary opeartors (Hyland and Rätsch. "Learning unitary operators with help from u (n)." AAAI 2017)</li>
+</ul>
 
-* chapter 8 "equivariant neural networks" of "Deep learning for molecules and materials" by Andrew D. White, 2021. [(pdf)](https://whitead.github.io/dmol-book/dl/Equivariant.html).
-* introduction to equivariance: Taco Cohen and Risi Kondor - Neurips 2020 Tutorial (first half) [(slideslive-link)](https://slideslive.com/38943570/equivariant-networks)
-
-Papers and projects:
-- deep sets (Zaheer, et al. "Deep sets." NIPS 2017) 
-- meta-learning symmetries (Zhou, et al. "Meta-learning symmetries by reparameterization." ICLR 2021)
-- learning unitary opeartors (Hyland and Rätsch. "Learning unitary operators with help from u (n)." AAAI 2017)
 </details>
 
 <details>
   <summary><b>Graph neural networks</b> (click to expand)</summary>
 
-Overview:
+<p>Overview:</p>
+<ul>
+<li>introduction and overview on graph neural networks: Petar Veličković - Tensorflow Tech Talks 2021 <a href="https://www.youtube.com/watch?v=8owQBFAHw7E">(youtube-link)</a></li>
+<li>part II "graph representation learning" by William L. Hamilton <a href="https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">(pdf)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>expressivity of graph neural networks (Xu et al. "How powerful are graph neural networks?" ICLR 2019)</li>
+<li>performance of graph neural networks (Dwivedi et al. "Benchmarking graph neural networks." 2020)</li>
+</ul>
 
-* introduction and overview on graph neural networks: Petar Veličković - Tensorflow Tech Talks 2021 [(youtube-link)](https://www.youtube.com/watch?v=8owQBFAHw7E)
-* part II "graph representation learning" by William L. Hamilton [(pdf)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
-
-Papers and projects:
-
-- expressivity of graph neural networks (Xu et al. "How powerful are graph neural networks?" ICLR 2019)
-- performance of graph neural networks (Dwivedi et al. "Benchmarking graph neural networks." 2020)
 </details>
 
 <details>
   <summary><b>Graph kernels</b> (click to expand)</summary>
 
-Overview:    
+<p>Overview:</p>
+<ul>
+<li>first 23 pages of "A survey on graph kernels" (Applied Network Science 2019) by Nils M. Kriege, et al.</li>
+<li>practical motivation for graph kernels in computational biology: Karsten Borgwardt -  MLSS 2013 (the first 35 minutes) <a href="https://www.youtube.com/watch?v=Id1iOqeJaZY">(youtube-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>hardness and walk-based kernels (Gärtner, et al. "On graph kernels: hardness results and efficient alternatives." Learning theory and kernel machines 2003)</li>
+<li>cyclic pattern kernel (Horváth, et al. "Cyclic pattern kernels for predictive graph mining." ACM SIGKDD 2004)</li>
+<li>Weisfeiler-Lehman kernel (Shervashidze, et al. "Weisfeiler-lehman graph kernels." Journal of machine learning research 2011)</li>
+</ul>
 
-* first 23 pages of "A survey on graph kernels" (Applied Network Science 2019) by Nils M. Kriege, et al. 
-* practical motivation for graph kernels in computational biology: Karsten Borgwardt -  MLSS 2013 (the first 35 minutes) [(youtube-link)](https://www.youtube.com/watch?v=Id1iOqeJaZY)
-
-Papers and projects:
- - hardness and walk-based kernels (Gärtner, et al. "On graph kernels: hardness results and efficient alternatives." Learning theory and kernel machines 2003)
- - cyclic pattern kernel (Horváth, et al. "Cyclic pattern kernels for predictive graph mining." ACM SIGKDD 2004)
- - Weisfeiler-Lehman kernel (Shervashidze, et al. "Weisfeiler-lehman graph kernels." Journal of machine learning research 2011)
 </details>
 
 <details>
   <summary><b>(Graph) Representation Learning</b> (click to expand)</summary>
 
-Overview:
+<p>Overview:</p>
+<ul>
+<li>"graph representation learning" by William L. Hamilton <a href="https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">(pdf)</a></li>
+<li>Knowledge Graph Embeddings Tutorial: From Theory to Practice, 2020 (https://kge-tutorial-ecai2020.github.io/)</li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>Knowledge Graph Embeddings (focus on deep learning approaches)</li>
+<li>Q. Wang, Z. Mao, B. Wang, L. Guo. "Knowledge Graph Embedding: A Survey of Approaches and Applications", 2017</li>
+<li>Y. Dai, S. Wang, N. Xiong, W. Guo. "A Survey on Knowledge Graph Embedding: Approaches, Applications and Benchmarks", 2020</li>
+<li>M. Wang, L. Qiu, X. Wang. "A Survey on Knowledge Graph Embeddings for Link Prediction", 2021</li>
+</ul>
 
-* "graph representation learning" by William L. Hamilton [(pdf)](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
-* Knowledge Graph Embeddings Tutorial: From Theory to Practice, 2020 (https://kge-tutorial-ecai2020.github.io/)
-
-Papers and projects:
-
-- Knowledge Graph Embeddings (focus on deep learning approaches)
-- Q. Wang, Z. Mao, B. Wang, L. Guo. "Knowledge Graph Embedding: A Survey of Approaches and Applications", 2017
-- Y. Dai, S. Wang, N. Xiong, W. Guo. "A Survey on Knowledge Graph Embedding: Approaches, Applications and Benchmarks", 2020
-- M. Wang, L. Qiu, X. Wang. "A Survey on Knowledge Graph Embeddings for Link Prediction", 2021
-</details>
-
-<details>
-  <summary><b>Reinforcement learning</b> (click to expand)</summary>
-
-Overview:   
-
-* chapter 1/introduction of "Reinforcement learning: an introduction"
-* introduction to reinforcement learning: Emma Brunskill - Microsoft 2019 [(youtube-link)](https://www.youtube.com/watch?v=LiaEmNToeQA)
-
-Papers and projects:
-- multi-view reinforcement learning (Li, et al.  "Multi-view reinforcement learning." NeurIPS 2019)
-- trust-region policy optimization (Kurutach, et al. "Model-ensemble trust-region policy optimization." ICLR 2018)
 </details>
 
 <details>
   <summary><b>Semi-supervised learning</b> (click to expand)</summary>
   
-Overview: 
+<p>Overview:</p>
+<ul>
+<li>chapter 1/introduction of "Semi-supervised learning" by Olivier Chapelle, Bernhard Schölkopf, and Alexander Zien, 2006 <a href="http://olivier.chapelle.cc/ssl-book/ssl_toc.pdf">(pdf)</a>.</li>
+<li>introduction to semi-supervised learning: Tom Mitchell - Carnegie Mellon University 2011 <a href="https://www.youtube.com/watch?v=OMRlnKupsXM">(youtube-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>graph cuts (Blum and Chawla. "Learning from labeled and unlabeled data using graph mincuts." ICML 2001)</li>
+<li>label propagation (Zhu, et al. "Semi-supervised learning using Gaussian fields and harmonic functions." ICML 2003)</li>
+<li>learning with local and global consistency (Zhou, et al. "Learning with local and global consistency." NIPS 2004)</li>
+<li>semi-supervised learning by entropy minimization (Grandvalet and Bengio. "Semi-supervised learning by entropy minimization." NIPS 2005)</li>
+</ul>
 
-* chapter 1/introduction of "Semi-supervised learning" by Olivier Chapelle, Bernhard Schölkopf, and Alexander Zien, 2006 [(pdf)](http://olivier.chapelle.cc/ssl-book/ssl_toc.pdf).
-* introduction to semi-supervised learning: Tom Mitchell - Carnegie Mellon University 2011 [(youtube-link)](https://www.youtube.com/watch?v=OMRlnKupsXM)
-
-Papers and projects:
- - graph cuts (Blum and Chawla. "Learning from labeled and unlabeled data using graph mincuts." ICML 2001)
- - label propagation (Zhu, et al. "Semi-supervised learning using Gaussian fields and harmonic functions." ICML 2003)
- - learning with local and global consistency (Zhou, et al. "Learning with local and global consistency." NIPS 2004)
- - semi-supervised learning by entropy minimization (Grandvalet and Bengio. "Semi-supervised learning by entropy minimization." NIPS 2005)
 </details>
 
 <details>
   <summary><b>Active learning</b> (click to expand)</summary>
   
-Overview:   
+<p>Overview:</p>
+<ul>
+<li>chapter 1 "Automating inquiry" of Burr Settles' "Active learning" (AL) book, 2012.</li>
+<li>introduction to active learning: Sanjoy Dasgupta - Microsoft 2016 <a href="https://www.youtube.com/watch?v=FE1r7_SQq6Y">(youtube-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>active learning and label propagation (Zhu, et al. "Combining active learning and semi-supervised learning using Gaussian fields and harmonic functions." ICML 2003 workshop on the continuum from labeled to unlabeled data in machine learning and data mining 2003.)</li>
+<li>hierarchical sampling for active learning "Sanjoy and Hsu. "Hierarchical sampling for active learning." ICML 2008)</li>
+</ul>
 
-* chapter 1 "Automating inquiry" of Burr Settles' "Active learning" (AL) book, 2012.
-* introduction to active learning: Sanjoy Dasgupta - Microsoft 2016 [(youtube-link)](https://www.youtube.com/watch?v=FE1r7_SQq6Y)
-
-Papers and projects:
- - active learning and label propagation (Zhu, et al. "Combining active learning and semi-supervised learning using gaussian fields and harmonic functions." ICML 2003 workshop on the continuum from labeled to unlabeled data in machine learning and data mining 2003.)
- - hierarchical sampling for active learning "Sanjoy and Hsu. "Hierarchical sampling for active learning." ICML 2008)
 </details>
-{% endcomment %}

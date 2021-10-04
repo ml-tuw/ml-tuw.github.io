@@ -10,7 +10,7 @@ title: Teaching
 {% endcomment %}
 
 
-### WiSe 2022
+### WiSe 2021/22
 
 <ul>
 <li> MSc <b>Lecture</b> <a href="./ws2022/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
