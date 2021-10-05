@@ -23,7 +23,7 @@ Kickoff-Meeting: 25.10. 16:00 in [https://tuwien.zoom.us/my/tamaradrucks](https:
 | Nov | spotlight and abstract |
 | Nov | bidding |
 | Dec | progress presentation and draft report |
-| Dec | reviewing your peers |
+| Jan | reviewing your peers |
 | Jan | final presentation and report |
 
 Precise dates will be made available on TUWEL.
@@ -49,7 +49,7 @@ We can only accept your own proposals if you can answer the mentioned questions 
 - **Why** is it an interesting problem?
 - **How** do you plan to approach the problem? /
 **How** have the authors of your project approached the problem?
-​
+
 Select projects and write a short description of them together with the answers to the questions (~3 sentences shoud be sufficient) in **TUWEL**.
 
 We can only accept your own proposals if you can answer the mentioned questions and have a well worked out project idea.

@@ -20,7 +20,7 @@ Kickoff-Meeting: 20.10. 16:00 in [https://tuwien.zoom.us/my/maxthiessen](https:/
 | Nov | spotlight and abstract |
 | Nov | bidding |
 | Dec | progress presentation and draft report |
-| Dec | reviewing your peers |
+| Jan | reviewing your peers |
 | Jan | final presentation and report |
 
 ## Format
