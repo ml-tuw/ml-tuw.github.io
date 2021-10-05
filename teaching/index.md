@@ -31,14 +31,21 @@ For other topics you will need to describe the scientific merit and novelty. It 
 <li> BSc <b>Seminar</b> <a href="./ws2022/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
-### Supervision
+### Ongoing Thesis Supervision
 
- - Maximilian Holzmüller *Procedural Level Generation for Video Games* (BSc Thesis)
+ - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc Thesis)
+ - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis, tentative title)
 
 
 
 ## Previously
 
+### Past Thesis Supervision
+
+ - Sabrina Herbst: *Analysis of Bacteriophages---Predicting Hosts of Bacteriophages Based on
+Molecular Sequence Data* (BSc thesis)
+ - Philip Vonderlind: *Domain Transfer for Multi-Agent Reinforcement Learning* (BSc thesis)
+ 
 ### SoSe 2021 
 
 <ul>
