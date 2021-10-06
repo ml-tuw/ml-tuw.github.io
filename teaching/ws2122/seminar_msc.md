@@ -24,7 +24,7 @@ Kickoff-Meeting: 20.10. 16:00 in [https://tuwien.zoom.us/my/maxthiessen](https:/
 | Jan | final presentation and report |
 
 ## Format
-This seminar simulates a machine learning conference, where the students take on the role of authors and reviewers. It consists of multiple phases.
+This seminar simulates a machine learning conference, where the students take on the role of authors and reviewers. It consists of multiple phases. 
 
 ### 1. Proposal phase
 
