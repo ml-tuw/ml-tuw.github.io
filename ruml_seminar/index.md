@@ -8,10 +8,15 @@ title: Research Seminar of the TUW RU Machine Learning
  - Held roughly biweekly at 2pm (CEST) on Tuesdays in [goto](https://gotomeet.me/ThomasGaertner).
 
 ### Upcoming Events
-
+<!--
 - 29/6/2021 [Sebastian Mair](https://www.leuphana.de/en/institutes/iis/persons/sebastian-mair.html) (Leu­pha­na Uni­ver­sität Lüne­burg) _Computing Efficient Data Summaries_
+-->
 
 ### Past Events
+
+- [Marco Bressan](https://sites.google.com/di.uniroma1.it/bressan/home) (University of Milan) _Exact recovery of clusters in metric spaces: margins and convexities_ (24/9/2021, 1pm)
+
+- [Sebastian Mair](https://www.leuphana.de/en/institutes/iis/persons/sebastian-mair.html) (Leu­pha­na Uni­ver­sität Lüne­burg) _Computing Efficient Data Summaries_ (29/6/2021, 2pm)
 
 - {{ site.data.people.KatrinUllrich}} (Fraunhofer IWU) _Binding Affinity Prediction - Multi-View Regression in Three Different  Learning Scenarios_ (8/6/2021, 2pm)
 
