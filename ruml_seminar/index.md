@@ -31,6 +31,8 @@ title: Research Seminar of the TUW RU Machine Learning
 
 - [Antoine Ledent](https://ml.informatik.uni-kl.de/people/antoine-ledent.html) (TU Kaiserslautern) _Orthogonal Inductive Matrix Completion_ (13/4/2021, 2pm)
 
+- [Magda Gregorova](http://dmml.ch/magda-gregorova/) (University of Applied Sciences-Western Switzerland, Geneva) _Learned transform compression with optimized entropy encoding_ (30/3/2021, 2pm)
+
 - [Gavin Smith](http://www.cs.nott.ac.uk/~pszgss/) (University of Nottingham) ``Model Class Reliance for Random Forests'' (16/3/2021, 2pm)
 
 - {{ site.data.people.DanielPaurat }} (Telekom) ``Machine Learning @ Telekom'' (2/3/2021, 2pm)
