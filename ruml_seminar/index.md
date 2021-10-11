@@ -12,6 +12,10 @@ title: Research Seminar of the TUW RU Machine Learning
 - 29/6/2021 [Sebastian Mair](https://www.leuphana.de/en/institutes/iis/persons/sebastian-mair.html) (Leu­pha­na Uni­ver­sität Lüne­burg) _Computing Efficient Data Summaries_
 -->
 
+- [Stefano Teso](https://disi.unitn.it/~teso/) (University of Trento) _TBA_
+
+- 9/11/21: [Bo Kang](https://users.ugent.be/~bkang/) (Ghent University) _subjective interestingness_ (tentative, TBC)
+
 ### Past Events
 
 - [Marco Bressan](https://sites.google.com/di.uniroma1.it/bressan/home) (University of Milan) _Exact recovery of clusters in metric spaces: margins and convexities_ (24/9/2021, 1pm)
