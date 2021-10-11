@@ -5,16 +5,18 @@ title: Research Seminar of the TUW RU Machine Learning
 
 ### Location and Date
 
- - Held roughly biweekly at 2pm (CEST) on Tuesdays in [goto](https://gotomeet.me/ThomasGaertner).
+ - Held roughly biweekly at 2pm (CEST) on Tuesdays in [zoom](
+https://tuwien.zoom.us/my/
+thomasgaertner) <!--[goto](https://gotomeet.me/ThomasGaertner).-->
 
 ### Upcoming Events
 <!--
 - 29/6/2021 [Sebastian Mair](https://www.leuphana.de/en/institutes/iis/persons/sebastian-mair.html) (Leu­pha­na Uni­ver­sität Lüne­burg) _Computing Efficient Data Summaries_
 -->
 
-- [Stefano Teso](https://disi.unitn.it/~teso/) (University of Trento) _TBA_
+- 9/11/2021: [Bo Kang](https://users.ugent.be/~bkang/) (Ghent University) _subjective interestingness_ (tentative, TBC)
 
-- 9/11/21: [Bo Kang](https://users.ugent.be/~bkang/) (Ghent University) _subjective interestingness_ (tentative, TBC)
+- [Stefano Teso](https://disi.unitn.it/~teso/) (University of Trento) _TBA_
 
 ### Past Events
 
