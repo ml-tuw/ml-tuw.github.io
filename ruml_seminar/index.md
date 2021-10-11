@@ -5,9 +5,7 @@ title: Research Seminar of the TUW RU Machine Learning
 
 ### Location and Date
 
- - Held roughly biweekly at 2pm (CEST) on Tuesdays in [zoom](
-https://tuwien.zoom.us/my/
-thomasgaertner) <!--[goto](https://gotomeet.me/ThomasGaertner).-->
+ - Held roughly biweekly at 2pm (CEST) on Tuesdays in [zoom](https://tuwien.zoom.us/my/thomasgaertner) <!--[goto](https://gotomeet.me/ThomasGaertner).-->
 
 ### Upcoming Events
 <!--
