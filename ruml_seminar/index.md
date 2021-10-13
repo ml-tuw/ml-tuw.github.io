@@ -12,11 +12,12 @@ title: Research Seminar of the TUW RU Machine Learning
 - 29/6/2021 [Sebastian Mair](https://www.leuphana.de/en/institutes/iis/persons/sebastian-mair.html) (Leu­pha­na Uni­ver­sität Lüne­burg) _Computing Efficient Data Summaries_
 -->
 
+- 19/10/2021: [Stefano Teso](https://disi.unitn.it/~teso/) (University of Trento) _TBA_
+
 - 9/11/2021: [Bo Kang](https://users.ugent.be/~bkang/) (Ghent University) _subjective interestingness_ (tentative, TBC)
 
 - 30/11/2021: [Laura Manduchi](https://mds.inf.ethz.ch/team/detail/laura-manduchi) (ETH Zürich) and [Ricards Marcinkevics](https://mds.inf.ethz.ch/team/detail/ricards-marcinkevics) (ETH Zürich) _Deep Conditional Gaussian Mixture Model for Constrained Clustering_ and _A Deep Variational Approach to Clustering Survival Data_ (tentative, TBC)
 
-- [Stefano Teso](https://disi.unitn.it/~teso/) (University of Trento) _TBA_
 
 ### Past Events
 
