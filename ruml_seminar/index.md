@@ -16,7 +16,7 @@ title: Research Seminar of the TUW RU Machine Learning
 
 - 9/11/2021: [Bo Kang](https://users.ugent.be/~bkang/) (Ghent University) _subjective interestingness_ (tentative, TBC)
 
-- 30/11/2021: [Laura Manduchi](https://mds.inf.ethz.ch/team/detail/laura-manduchi) (ETH Zürich) and [Ricards Marcinkevics](https://mds.inf.ethz.ch/team/detail/ricards-marcinkevics) (ETH Zürich) _Deep Conditional Gaussian Mixture Model for Constrained Clustering_ and _A Deep Variational Approach to Clustering Survival Data_ (tentative, TBC)
+- 30/11/2021: [Laura Manduchi](https://mds.inf.ethz.ch/team/detail/laura-manduchi) (ETH Zürich) and [Ricards Marcinkevics](https://mds.inf.ethz.ch/team/detail/ricards-marcinkevics) (ETH Zürich) _Deep Variational Approaches for Weakly Supervised Clustering With Applications to Survival Data_ (tentative, TBC)
 
 
 ### Past Events
