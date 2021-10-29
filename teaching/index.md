@@ -36,11 +36,20 @@ For other topics you will need to describe the scientific merit and novelty. It 
  - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc Thesis)
  - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis, tentative title)
 
+ 
 
+## Student Publications
+ 
+ - Fares Meghdouri, Thomas Schmied, Tanja Zseby, and Thomas Gärtner. **Conditional Network Data Balancing With GANs** _Deep Generative Models and Downstream Applications_ NeurIPS Workshop 2021. 
+ - Dominik Schmidt and Thomas Schmied. **Fast and Data-Efficient Training of Rainbow: an Experimental Study on Atari.** _Deep Reinforcement Learning_ NeurIPS Workshop 2021.
+ - Thomas Schmied and Maximilian Thiessen. **Efficient Reinforcement Learning via Self-supervised learning and Model-based methods.** _Challenges of Real-World Reinforcement Learning_ NeurIPS Workshop 2020. ([pdf](https://maxthiessen.ml/publication/schmied2020efficient/schmied2020efficient.pdf))
 
-## Previously
+ 
+ 
+ 
+## History
 
-### Past Thesis Supervision
+### Theses
 
  - Sabrina Herbst: *Analysis of Bacteriophages---Predicting Hosts of Bacteriophages Based on
 Molecular Sequence Data* (BSc thesis)
