@@ -10,11 +10,11 @@ title: Teaching
 {% endcomment %}
 
 
-### WiSe 2021/22
+### SoSe 2022
 
 <ul>
-<li> MSc <b>Lecture</b> <a href="./ws2122/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li>MSc <b>Seminar</b> <a href="./ws2122/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
+<li> MSc <b>Lecture</b> <a href="https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194100&semester=2022S&dswid=8150&dsrid=488"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li>MSc <b>Seminar</b> in Artificial Intelligence - <a href="https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194118&semester=2022S&dswid=3021&dsrid=503"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
 </li>
 
 <li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
@@ -28,7 +28,7 @@ To answer the question, typically one has conduct a mathematical proof.
 {% include liq_filter.html term="ws2122" projs="ana_projects" %}
 For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to implement some machine learning algorithms and apply them to dataset or implement an interesting application that uses machine learning.
 </li>
-<li> BSc <b>Seminar</b> <a href="./ws2122/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+<li> BSc <b>Seminar</b> <a href="./ss2122/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
 ### Ongoing Thesis Supervision
@@ -54,6 +54,31 @@ For other topics you will need to describe the scientific merit and novelty. It 
  - Sabrina Herbst: *Analysis of Bacteriophages---Predicting Hosts of Bacteriophages Based on
 Molecular Sequence Data* (BSc thesis)
  - Philip Vonderlind: *Domain Transfer for Multi-Agent Reinforcement Learning* (BSc thesis)
+
+### WiSe 2021
+
+<ul>
+<li> MSc <b>Lecture</b> <a href="./ws2122/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li>MSc <b>Seminar</b> <a href="./ws2122/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
+</li>
+
+<li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
+{% comment %} 
+<br>We are happy to supervise machine learning theory projects that are connected to our research interests. Examples are:
+{% include liq_filter.html term="ws2122" projs="theo_projects" %}
+For other topics you will need to describe the scientific merit and novelty on the machine learning side. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable.
+To answer the question, typically one has conduct a mathematical proof.
+{% endcomment %}
+</li>
+<li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i>
+{% comment %} 
+<br>We are happy to supervise machine learning algorithm and application related projects that are connected to our research interests. Examples are:
+{% include liq_filter.html term="ws2122" projs="ana_projects" %}
+For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to implement some machine learning algorithms and apply them to dataset or implement an interesting application that uses machine learning.
+{% endcomment %}
+</li>
+<li> BSc <b>Seminar</b> <a href="./ws2122/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+</ul>
  
 ### SoSe 2021 
 
@@ -79,6 +104,7 @@ For other topics you will need to describe the scientific merit and novelty. It 
 </li>
 <li> BSc <b>Seminar</b> <a href="./sose21/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
+
 ### WiSe 2020/21 
 
 - MSc **Lecture** [*Theoretical Foundations and Research Topics in Machine Learning* (VU)](./ws2021/tfrtML.html)
