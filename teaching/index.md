@@ -13,19 +13,13 @@ title: Teaching
 ### SoSe 2022
 
 <ul>
-<li> MSc <b>Lecture</b> <a href="https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194100&semester=2022S&dswid=8150&dsrid=488"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li>MSc <b>Seminar</b> in Artificial Intelligence - <a href="https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194118&semester=2022S&dswid=3021&dsrid=503"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
+<li> MSc <b>Lecture</b> <a href="./ss2122/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li>MSc <b>Seminar</b> <a href="./ss2122/seminar_msc.html"><i>Theoretical Aspects of Machine Learning Algorithms (SE)</i></a> 
 </li>
 
-<li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
-<br>We are happy to supervise machine learning theory projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="ws2122" projs="theo_projects" %}
-For other topics you will need to describe the scientific merit and novelty on the machine learning side. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable.
-To answer the question, typically one has conduct a mathematical proof.
-</li>
 <li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i>
 <br>We are happy to supervise machine learning algorithm and application related projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="ws2122" projs="ana_projects" %}
+{% include liq_filter.html term="ss2122" projs="ana_projects" %}
 For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to implement some machine learning algorithms and apply them to dataset or implement an interesting application that uses machine learning.
 </li>
 <li> BSc <b>Seminar</b> <a href="./ss2122/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
