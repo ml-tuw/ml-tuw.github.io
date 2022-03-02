@@ -63,7 +63,7 @@ Give a final presentation and submit your report.
 You should have access to the literature and papers through Google scholar, DBLP, the provided links, or the TU library.
 
 <details>
-  <summary><b>(Graph) Representation Learning</b> (click to expand)</summary>
+  <summary><b>Knowledge Graph Embeddings</b> (click to expand)</summary>
 
 <p>Overview:</p>
 <ul>

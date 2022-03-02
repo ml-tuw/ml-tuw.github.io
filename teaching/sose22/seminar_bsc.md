@@ -5,29 +5,11 @@ title: Bachelor Seminar Wissenschaftliches Arbeiten
 
 ## General information
 
-- introductory slides: coming soon
 - TISS: [(link)](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=193052&semester=2022S&dswid=6676&dsrid=709)
 - contact: [Patrick Indri](mailto:patrick.indri@tuwien.ac.at)
 - meeting link: [https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)
 - everything important will be announced in TUWEL/TISS.
 
-
-## Timeline
-
-Kickoff-Meeting: 22.03. 15:00 in [https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)
-
-| Date                    | Deadline                                                 |
-| -----------             | ----------:                                              |
-| 22.03.22 15:00          | kickoff [(here)](https://tuwien.zoom.us/my/patrickindri) |
-| Apr                     | spotlight and abstract                                   |
-| Apr                     | bidding                                                  |
-| May                     | first supervisor meeting                                 |
-| May-Jun                 | progress presentation and draft report                   |
-| Jun                     | second supervisor meeting                                |
-| Jun                     | reviewing your peers                                     |
-| Jun                     | final presentation and report                            |
-
-Precise dates will be made available on TUWEL.
 
 ## Format
 This seminar simulates a machine learning conference, where the students take on the role of authors and reviewers. It consists of multiple phases.
@@ -189,7 +171,7 @@ You should have access to the literature and papers through Google scholar, DBLP
 </details>
 
 <details>
-  <summary><b>(Graph) Representation Learning</b> (click to expand)</summary>
+  <summary><b>Knowledge graph embedding</b> (click to expand)</summary>
 
 <p>Overview:</p>
 <ul>
@@ -199,9 +181,11 @@ You should have access to the literature and papers through Google scholar, DBLP
 <p>Papers and projects:</p>
 <ul>
 <li>Knowledge Graph Embeddings (focus on deep learning approaches)</li>
+<ul>
 <li>Q. Wang, Z. Mao, B. Wang, L. Guo. "Knowledge Graph Embedding: A Survey of Approaches and Applications", 2017</li>
 <li>Y. Dai, S. Wang, N. Xiong, W. Guo. "A Survey on Knowledge Graph Embedding: Approaches, Applications and Benchmarks", 2020</li>
 <li>M. Wang, L. Qiu, X. Wang. "A Survey on Knowledge Graph Embeddings for Link Prediction", 2021</li>
+</ul>
 </ul>
 
 </details>
