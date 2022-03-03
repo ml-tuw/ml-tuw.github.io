@@ -11,7 +11,7 @@ Full-time (40 hours/week) | for about one year | part-time possible
 
 With over 26,000 students and 4,000 scientists, **TU Wien** is Austria’s largest institution of research and higher education in the fields of technology and natural sciences. For more than 200 years research, teaching, and learning at TU Wien have been guided by the motto "Technology for People" and dedicated to the advancement of science and technology. The computer science faculty of TU Wien consistently ranks among the top 100 departments in the world. 
 
-The [research unit **Ma﻿chine Learning**](https://www.ml.tuwien.ac.at/) **has now an opening for a university assistant** (post-doc: 40 hours/week for one year; part-time possible) in the FFG Project [AI4SAR](https://projekte.ffg.at/projekt/4052506). The aim of the project is to investigate, develop, and apply unsupervised, active, and knowledge-based machine learning algorithms for advanced processing of Synthetic Aperture Radar (SAR) data. 
+The [research unit **Ma﻿chine Learning**](https://www.ml.tuwien.ac.at/) **has now an opening for a university assistant** (post-doc: 40 hours/week for one year; part-time possible; earliest starting data is May 2022) in the FFG Project [AI4SAR](https://projekte.ffg.at/projekt/4052506). The aim of the project is to investigate, develop, and apply unsupervised, active, and knowledge-based machine learning algorithms for advanced processing of Synthetic Aperture Radar (SAR) data. 
 ### Your Tasks: 
 
 - Research in machine learning and publication of results in top scientific venues 
