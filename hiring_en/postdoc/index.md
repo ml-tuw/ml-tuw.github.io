@@ -51,4 +51,4 @@ People with special needs are equally encouraged to apply. In case of any questi
 Entry level salary is determined by the pay grade B1 of the Austrian collective agreement for university staff. This is a minimum of currently EUR 4,061.50/month gross, 14 times/year for 40 hours/week. Relevant working experiences may increase the monthly income. 
 
 We look forward to receiving your application by 31/03/2022 via our [job portal](https://jobs.tuwien.ac.at/Job/176797). 
-For inquiries please contact us at `apps-postdoc@ml.tuwien.ac.at`.
+For inquiries please contact us at <apps-postdoc@ml.tuwien.ac.at>.
