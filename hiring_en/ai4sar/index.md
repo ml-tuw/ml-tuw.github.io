@@ -7,7 +7,7 @@ title: PostDoc Position in AI4SAR
 
 # University Assistant (PostDoc)
 
-Full-time (40 hours/week) | for one year | part-time possible
+Full-time (40 hours/week) | for about one year | part-time possible
 
 With over 26,000 students and 4,000 scientists, **TU Wien** is Austria’s largest institution of research and higher education in the fields of technology and natural sciences. For more than 200 years research, teaching, and learning at TU Wien have been guided by the motto "Technology for People" and dedicated to the advancement of science and technology. The computer science faculty of TU Wien consistently ranks among the top 100 departments in the world. 
 
@@ -49,4 +49,4 @@ People with special needs are equally encouraged to apply. In case of any questi
 
 Entry level salary is determined by the pay grade B1 of the Austrian collective agreement for university staff. This is a minimum of currently EUR 4,061.50/month gross, 14 times/year for 40 hours/week. Relevant working experiences may increase the monthly income. Part-time arrangements are possible. 
 
-We look forward to receiving your application by 25/03/2022. 
+We look forward to receiving your application by 31/03/2022 via `applications@ml.tuwien.ac.at` where you can also contact us if you have any questions about the position. 
