@@ -11,7 +11,7 @@ Full-time (40 hours/week) | for up to six years
 
 With over 26,000 students and 4,000 scientists, **TU Wien** is Austria’s largest institution of research and higher education in the fields of technology and natural sciences. For more than 200 years research, teaching, and learning at TU Wien have been guided by the motto "Technology for People" and dedicated to the advancement of science and technology. The computer science faculty of TU Wien consistently ranks among the top 100 departments in the world. 
 
-The [research unit **Ma﻿chine Learning**](https://www.ml.tuwien.ac.at/) investigates fundamental machine learning questions and demonstrates the applicability of novel algorithms in real-world applications, often together with colleagues and collaborators from other disciplines. Challenges that we investigate often involve structured data such as graphs, iterative learning processes such as online/active learning, approximation/convergence guarantees, and computational questions such as the parallelisation of machine learning algorithms. **There is now an opportunity for you to join the research unit as a university assistant** (post-doc: 40 hours/week for up to six years). 
+The [research unit **Ma﻿chine Learning**](https://www.ml.tuwien.ac.at/) investigates fundamental machine learning questions and demonstrates the applicability of novel algorithms in real-world applications, often together with colleagues and collaborators from other disciplines. Challenges that we investigate often involve structured data such as graphs, iterative learning processes such as online/active learning, approximation/convergence guarantees, and computational questions such as the parallelisation of machine learning algorithms. **There is now an opportunity for you to join the research unit as a university assistant** (post-doc: 40 hours/week for up to six years, earliest starting date is May 2022). 
 
 ### Your Tasks: 
 
@@ -50,4 +50,5 @@ People with special needs are equally encouraged to apply. In case of any questi
 
 Entry level salary is determined by the pay grade B1 of the Austrian collective agreement for university staff. This is a minimum of currently EUR 4,061.50/month gross, 14 times/year for 40 hours/week. Relevant working experiences may increase the monthly income. 
 
-We look forward to receiving your application by 25/03/2022. 
+**We look forward to receiving your application by 31/03/2022 via our [job portal](https://jobs.tuwien.ac.at/Job/176797).**
+For inquiries please contact us at <apps-postdoc@ml.tuwien.ac.at>.
