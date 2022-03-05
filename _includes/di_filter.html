@@ -1,0 +1,16 @@
+{% for p in site.pages %}
+{% if p.url contains include.term and p.url contains include.projs %}
+<details>
+  <summary><b>{{p.title}}</b> (click to expand)</summary>
+  <ul>{{p.content | markdownify}}</ul>
+</details>
+{% endif %}
+{% endfor %}
+{% for p in site.static_files %}
+{% if p.path contains include.term and p.path contains include.projs %}
+<details>
+  <summary><b>{{p.title}}</b> (click to expand)</summary>
+  <ul>{{p.content | markdownify}}</ul>
+</details>
+{% endif %}
+{% endfor %}

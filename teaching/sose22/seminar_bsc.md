@@ -16,7 +16,7 @@ This seminar simulates a machine learning conference, where the students take on
 
 ### 1. Proposal phase
 
-Attend the **mandatory** first meeting on 22.03.2022, 15:00 (**[https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)**).
+Attend the **mandatory** first meeting on 22.03.2022, 15:00 (either in person in **Seminarraum 127** in Gußhausstr. 27-29, room CD 03 24, or remotely at **[https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)**).
 
 #### Option 1: our suggestions
  > You select **two** projects/papers (i.e. two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the project-specific resources.   

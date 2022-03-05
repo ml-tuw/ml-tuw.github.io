@@ -14,19 +14,8 @@ title: Teaching
 
 <ul>
 <li> MSc <b>Lecture</b> <a href="./sose22/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li>MSc <b>Seminar</b> <a href="./sose22/seminar_msc.html"><i>Theoretical Aspects of Machine Learning Algorithms (SE)</i></a> 
-</li>
-
-<li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i>
-<br>We are happy to supervise machine learning related projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="sose22" projs="ana_projects" %}
-For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to 
-<ul>
-<li>implement some machine learning algorithms and apply them to dataset,</li> 
-<li>implement an interesting application that uses machine learning, or</li>
-<li>prove some properties of a learning algorithm.</li>
-</ul>
-</li>
+<li> MSc <b>Seminar</b> <a href="./sose22/seminar_msc.html"><i>Theoretical Aspects of Machine Learning Algorithms (SE)</i></a></li>
+<li> MSc <b>Project</b> <a href="./sose22/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
 <li> BSc <b>Seminar</b> <a href="./sose22/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
