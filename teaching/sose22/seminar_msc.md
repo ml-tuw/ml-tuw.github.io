@@ -15,10 +15,10 @@ This seminar simulates a machine learning conference, where the students take on
 
 ### 1. Proposal phase
 
-Attend the **mandatory** first meeting on 07.03, 15:00 (**[https://tuwien.zoom.us/my/maxthiessen](https://tuwien.zoom.us/my/maxthiessen)**).
+Attend the **mandatory** first meeting on 07.03, 15:00 (either in person at **Gußhausstraße 27-29 CA 03 13**, or remotely at **[https://tuwien.zoom.us/my/maxthiessen](https://tuwien.zoom.us/my/maxthiessen)**).
 
 #### Option 1: our suggestions
- > You select **two** projects/papers (i.e. two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the project-specific resources.   
+ > You select **two** projects/papers (i.e., two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the project-specific resources.   
 
 #### Option 2: your own projects
  > You choose **two** different own project ideas to work on. This can be some existing machine learning paper/work or an own creative idea in the context of machine learning. Importantly, it has to be specific and worked out well.
