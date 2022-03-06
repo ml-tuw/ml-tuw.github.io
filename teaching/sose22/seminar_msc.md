@@ -4,7 +4,7 @@ title: Seminar on Theoretical Aspects of Machine Learning Algorithms
 ---
 ## General information
 
-- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=5896&dsrid=205&courseNumber=194102&courseSemester=2021W&locale=en)
+- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=9375&dsrid=649&courseNr=194118&semester=2022S)
 - contact: [Maximilian Thiessen](mailto:maximilian.thiessen@tuwien.ac.at)
 - meeting link: [https://tuwien.zoom.us/my/maxthiessen](https://tuwien.zoom.us/my/maxthiessen)
 - everything important will be announced in TUWEL/TISS.
@@ -127,63 +127,6 @@ You should have access to the literature and papers through Google scholar, DBLP
 
 
 <details>
-  <summary><b>Clustering and dimensionality reduction</b> (click to expand)</summary>
-
-<p>Overview:</p>
-<ul>
-<li>chapter 1 and 2 of "Dimension reduction: a guided tour" by Christopher Burges, 2010, <strong>and</strong> chapter 22 (the introduction section before 22.1 and section 22.5) of "Understanding machine learning".</li>
-<li>introduction and theoretical overview on clustering: Shai Ben-David Cheriton Symposium 2017 <a href="https://www.youtube.com/watch?v=Pq5d1Y2YpgA">(youtube-link)</a></li>
-<li>introduction and overview on probabilistic dimensionality reduction: Neil Lawrence - MLSS 2012 <a href="https://www.youtube.com/watch?v=RmjMLeYXDnI">(youtube-link)</a></li>
-</ul>
-<p>Papers and projects:</p>
-<ul>
-<li>kernel PCA and multidimensional scaling (Schölkopf, et al. "Kernel principal component analysis." ICANN 1997 <strong>and</strong> Williams "On a connection between kernel PCA and metric multidimensional scaling." Machine learning 2002)</li>
-<li>spectral clustering (Von Luxburg. "A tutorial on spectral clustering." Statistics and computing 2007)</li>
-<li>(adaptive) correlation clustering (Bansal, et al. "Correlation clustering." Machine learning 2004 <strong>and</strong> Bressan, Marco, et al. "Correlation clustering with adaptive similarity queries." NeurIPS 2019)</li>
-<li>(approximate) k-means++ (Arthur and Vassilvitskii. "k-means++: The advantages of careful seeding." Stanford, 2006 <strong>and</strong> Bachem, Olivier, et al. "Approximate k-means++ in sublinear time." AAAI 2016)</li>
-<li>clustering under approximation stability (Balcan, et al. "Clustering under approximation stability." Journal of the ACM 2013)</li>
-<li>auto-encoders and generative adversarial nets (Diederik and Welling "Auto-encoding variational Bayes" ICLR 2014 <strong>and</strong> Goodfellow, et al. "Generative adversarial nets" NIPS 2014 <strong>and</strong> Tolstikhin, et al. "Wasserstein auto-encoders" ICLR 2018)</li>
-</ul>
-
-</details>
-
-<details>
-  <summary><b>Theory of graph neural networks (GNNs)</b> (click to expand)</summary>
-
-<p>Overview:</p>
-<ul>
-<li>chapter 1 and 5 of "Graph representation learning" by William L. Hamilton <a href="https://www.cs.mcgill.ca/~wlh/grl_book/">(pdf)</a></li>
-<li>Xu, et al. "How Powerful are Graph Neural Networks?" ICLR 2019</li>
-<li>introduction and overview on graph neural networks: Petar Veličković - Tensorflow Tech Talks 2021 <a href="https://www.youtube.com/watch?v=8owQBFAHw7E">(youtube-link)</a></li>
-</ul>
-<p>Papers and topics:</p>
-<ul>
-<li>k-dimensional Weisfeiler Leman and GNNs (Morris, et al. "Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks." AAAI 2019 <strong>and</strong> Morris, et al. "Weisfeiler and Leman go sparse: Towards scalable
-higher-order graph embeddings." NeurIPS 2020)</li>
-<li>subgraph counts and GNNs (Barceló, et al. "Graph Neural Networks with Local Graph Parameters" arXiv:2106.06707 2021 <strong>and</strong> Chen, et al. "Can Graph Neural Networks Count Substructures? NeurIPS 2020)</li>
-<li>homomorphisms and GNNs (NT and Maehara "Graph Homomorphism Convolution." ICML 2020 <strong>and</strong> Dell, et al. "Lovász Meets Weisfeiler and Leman." ICALP 2018)</li>
-</ul>
-
-</details>
-
-<details>
-  <summary><b>Equivariant neural networks</b> (click to expand)</summary>
-
-
-<p>Overview:</p>
-<ul>
-<li>chapter 8 "equivariant neural networks" of "Deep learning for molecules and materials" by Andrew D. White, 2021. <a href="https://whitead.github.io/dmol-book/dl/Equivariant.html">(pdf)</a></li>
-<li>introduction to equivariance: Taco Cohen and Risi Kondor - Neurips 2020 Tutorial (first half) <a href="https://slideslive.com/38943570/equivariant-networks">(slideslive-link)</a></li>
-</ul>
-<p>Papers and projects:</p>
-<ul>
-<li>group equivariance (Esteves. "Theoretical aspects of group equivariant neural networks", <a href="https://arxiv.org/abs/2004.05154">arXiv 2020</a>)</li>
-<li>equivariant CNNS on homogeneous spaces (Cohen, et al. "A General theory of equivariant CNNs on homogeneous spaces." Neurips 2019)</li>
-</ul>
-
-</details>
-
-<details>
   <summary><b>Graph kernels</b> (click to expand)</summary>
 
 <p>Overview:</p>
@@ -218,21 +161,6 @@ higher-order graph embeddings." NeurIPS 2020)</li>
 
 </details>
 
-<details>
-  <summary><b>Causal inference</b> (click to expand)</summary>
- 
-<p>Overview:</p>
-<ul>
-<li>chapter 1 to 3 of "Elements of causal inference" by Jonas Peters, Dominik Janzing, and Bernhard Schölkopf, 2017 <a href="https://mitpress.mit.edu/books/elements-causal-inference">(pdf)</a></li>
-<li>introduction to causal inference: Bernhard Schölkopf - MLSS 2020 <a href="https://www.youtube.com/watch?v=btmJtThWmhA">(youtube-link)</a></li>
-</ul>
-<p>Papers and projects:</p>
-<ul>
-<li>transfer learning (Rojas-Carulla, et al. "Invariant models for causal transfer learning." Journal of machine learning research 2019)</li>
-<li>causality and semi-supervised learning (chapter 5 of "Elements of causal inference" <strong>and</strong> Schölkopf, et al. "On causal and anticausal learning." ICML 2012)</li>
-</ul>
-
-</details>
 
 <details>
   <summary><b>Semi-supervised learning</b> (click to expand)</summary>
@@ -246,7 +174,6 @@ higher-order graph embeddings." NeurIPS 2020)</li>
 <ul>
 <li>transductive support vector machines (chapter 6 in SSL by Thorsten Joachims)</li>
 <li>large-margin semi-supervised learning (Wang, et al. "On efficient large margin semisupervised learning: method and theory." Journal of machine learning research 2009)</li>
-<li>label propagation and quadratic criterion (chapter 11 in SSL by Yoshua Bengio, Olivier Delalleau and Nicolas Le Roux)</li>
 <li>PAC model for semi-supervised learning (chapter 22 of SSL by Maria-Florina Balcan and Avrim Blum)</li>
 <li>generalization error bounds (Rigollet. "Generalization error bounds in semi-supervised classification under the cluster assumption." Journal of machine learning research 2007)</li>
 <li>regularization and semi-supervised learning on graphs (Belkin, et al. "Regularization and semi-supervised learning on large graphs." COLT 2004)</li>
@@ -292,6 +219,47 @@ higher-order graph embeddings." NeurIPS 2020)</li>
 <li>(online) learning with partial orders (Gärtner and  Garriga. "The cost of learning directed cuts." ECML 2007 <strong>and</strong> Missura and Gärtner. "Predicting dynamic difficulty." NIPS 2011)</li>
 </ul>
 
+</details>
+
+
+<details>
+  <summary><b>Clustering and dimensionality reduction</b> (click to expand)</summary>
+
+<p>Overview:</p>
+<ul>
+<li>chapter 1 and 2 of "Dimension reduction: a guided tour" by Christopher Burges, 2010, <strong>and</strong> chapter 22 (the introduction section before 22.1 and section 22.5) of "Understanding machine learning".</li>
+<li>introduction and theoretical overview on clustering: Shai Ben-David Cheriton Symposium 2017 <a href="https://www.youtube.com/watch?v=Pq5d1Y2YpgA">(youtube-link)</a></li>
+<li>introduction and overview on probabilistic dimensionality reduction: Neil Lawrence - MLSS 2012 <a href="https://www.youtube.com/watch?v=RmjMLeYXDnI">(youtube-link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>kernel PCA and multidimensional scaling (Schölkopf, et al. "Kernel principal component analysis." ICANN 1997 <strong>and</strong> Williams "On a connection between kernel PCA and metric multidimensional scaling." Machine learning 2002)</li>
+<li>spectral clustering (Von Luxburg. "A tutorial on spectral clustering." Statistics and computing 2007)</li>
+<li>(adaptive) correlation clustering (Bansal, et al. "Correlation clustering." Machine learning 2004 <strong>and</strong> Bressan, Marco, et al. "Correlation clustering with adaptive similarity queries." NeurIPS 2019)</li>
+<li>(approximate) k-means++ (Arthur and Vassilvitskii. "k-means++: The advantages of careful seeding." Stanford, 2006 <strong>and</strong> Bachem, Olivier, et al. "Approximate k-means++ in sublinear time." AAAI 2016)</li>
+<li>clustering under approximation stability (Balcan, et al. "Clustering under approximation stability." Journal of the ACM 2013)</li>
+<li>auto-encoders and generative adversarial nets (Diederik and Welling "Auto-encoding variational Bayes" ICLR 2014 <strong>and</strong> Goodfellow, et al. "Generative adversarial nets" NIPS 2014 <strong>and</strong> Tolstikhin, et al. "Wasserstein auto-encoders" ICLR 2018)</li>
+</ul>
+
+</details>
+
+
+<details>
+  <summary><b>Modern aspects of learning theory</b> (click to expand)</summary>
+<p>Overview:</p>
+<ul>
+<li>Olivier Bousquet Stéphane Boucheron, and Gábor Lugosi: "Introduction to Statistical Learning Theory" 2003.</li>
+<li>Chapters 1-6 of "Understanding machine learning" </li>
+<li> "Extending Generalization Theory Towards Addressing Modern Challenges in ML" by Shay Moran, talk at the HUJI ML Club, 2021 <a href="https://www.youtube.com/watch?v=E6Umv6XBJck">(youtube-link)</a></li>
+<li> (Basic material) Statistical Machine Learning by Ulrike von Luxburg (we recommend part 38-41) <a href="https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC">(youtube playlist)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+<li>partial concept classes (Alon, et al., "A theory of PAC learnability of partial concept classes", unpublished arXiv:2107.08444)</li>
+<li>tight bounds (Bousquet, et al., "Proper learning, Helly number, and an optimal SVM bound" COLT 2020)</li>
+<li>universal learning (Bousquet, et al., "A theory of universal learning" STOC 2021)</li>
+<li>sample compression schemes (Moran, et al., "Sample compression schemes for VC classes" Journal of the ACM 2016).</li>
+</ul>
 </details>
 
 <details>
