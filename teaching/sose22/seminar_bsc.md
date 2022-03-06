@@ -223,3 +223,28 @@ You should have access to the literature and papers through Google scholar, DBLP
 </ul>
 
 </details>
+
+
+<details>
+  <summary><b>Explainable AI</b> (click to expand)</summary>
+  
+<p>Overview:</p>
+<ul>
+  <li>Došilović, Filip Karlo, Mario Brčić, and Nikica Hlupić. "Explainable artificial intelligence: A survey." MIPRO 2018</li>
+  <li> Samek, Wojciech, and Klaus-Robert Müller. "Towards explainable artificial intelligence." Explainable AI: interpreting, explaining and visualizing deep learning." Springer, Cham, 2019 </li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+  <li>interpreting model predictions</li>
+  <ul>
+    <li>Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. ""Why should i trust you?" Explaining the predictions of any classifier." ACM SIGKDD 2016</li>
+    <li>Lundberg, Scott M., and Su-In Lee. "A unified approach to interpreting model predictions." NIPS 2017</li>
+  </ul>
+  <li>reliability of saliency methods</li>
+  <ul>
+    <li>Adebayo, Julius, et al. "Sanity checks for saliency maps." NIPS 2018</li>
+    <li>Kindermans, Pieter-Jan, et al. "The (un) reliability of saliency methods." Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, Springer, Cham, 2019</li>
+  </ul>
+</ul>
+
+</details>

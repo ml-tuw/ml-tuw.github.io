@@ -293,3 +293,35 @@ higher-order graph embeddings." NeurIPS 2020)</li>
 </ul>
 
 </details>
+
+<details>
+  <summary><b>Explainable AI</b> (click to expand)</summary>
+  
+<p>Overview:</p>
+<ul>
+  <li>Došilović, Filip Karlo, Mario Brčić, and Nikica Hlupić. "Explainable artificial intelligence: A survey." MIPRO 2018</li>
+  <li> Samek, Wojciech, and Klaus-Robert Müller. "Towards explainable artificial intelligence." Explainable AI: interpreting, explaining and visualizing deep learning." Springer, Cham, 2019 </li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+  <li>interpreting model predictions with SHAP and LIME (Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. ""Why should i trust you?" Explaining the predictions of any classifier." ACM SIGKDD 2016 <b>and</b> Lundberg, Scott M., and Su-In Lee. "A unified approach to interpreting model predictions." NIPS 2017</li>
+  <li>nonlinear classifiers (Montavon, Grégoire, et al. "Explaining nonlinear classification decisions with deep taylor decomposition." Pattern recognition, 2017)</li>
+</ul>
+
+</details>
+
+<details>
+  <summary><b>Differential privacy</b> (click to expand)</summary>
+  
+<p>Overview:</p>
+<ul>
+  <li>Dwork, Cynthia. "Differential privacy: A survey of results." International conference on theory and applications of models of computation. Springer, 2008)</li>
+  <li> Chapter 2 of: Dwork, Cynthia, and Aaron Roth. "The algorithmic foundations of differential privacy." Found. Trends Theor. Comput. Sci. 9.3-4 2014 </li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+  <li>differential privacy and deep learning (Chen, Xiangyi, Steven Z. Wu, and Mingyi Hong. "Understanding gradient clipping in private SGD: A geometric perspective." NeurIPS 2020)</li>
+  <li>(extensions of) gaussian mechanism (Balle, Borja, and Yu-Xiang Wang. "Improving the gaussian mechanism for differential privacy: Analytical calibration and optimal denoising." International Conference on Machine Learning. PMLR, 2018)</li>
+</ul>
+
+</details>
