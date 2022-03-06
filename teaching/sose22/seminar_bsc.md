@@ -5,36 +5,18 @@ title: Bachelor Seminar Wissenschaftliches Arbeiten
 
 ## General information
 
-- introductory slides: coming soon
 - TISS: [(link)](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=193052&semester=2022S&dswid=6676&dsrid=709)
 - contact: [Patrick Indri](mailto:patrick.indri@tuwien.ac.at)
 - meeting link: [https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)
 - everything important will be announced in TUWEL/TISS.
 
 
-## Timeline
-
-Kickoff-Meeting: 22.03. 15:00 in [https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)
-
-| Date                    | Deadline                                                 |
-| -----------             | ----------:                                              |
-| 22.03.22 15:00          | kickoff [(here)](https://tuwien.zoom.us/my/patrickindri) |
-| Apr                     | spotlight and abstract                                   |
-| Apr                     | bidding                                                  |
-| May                     | first supervisor meeting                                 |
-| May-Jun                 | progress presentation and draft report                   |
-| Jun                     | second supervisor meeting                                |
-| Jun                     | reviewing your peers                                     |
-| Jun                     | final presentation and report                            |
-
-Precise dates will be made available on TUWEL.
-
 ## Format
 This seminar simulates a machine learning conference, where the students take on the role of authors and reviewers. It consists of multiple phases.
 
 ### 1. Proposal phase
 
-Attend the **mandatory** first meeting on 22.03.2022, 15:00 (**[https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)**).
+Attend the **mandatory** first meeting on 22.03.2022, 15:00 (either in person in **Seminarraum 127** in Gußhausstr. 27-29, room CD 03 24, or remotely at **[https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)**).
 
 #### Option 1: our suggestions
  > You select **two** projects/papers (i.e. two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the project-specific resources.   
@@ -189,7 +171,7 @@ You should have access to the literature and papers through Google scholar, DBLP
 </details>
 
 <details>
-  <summary><b>(Graph) Representation Learning</b> (click to expand)</summary>
+  <summary><b>Knowledge graph embedding</b> (click to expand)</summary>
 
 <p>Overview:</p>
 <ul>
@@ -199,9 +181,11 @@ You should have access to the literature and papers through Google scholar, DBLP
 <p>Papers and projects:</p>
 <ul>
 <li>Knowledge Graph Embeddings (focus on deep learning approaches)</li>
+<ul>
 <li>Q. Wang, Z. Mao, B. Wang, L. Guo. "Knowledge Graph Embedding: A Survey of Approaches and Applications", 2017</li>
 <li>Y. Dai, S. Wang, N. Xiong, W. Guo. "A Survey on Knowledge Graph Embedding: Approaches, Applications and Benchmarks", 2020</li>
 <li>M. Wang, L. Qiu, X. Wang. "A Survey on Knowledge Graph Embeddings for Link Prediction", 2021</li>
+</ul>
 </ul>
 
 </details>
@@ -236,6 +220,31 @@ You should have access to the literature and papers through Google scholar, DBLP
 <ul>
 <li>active learning and label propagation (Zhu, et al. "Combining active learning and semi-supervised learning using Gaussian fields and harmonic functions." ICML 2003 workshop on the continuum from labeled to unlabeled data in machine learning and data mining 2003.)</li>
 <li>hierarchical sampling for active learning "Sanjoy and Hsu. "Hierarchical sampling for active learning." ICML 2008)</li>
+</ul>
+
+</details>
+
+
+<details>
+  <summary><b>Explainable AI</b> (click to expand)</summary>
+  
+<p>Overview:</p>
+<ul>
+  <li>Došilović, Filip Karlo, Mario Brčić, and Nikica Hlupić. "Explainable artificial intelligence: A survey." MIPRO 2018</li>
+  <li> Samek, Wojciech, and Klaus-Robert Müller. "Towards explainable artificial intelligence." Explainable AI: interpreting, explaining and visualizing deep learning." Springer, Cham, 2019 </li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+  <li>interpreting model predictions</li>
+  <ul>
+    <li>Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. ""Why should i trust you?" Explaining the predictions of any classifier." ACM SIGKDD 2016</li>
+    <li>Lundberg, Scott M., and Su-In Lee. "A unified approach to interpreting model predictions." NIPS 2017</li>
+  </ul>
+  <li>reliability of saliency methods</li>
+  <ul>
+    <li>Adebayo, Julius, et al. "Sanity checks for saliency maps." NIPS 2018</li>
+    <li>Kindermans, Pieter-Jan, et al. "The (un) reliability of saliency methods." Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, Springer, Cham, 2019</li>
+  </ul>
 </ul>
 
 </details>
