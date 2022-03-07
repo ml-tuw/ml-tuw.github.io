@@ -22,9 +22,10 @@ title: Teaching
 ### Ongoing Thesis Supervision
 
  - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis)
- - Domink Schmidt: *Generalization and Transfer Learning in Multi-Task Reinforcement Learning* (BSc thesis)
+ - Fabian Jogl: *Using Structural Information to Improve Graph Neural Networks* (MSc thesis)
+ - Dominik Schmidt: *Generalization and Transfer Learning in Multi-Task Reinforcement Learning* (BSc thesis)
  - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc Thesis)
- 
+
 
 ## Student Publications
  
