@@ -259,6 +259,7 @@ You should have access to the literature and papers through Google scholar, DBLP
 <li>tight bounds (Bousquet, et al., "Proper learning, Helly number, and an optimal SVM bound" COLT 2020)</li>
 <li>universal learning (Bousquet, et al., "A theory of universal learning" STOC 2021)</li>
 <li>sample compression schemes (Moran, et al., "Sample compression schemes for VC classes" Journal of the ACM 2016).</li>
+<li>generalization bounds for deep neural networks (G.K. Dziugaite, D.M. Roy, "Computing Nonvacuous Generalization Bounds for Deep (Stochastic) Neural Networks with Many More Parameters than Training Data", 2017)</li>
 </ul>
 </details>
 
@@ -292,4 +293,41 @@ You should have access to the literature and papers through Google scholar, DBLP
   <li>(extensions of) gaussian mechanism (Balle, Borja, and Yu-Xiang Wang. "Improving the gaussian mechanism for differential privacy: Analytical calibration and optimal denoising." International Conference on Machine Learning. PMLR, 2018)</li>
 </ul>
 
+</details>
+
+<details>
+  <summary><b>Neuro-inspired DL</b> (click to expand)</summary>
+<p>Overview:</p>
+<ul>
+  <li>Spike-timing dependent plasticity <a href="http://www.scholarpedia.org/article/Spike-timing_dependent_plasticity">(link)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+  <li>Spiking neural networks:</li>
+  <ul>
+    <li>B. Confavreux, F. Zenke, E.J. Agnes, T. Lillicrap, T.P. Vogels. "A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network", 2020</li>
+    <li>F. Zenke, S. Ganguli. "Superspike: Supervised learning in multilayer spiking neural networks", 2018</li>
+  </ul>
+  <li>Feedback alignment:</li>
+  <ul>
+    <li>M. Refinetti et al. "Align, then memorise: the dynamics of learning with feedback alignment", 2021</li>
+    <li>J.M. Murray: "Local online learning in recurrent networks with random feedback", 2019</li>
+  </ul>
+</ul>
+
+</details>
+
+<details>
+  <summary><b>Optimization (and Generalization) in Neural Networks</b> (click to expand)</summary>
+<p>Overview:</p>
+<ul>
+  <li>A. Globerson: How SGD Can Succeed Despite Non-Convexity and Over-Parameterization <a href="https://simons.berkeley.edu/sites/default/files/docs/9983/simonsjune18.pdf">(slides)</a></li>
+</ul>
+<p>Papers and projects:</p>
+<ul>
+  <li>A. Brutzkus et al: "SGD Learns Over-parameterized Networks that Provably Generalize on Linearly Separable Data", 2017</li>
+  <li>Choose one or more papers listed on page 14 in the above mentioned <a href="https://simons.berkeley.edu/sites/default/files/docs/9983/simonsjune18.pdf">slides</a> :)</li>
+  <li>A. Shevchenko, M. Mondelli. "Landscape Connectivity and Dropout Stability of SGD Solutions for Over-parameterized Neural Networks", 2020</li>
+  <li>H. Petzka et al. "Relative Flatness and Generalization", 2021</li>
+</ul>
 </details>
