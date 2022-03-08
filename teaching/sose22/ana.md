@@ -18,10 +18,10 @@ You will:
 * Understand and summarise research papers
 * Work on a concrete problem/task in machine learning
 
-There are two types of projects:
-* **Theoretical**: formulate proofs, find novel bounds, show the complexity of an algorithm, ...
-* **Algorithmic**: Implement and apply an algorithm, perform experiments, achieve good results on data, ...
-* **Applied**: Build an application that its core uses machine learning
+There are three types of projects:
+* **Theoretical**: Formulate proofs, find novel bounds, show the complexity of an algorithm
+* **Algorithmic**: Implement an algorithm, perform experiments, achieve good results on data
+* **Applied**: Build an application that at its core uses machine learning
 
 ---
 
