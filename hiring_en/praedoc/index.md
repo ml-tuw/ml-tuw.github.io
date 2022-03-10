@@ -1,17 +1,17 @@
 ---
 layout: entitled
-title: PraeDoc Position in Machine Learning
+title: PhD Position in Machine Learning
 ---
 
 ![TU_Hauptgebaeude](../TU_Hauptgebaeude_neu.jpg)
 
-# University Assistant (PraeDoc)
+# University Assistant (PhD candidate)
 
 Part-time (30 hours/week) | for 4 years 
 
 With over 26,000 students and 4,000 scientists, **TU Wien** is Austria’s largest institution of research and higher education in the fields of technology and natural sciences. For more than 200 years research, teaching, and learning at TU Wien have been guided by the motto "Technology for People" and dedicated to the advancement of science and technology. The computer science faculty of TU Wien consistently ranks among the top 100 departments in the world. 
 
-The [research unit **Ma﻿chine Learning**](https://www.ml.tuwien.ac.at/) investigates fundamental machine learning questions and demonstrates the applicability of novel algorithms in real-world applications, often together with colleagues and collaborators from other disciplines. Challenges that we investigate often involve structured data such as graphs, iterative learning processes such as online/active learning, approximation/convergence guarantees, and computational questions such as the parallelisation of machine learning algorithms. **There is now an opportunity for you to join the research unit as a university assistant** (PhD candidate, prae-doc: 30 hours/week for up to 4 years, earliest start date is May 2022). 
+The [research unit **Ma﻿chine Learning**](https://www.ml.tuwien.ac.at/) investigates fundamental machine learning questions and demonstrates the applicability of novel algorithms in real-world applications, often together with colleagues and collaborators from other disciplines. Challenges that we investigate often involve structured data such as graphs, iterative learning processes such as online/active learning, approximation/convergence guarantees, and computational questions such as the parallelisation of machine learning algorithms. **There is now an opportunity for you to join the research unit as a university assistant** (PhD candidate: 30 hours/week for up to 4 years, earliest start date is May 2022). 
 
 ### Your Tasks: 
 
