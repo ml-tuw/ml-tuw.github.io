@@ -147,8 +147,9 @@ You should have access to the literature and papers through Google scholar, DBLP
 </ul>
 <p>Papers and projects:</p>
 <ul>
-<li>expressivity of graph neural networks (Xu et al. "How powerful are graph neural networks?" ICLR 2019)</li>
 <li>performance of graph neural networks (Dwivedi et al. "Benchmarking graph neural networks." 2020)</li>
+<li>counting substructures (Chen, Zhengdao, et al. "Can graph neural networks count substructures?" NeurIPS 2020)</li>
+<li>randomization (Abboud, Ralph, et al. "The Surprising Power of Graph Neural Networks with Random Node Initialization." IJCAI 2021)</li>
 </ul>
 
 </details>
@@ -200,10 +201,9 @@ You should have access to the literature and papers through Google scholar, DBLP
 </ul>
 <p>Papers and projects:</p>
 <ul>
-<li>graph cuts (Blum and Chawla. "Learning from labeled and unlabeled data using graph mincuts." ICML 2001)</li>
-<li>label propagation (Zhu, et al. "Semi-supervised learning using Gaussian fields and harmonic functions." ICML 2003)</li>
-<li>learning with local and global consistency (Zhou, et al. "Learning with local and global consistency." NIPS 2004)</li>
-<li>semi-supervised learning by entropy minimization (Grandvalet and Bengio. "Semi-supervised learning by entropy minimization." NIPS 2005)</li>
+<li>transductive support vector machines (chapter 6 in the "Semi-supervised learning" book mentioned above)</li>
+<li>label propagation (chapter 11 in the "Semi-supervised learning" book mentioned above)</li>
+<li>randomized min-cuts (Blum, Avrim, et al., "Semi-supervised learning using randomized mincuts.", ICML 2004)</li>
 </ul>
 
 </details>
@@ -218,8 +218,9 @@ You should have access to the literature and papers through Google scholar, DBLP
 </ul>
 <p>Papers and projects:</p>
 <ul>
-<li>active learning and label propagation (Zhu, et al. "Combining active learning and semi-supervised learning using Gaussian fields and harmonic functions." ICML 2003 workshop on the continuum from labeled to unlabeled data in machine learning and data mining 2003.)</li>
-<li>hierarchical sampling for active learning "Sanjoy and Hsu. "Hierarchical sampling for active learning." ICML 2008)</li>
+<li>Bayesian active learning on graphs (Ma, Yifet, et al., "σ-optimality for active learning on gaussian random fields." NIPS 2013)</li>
+<li>active search on graphs (Wang, Xuezhi, et al., "Active search on graphs" KDD 2013)</li>
+<li>shortest-path-based active learning (Dasarathy, et al. "S2: an efficient graph based active learning algorithm with application to nonparametric classification." COLT 2015)</li>
 </ul>
 
 </details>
