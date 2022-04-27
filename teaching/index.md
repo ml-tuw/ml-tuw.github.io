@@ -28,8 +28,10 @@ title: Teaching
 
 
 ## Student Publications
- 
- - Fares Meghdouri, Thomas Schmied, Tanja Zseby, and Thomas Gärtner. **Conditional Network Data Balancing With GANs** _Deep Generative Models and Downstream Applications_ NeurIPS Workshop 2021. 
+
+ - Dominik Schmidt. **Dojo: A Large Scale Benchmark for Multi-Task Reinforcement Learning.** _Agent Learning in Open-Endedness_ ICLR Workshop 2022.
+ - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Reducing Learning on Cell Complexes to Graphs.** _Geometrical and Topological Representation Learning_ ICLR Workshop 2022.
+ - Fares Meghdouri, Thomas Schmied, Tanja Zseby, and Thomas Gärtner. **Conditional Network Data Balancing With GANs.** _Deep Generative Models and Downstream Applications_ NeurIPS Workshop 2021. 
  - Dominik Schmidt and Thomas Schmied. **Fast and Data-Efficient Training of Rainbow: an Experimental Study on Atari.** _Deep Reinforcement Learning_ NeurIPS Workshop 2021.
  - Thomas Schmied and Maximilian Thiessen. **Efficient Reinforcement Learning via Self-supervised learning and Model-based methods.** _Challenges of Real-World Reinforcement Learning_ NeurIPS Workshop 2020. ([pdf](https://maxthiessen.ml/publication/schmied2020efficient/schmied2020efficient.pdf))
 
