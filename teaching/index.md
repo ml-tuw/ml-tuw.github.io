@@ -28,6 +28,7 @@ title: Teaching
 
 
 ## Student Publications
+
  - Dominik Schmidt. **Dojo: A Large Scale Benchmark for Multi-Task Reinforcement Learning.** _Agent Learning in Open-Endedness_ ICLR Workshop 2022.
  - Fabian Jogl, Maximilian Thiessen, Thomas Gärtner. **Reducing Learning on Cell Complexes to Graphs.** _Geometrical and Topological Representation Learning_ ICLR Workshop 2022.
  - Fares Meghdouri, Thomas Schmied, Tanja Zseby, and Thomas Gärtner. **Conditional Network Data Balancing With GANs.** _Deep Generative Models and Downstream Applications_ NeurIPS Workshop 2021. 
