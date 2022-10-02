@@ -10,27 +10,27 @@ title: Teaching
 {% endcomment %}
 
 
-### SoSe 2022
+### WiSe 2022/23
 
 <ul>
-<li> MSc <b>Lecture</b> <a href="./sose22/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li> MSc <b>Seminar</b> <a href="./sose22/seminar_msc.html"><i>Theoretical Aspects of Machine Learning Algorithms (SE)</i></a></li>
-<li> MSc <b>Project</b> <a href="./sose22/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
-<li> BSc <b>Seminar</b> <a href="./sose22/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+<li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2223/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_msc.html"><i>Machine Learning Algorithms and Applications (SE)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2223/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./ws2223/ana6ects.html"><i>Project in Computer Science 1 - Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
 ### Ongoing Thesis Supervision
 
- - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis)
- - Fabian Jogl: *Using Structural Information to Improve Graph Neural Networks* (MSc thesis)
- - Dominik Schmidt: *Generalization and Transfer Learning in Multi-Task Reinforcement Learning* (BSc thesis)
  - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc Thesis)
 
 
 ## Student Publications
 
- - Dominik Schmidt. **Dojo: A Large Scale Benchmark for Multi-Task Reinforcement Learning.** _Agent Learning in Open-Endedness_ ICLR Workshop 2022.
+
+- Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Weisfeiler and Leman Return with Graph Transformations.** Mining and Learning with Graphs ECMLPKDD Workshop 2022.
  - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Reducing Learning on Cell Complexes to Graphs.** _Geometrical and Topological Representation Learning_ ICLR Workshop 2022.
+ - Dominik Schmidt. **Dojo: A Large Scale Benchmark for Multi-Task Reinforcement Learning.** _Agent Learning in Open-Endedness_ ICLR Workshop 2022.
  - Fares Meghdouri, Thomas Schmied, Tanja Zseby, and Thomas Gärtner. **Conditional Network Data Balancing With GANs.** _Deep Generative Models and Downstream Applications_ NeurIPS Workshop 2021. 
  - Dominik Schmidt and Thomas Schmied. **Fast and Data-Efficient Training of Rainbow: an Experimental Study on Atari.** _Deep Reinforcement Learning_ NeurIPS Workshop 2021.
  - Thomas Schmied and Maximilian Thiessen. **Efficient Reinforcement Learning via Self-supervised learning and Model-based methods.** _Challenges of Real-World Reinforcement Learning_ NeurIPS Workshop 2020. ([pdf](https://maxthiessen.ml/publication/schmied2020efficient/schmied2020efficient.pdf))
@@ -42,11 +42,29 @@ title: Teaching
 
 ### Theses
 
+ - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis)
+ - Fabian Jogl: *Do we need to Improve Message Passing? Improving Graph Neural Networks with Graph Transformations* (MSc thesis)
+ - Dominik Schmidt: *Generalization and Transfer Learning in Multi-Task Reinforcement Learning* (BSc thesis)
  - Sabrina Herbst: *Analysis of Bacteriophages---Predicting Hosts of Bacteriophages Based on
 Molecular Sequence Data* (BSc thesis)
  - Philip Vonderlind: *Domain Transfer for Multi-Agent Reinforcement Learning* (BSc thesis)
 
-### WiSe 2021/22
+
+<details>
+  <summary><b>SoSe 2022</b> (click to expand)</summary>
+
+<ul>
+<li> MSc <b>Lecture</b> <a href="./sose22/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Seminar</b> <a href="./sose22/seminar_msc.html"><i>Theoretical Aspects of Machine Learning Algorithms (SE)</i></a></li>
+<li> MSc <b>Project</b> <a href="./sose22/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> BSc <b>Seminar</b> <a href="./sose22/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+</ul>
+
+</details>
+
+
+<details>
+  <summary><b>WiSe 2021/22</b> (click to expand)</summary>
 
 <ul>
 <li> MSc <b>Lecture</b> <a href="./ws2122/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
@@ -70,8 +88,11 @@ For other topics you will need to describe the scientific merit and novelty. It 
 </li>
 <li> BSc <b>Seminar</b> <a href="./ws2122/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
+
+</details>
  
-### SoSe 2021 
+<details>
+  <summary><b>SoSe 2021</b> (click to expand)</summary>
 
 <ul>
 <li> MSc <b>Lecture</b> <a href="./sose21/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
@@ -96,7 +117,10 @@ For other topics you will need to describe the scientific merit and novelty. It 
 <li> BSc <b>Seminar</b> <a href="./sose21/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
-### WiSe 2020/21 
+</details>
+
+<details>
+  <summary><b>WiSe 2020/21</b> (click to expand)</summary>
 
 - MSc **Lecture** [*Theoretical Foundations and Research Topics in Machine Learning* (VU)](./ws2021/tfrtML.html)
 - MSc **Seminar** [*Theoretical Aspects of Machine Learning* (SE)](./ws2021/seminar_msc.html)
@@ -105,6 +129,7 @@ For other topics you will need to describe the scientific merit and novelty. It 
 - BSc **Seminar** [*Scientific Research and Writing* (SE)](./ws2021/seminar_bsc.html)
 
 
+</details>
 
 
 
