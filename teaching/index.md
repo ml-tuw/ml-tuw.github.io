@@ -20,6 +20,10 @@ title: Teaching
 <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
+### Thesis opportunities
+
+<a href="./ws2223/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
+
 ### Ongoing Thesis Supervision
 
  - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc Thesis)

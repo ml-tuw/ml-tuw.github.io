@@ -224,7 +224,7 @@ You should have access to the literature and papers through Google scholar, DBLP
 <details>
   <summary><b>Trustworthy ML</b> (click to expand)</summary>
   
-<p style="color:tomato;">Missing motivation</p>
+<p>Motivation: Machine learning systems are ubiquitous and it is necessary to make sure they behave as intended. In particular, trustworthiness can be achieved by means of privacy-preserving, robust, and explainable algorithms.</p>
   
 <p>Overview:</p>
 <ul>
@@ -286,7 +286,7 @@ You should have access to the literature and papers through Google scholar, DBLP
 <details>
   <summary><b>Graph Neural Networks (GNNs)</b> (click to expand)</summary>
   
-<p>Motivation Graphs are a very general structure and can be applied to many areas: molecules and developing medicine, geographical maps, spread of diseases. They can be used to model physical systems and solve partial differential equations. Even images and text can be seen as a special case of graphs. Thus it makes sense to develop neural networks that can work with graphs. GNNs have strong connections to many classical computer science topics (algorithmics, logic, ...) while also making use of neural networks. This  means that work on GNN can be very theoretical, applied or anything in between.</p>
+<p>Motivation: Graphs are a very general structure and can be applied to many areas: molecules and developing medicine, geographical maps, spread of diseases. They can be used to model physical systems and solve partial differential equations. Even images and text can be seen as a special case of graphs. Thus it makes sense to develop neural networks that can work with graphs. GNNs have strong connections to many classical computer science topics (algorithmics, logic, ...) while also making use of neural networks. This  means that work on GNN can be very theoretical, applied or anything in between.</p>
 
 <p>Overview:</p>
 <ul>

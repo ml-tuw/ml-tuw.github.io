@@ -142,6 +142,9 @@ You should have access to the literature and papers through Google scholar, DBLP
 <details>
   <summary><b>Trustworthy ML</b> (click to expand)</summary>
   
+<p>Motivation: Machine learning systems are ubiquitous and it is necessary to make sure they behave as intended. In particular, trustworthiness can be achieved by means of privacy-preserving, robust, and explainable algorithms.</p>
+
+  
 <p>Overview:</p>
 <ul>
   <li>General: What does it mean for ML to be trustworthy? <a href="https://www.youtube.com/watch?v=UpGgIqLhaqo">(youtube-link)</a></li>
