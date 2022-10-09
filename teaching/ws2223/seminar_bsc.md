@@ -87,24 +87,6 @@ You should have access to the literature and papers through Google scholar, DBLP
 
 
 <details>
-  <summary><b>Graph neural networks</b> (click to expand)</summary>
-
-<p>Overview:</p>
-<ul>
-<li>introduction and overview on graph neural networks: Petar Veličković - Tensorflow Tech Talks 2021 <a href="https://www.youtube.com/watch?v=8owQBFAHw7E">(youtube-link)</a></li>
-<li>part II "graph representation learning" by William L. Hamilton <a href="https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">(pdf)</a></li>
-</ul>
-<p>Papers and topics:</p>
-<ul>
-<li>performance of graph neural networks (Dwivedi et al. "Benchmarking graph neural networks." 2020)</li>
-<li>counting substructures (Chen, Zhengdao, et al. "Can graph neural networks count substructures?" NeurIPS 2020)</li>
-<li>randomization (Abboud, Ralph, et al. "The Surprising Power of Graph Neural Networks with Random Node Initialization." IJCAI 2021)</li>
-</ul>
-
-</details>
-
-
-<details>
   <summary><b>Semi-supervised learning</b> (click to expand)</summary>
   
 <p>Overview:</p>
@@ -230,4 +212,6 @@ You should have access to the literature and papers through Google scholar, DBLP
 
 </details>
 
+<!--
 <p style="color:tomato;">Missing: oprimisation (SGD stuff, maybe convex stuff) (Tamara). Multi-view/multi-modal clustering (Tamara). Representation learning (David). Maybe ML for sciences or something. Few "motivation" paragraphs.</p>
+-->

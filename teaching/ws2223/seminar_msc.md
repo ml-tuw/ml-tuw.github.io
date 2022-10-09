@@ -69,7 +69,10 @@ You should have access to the literature and papers through Google scholar, DBLP
 <details>
   <summary><b>Neurosymbolic AI / Logic & ML</b> (click to expand)</summary>
   
+<!--
 <p style="color:tomato;">Missing motivation</p>
+-->
+
 
 <p>Overview:</p>
 <ul>
@@ -247,7 +250,9 @@ You should have access to the literature and papers through Google scholar, DBLP
 <details>
   <summary><b>Optimization (and Generalization) in Neural Networks</b> (click to expand)</summary>
   
+<!--
 <p style="color:tomato;">Missing motivation</p>
+-->
 
 <p>Overview:</p>
 <ul>
@@ -337,4 +342,6 @@ You should have access to the literature and papers through Google scholar, DBLP
 
 </details>
 
+<!---
 <p style="color:tomato;">Missing: representation learning (David). Few "motivation" paragraphs.</p>
+-->

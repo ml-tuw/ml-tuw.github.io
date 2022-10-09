@@ -53,18 +53,8 @@ We are happy to supervise machine learning related projects that are connected t
 
 ### Competitions & challenges
 
-<p style="color:tomato;">Remove everything but Max's thing.</p>
-
 {% include di_filter.html term="ws2223" projs="competitions" %}
 
-**Further competitions and challenges**:
-
-* [AI for Sustainable Development Goals](https://www.ai-for-sdgs.academy/)
-* [Solve for Good](https://www.solveforgood.org/)
-* [KDD Cup](https://kdd.org/kdd2022/cfKDDCup.html) (starting March 15)
-* IJCAI competitions: [2022 call for competitions](https://ijcai-22.org/calls-competitions/), [2021 competitions](https://ijcai-21.org/competitions/)
- 
-More competitions and challenges will be added soon!
 
 ### Your own idea!
 
