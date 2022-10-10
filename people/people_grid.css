@@ -1,0 +1,35 @@
+.grid{
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: auto;
+  grid-gap: 20px;
+}
+
+.item{ 
+  display: flex;
+  align-items: center;
+  height: auto;
+}
+
+.item > img{
+  margin-left: auto;
+}
+
+@media all and (min-width: 670px){
+  .container{
+    width: 100%;
+  }
+  .grid{
+    grid-template-columns: 0.5fr 1fr;
+    grid-auto-rows: min-content;
+    column-gap: 50px;
+  }
+}
+
+@media all and (min-width: 900px){
+  .grid{
+    grid-template-columns: 0.1fr 2fr 1.5fr 2fr;
+    grid-template-rows: auto;
+  }
+}
+
