@@ -1,13 +1,13 @@
 ---
 layout: entitled
-title: Project in Computer Science 1 -- Machine Learning Algorithms and Applications
+title: Project in Computer Science 1 - Machine Learning Algorithms and Applications
 ---
 ## General information
 
 - TISS: [(link)](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=3212&dsrid=796&courseNumber=194119&courseSemester=2022W)
 - contact: [Tamara Drucks](mailto:tamara.drucks@tuwien.ac.at)
 - meeting link: [https://tuwien.zoom.us/my/tamaradrucks](https://tuwien.zoom.us/my/tamaradrucks)
-- physical meeting room: FB0210, Erzh.-Johann-Platz 1
+- physical meeting room: FB0210, Erzherzog-Johann-Platz 1
 - everything important will be announced in TUWEL/TISS.
 
 
