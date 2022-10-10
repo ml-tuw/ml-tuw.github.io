@@ -14,7 +14,7 @@ title: Teaching
 
 <ul>
 <li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2223/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_msc.html"><i>Machine Learning Algorithms and Applications (SE)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
 <li> MSc <b>Project</b> (3 ECTS) <a href="./ws2223/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
 <li> MSc <b>Project</b> (6 ECTS) <a href="./ws2223/ana6ects.html"><i>Project in Computer Science 1 - Machine Learning Algorithms and Applications (PR)</i></a></li>
 <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
