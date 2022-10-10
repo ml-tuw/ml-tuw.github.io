@@ -1,12 +1,13 @@
 ---
 layout: entitled
-title: Machine Learning Algorithms and Applications
+title: Project in Computer Science 1 -- Machine Learning Algorithms and Applications
 ---
 ## General information
 
-- TISS: [(link)](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=4036&dsrid=930&courseNr=194119&semester=2022W)
+- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=3212&dsrid=796&courseNumber=194119&courseSemester=2022W)
 - contact: [Tamara Drucks](mailto:tamara.drucks@tuwien.ac.at)
 - meeting link: [https://tuwien.zoom.us/my/tamaradrucks](https://tuwien.zoom.us/my/tamaradrucks)
+- physical meeting room: FB0210, Erzh.-Johann-Platz 1
 - everything important will be announced in TUWEL/TISS.
 
 
@@ -33,27 +34,28 @@ Choose a project topic or come up with your own, original idea. Then, write a sh
 
 #### 2. Working phase
 
-Work on your project and present your work to colleagues and our group. Additionally, you will have regular discussion meetings with your supervisor. 
+Independently work on your project. Additionally, you will have discussion meetings with your supervisor if needed. 
 
 #### 3. Final submission
 
-Write a final report (short or full paper) to present your project, and design a poster. Your poster will be exhibited to your colleagues and our group during a poster session (snacks included, if Covid allows it!) at the end of the semester.
+Write a final report to present the results of your work.
 
 
-## Topics (Tentative)
+## Projects (Tentative)
 
-Here you can find a list of potential projects to choose from:
+<!-- Here you can find a list of potential projects to choose from:
 
-### Applied & theoretical projects
+### Applied & theoretical projects -->
 
 We are happy to supervise machine learning related projects that are connected to our research interests. Examples are:
 
 {% include di_filter.html term="ws2223" projs="distinct_projects" %}
 
 
-### Competitions & challenges
+<!-- ### Competitions & challenges
 
-{% include di_filter.html term="ws2223" projs="competitions" %}
+{% include di_filter.html term="ws2223" projs="competitions" %} -->
+
 
 ### Your own idea!
 
@@ -66,7 +68,7 @@ Describe the scientific merit and novelty of your idea. It is very important to 
 
 If you choose your own topic, please briefly describe your project following this structure (check our suggested topics to get an idea):
 
-* Question
+* Research question
 * Suggested Approach
 * Related Work
 * Context
