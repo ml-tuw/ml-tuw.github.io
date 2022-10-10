@@ -26,13 +26,15 @@ title: Teaching
 
 ### Ongoing Thesis Supervision
 
+ - Fabian Jogl: *Using Structural Information to Improve Graph Neural Networks* (MSc thesis)
+ - Dominik Schmidt: *Generalization and Transfer Learning in Multi-Task Reinforcement Learning* (BSc thesis)
  - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc Thesis)
 
 
 ## Student Publications
 
 
-- Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Weisfeiler and Leman Return with Graph Transformations.** Mining and Learning with Graphs ECMLPKDD Workshop 2022.
+ - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Weisfeiler and Leman Return with Graph Transformations.** Mining and Learning with Graphs ECMLPKDD Workshop 2022.
  - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Reducing Learning on Cell Complexes to Graphs.** _Geometrical and Topological Representation Learning_ ICLR Workshop 2022.
  - Dominik Schmidt. **Dojo: A Large Scale Benchmark for Multi-Task Reinforcement Learning.** _Agent Learning in Open-Endedness_ ICLR Workshop 2022.
  - Fares Meghdouri, Thomas Schmied, Tanja Zseby, and Thomas Gärtner. **Conditional Network Data Balancing With GANs.** _Deep Generative Models and Downstream Applications_ NeurIPS Workshop 2021. 
