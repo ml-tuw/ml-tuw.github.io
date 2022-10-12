@@ -1,49 +1,11 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>Machine Learning research unit at TU Wien Informatics --- Publications</title>
-			<!-- link to main stylesheet -->
-			<link id="style" rel="stylesheet" type="text/css" href="http://localhost:4000/css/main.css">
-    <script>
-    var tmp;
-    function dark() {
-         document.getElementById("style").href="http://localhost:4000/css/dark.css" ;
-         sessionStorage.setItem('bg', "dark");
-    }
-    function light() {
-         document.getElementById("style").href="http://localhost:4000/css/main.css";
-         sessionStorage.setItem('bg', "light");
-    }
-    function magic() {
-          if (sessionStorage.getItem('bg') == "dark" ) {
-             dark();
-          } else if(sessionStorage.getItem('bg') == "light" ) {
-             light();
-          }
-    }
-    magic()
-    </script>
+---
+layout: entitled
+title: Selected Publications
+---
 
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">home</a></li>
-	        		<li><a href="/people">people</a></li>
-	        		<li><a href="/software">software</a></li>
-	        		<li><a href="/teaching">teaching</a></li>
-	        		<li><a href="/publications">publications</a></li>
-	        		<li><a href="/hiring_en">open positions</a></li>
-<!--	        		<li><a href="/papers">papers</a></li>
-	        		<li><a href="/activities">activities</a></li>
-	        		<li><a href="/software">software &amp; demos</a></li>
--->
-	    		</ul>
-			</nav>
 
-			<div class="container">
-			<h1>Publications</h1>
-			<ol class="bibliography"><li><div class="text-justify">
+<ul>
+<li><div class="text-justify">
     <span id="penz2022lfm2b"><span style="font-variant: normal">Markus Schedl, Stefan Brandl, Oleg Lesota, Emilia Parada-Cabaleiro, David Penz, and Navid Rekabsaz</span>. 2022. <b>LFM-2b: A Dataset of Enriched Music Listening Events for Recommender Systems Research and Fairness Analysis</b>. In <i>CHIIR</i>. CHIIR ’22. New York, NY, USA: Association for Computing Machinery, 337–341.</span>
     
     [<a href="http://doi.org/10.1145/3498366.3505791">doi</a>]
@@ -149,21 +111,5 @@
 </li>
 <li><div class="text-justify">
     <span id="thiessen2020active"><span style="font-variant: normal">Maximilian Thiessen and Thomas Gärtner</span>. 2020. <b>Active Learning on Graphs with Geodesically Convex Classes</b>. In <i>MLG workshop at KDD</i>.</span>
-    
-    
-    
-    
-</div>
-</li></ol>
 
-			
-			</div><!-- /.container -->
-<footer>
-	    		<ul>
-	        		<li>under construction</li> <li> <a onclick=dark()>dark</a>/<a onclick=light()>light</a>  </li> 
-				</ul>
-			</footer>
-
-		</body>
-	</html>
-
+</ul>
