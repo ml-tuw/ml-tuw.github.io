@@ -10,3 +10,4 @@ Code for several recent projects is freely available:
  -   [Co-regularised support vector regression](https://bitbucket.org/Michael_Kamp/cosvr)
  -   [Greedy Feature Construction](https://bitbucket.org/doglic/gfc)
  -   [InVis: A Tool for Interactive Visual Data Analysis]({{site.url}}{{page.url}}InVis/) [[video](https://drive.google.com/file/d/1EYubxd6CxgXlmYsKJNii5ryPX8OWlMvj/view?usp=sharing)]
+ - [Krein Support Vector Machine Classification of Antimicrobial Peptides](https://github.com/Mrjoeybux/KreinAMP)

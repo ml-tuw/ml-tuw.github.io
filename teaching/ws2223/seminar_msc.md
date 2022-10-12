@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: Seminar on Theoretical Aspects of Machine Learning Algorithms
+title: Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning
 ---
 
 ## General information
