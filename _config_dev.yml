@@ -54,11 +54,11 @@ scholar:
 #  style: apa 
   locale: en
 
-  sort_by: year
+  sort_by: author
   order: descending
 
-  group_by: none
-  group_order: ascending
+  group_by: publicationtype, year
+  group_order: descending
 
   source: ./_bibliography
 #  bibliography: "*.bib"
