@@ -70,6 +70,9 @@ You should have access to the literature and papers through Google scholar, DBLP
 
 <details>
   <summary><b>Kernels</b> (click to expand)</summary>
+  
+<p>Motivation: Kernels generalise linear classifiers to linear functions in a (potentially infinite dimensional) feature space. They are the foundation of various popular machine learning algorithms like the kernel SVM and kernel PCA.</p>
+
 <p>Overview:</p>
 <ul>
 <li>preface and introduction up to section 1.5 of "Learning with kernels" by Bernhard Schölkopf and Alex Smola, 2002 <a href="http://agbs.kyb.tuebingen.mpg.de/lwk/">(pdf)</a>.</li>
@@ -89,6 +92,8 @@ You should have access to the literature and papers through Google scholar, DBLP
 <details>
   <summary><b>Semi-supervised learning</b> (click to expand)</summary>
   
+<p>Motivation: Semi-supervised learning uses labelled and to be able to train classifiers with fewer labels. This is useful in applications where unlabelled data is abundant, yet labels are scarce, such as node classification in social networks, drug discovery, and autonomous driving.</p>
+  
 <p>Overview:</p>
 <ul>
 <li>chapter 1/introduction of "Semi-supervised learning" by Olivier Chapelle, Bernhard Schölkopf, and Alexander Zien, 2006 <a href="http://olivier.chapelle.cc/ssl-book/ssl_toc.pdf">(pdf)</a>.</li>
@@ -105,6 +110,8 @@ You should have access to the literature and papers through Google scholar, DBLP
 
 <details>
   <summary><b>Active learning</b> (click to expand)</summary>
+  
+<p>Motivation: In active learning, the learning algorithm is allowed to select the data points it wants to see labelled, for example, where it is most uncertain. The goal is to reduce the labelling effort. This is useful in applications where unlabelled data is abundant, yet labels are scarce, such as node classification in social networks, drug discovery, and autonomous driving.</p>
   
 <p>Overview:</p>
 <ul>
@@ -191,7 +198,7 @@ You should have access to the literature and papers through Google scholar, DBLP
 <li>Veličković, Intro to graph neural networks (ML Tech Talks): https://www.youtube.com/watch?v=8owQBFAHw7E  2021</li>
 </ul>
 
-<p>Papers and projects:</p>
+<p>Papers and topics:</p>
 
 <ul>
 <li>Algorithm representation learning:</li>
@@ -212,6 +219,92 @@ You should have access to the literature and papers through Google scholar, DBLP
 
 </details>
 
-<!--
-<p style="color:tomato;">Missing: oprimisation (SGD stuff, maybe convex stuff) (Tamara). Multi-view/multi-modal clustering (Tamara). Representation learning (David). Maybe ML for sciences or something. Few "motivation" paragraphs.</p>
--->
+<details>
+  <summary><b>GNN explainability</b> (click to expand)</summary>
+  
+<p>Graph neural networks (GNNs) have common applications in biology, chemistry and, by extension, medicine. For these areas it is of utmost importance to understand why our method (the GNN) behaves like it does. For example: Why does a GNN classify a molecule as a potential target for a novel therapy? Many classical agnostic explainability approaches for machine learning algorithms focus on the importance of node features, disregarding the actual graph structure. However, the structure of a graph is essential for many learning tasks.  Thus, there has been a recent surge in the development of GNN explainability methods: such methods might identify relevant substructures (e.g., cycles in a molecule) or give logical rules which explain the prediction.</p>
+
+<p>Overview:</p>
+<ul>
+<li>For a general overview about GNNs, please checkout the Overview section in <i>Graph Neural Networks (GNNs).</i></li>
+</ul>
+
+<p>Papers and topics:</p>
+<ul>
+<li>rule-based explanations (Cucala et al. "Explainable GNN-based models over knowledge graphs", ICLR 2022)</li>
+<li>motif-based explanations (Yu and Gao "MotifExplainer: a Motif-based Graph Neural Network Explainer", arXiv 2022)</li>
+<li>subgraph-based explanations (Yuan et al. "On Explainability of Graph Neural Networks via Subgraph Explorations", ICML 2021)</li>
+<li>subgraph- and node feature-based explanations (Ying et al. "GNNExplainer: Generaling Explanations for Graph Neural Networks", NeurIPS 2019)</li>
+</ul>
+
+</details>
+
+
+
+
+<details>
+  <summary><b>ML for SAR image processing</b> (click to expand)</summary>
+  
+<p>Motivation: Synthetic Aperture Radar (SAR) is an active microwave imaging system that provides high-resolution images day and night under all weather conditions. It has been widely used in many practical applications, such as environment, crop monitoring, and disaster detection. Using best-suited machine learning algorithms to derive useful information from these data is essential.</p>
+
+<p>Overview:</p>
+<ul>
+<li>Chapter 2 “Spaceborne Synthetic Aperture Radar: Principles, Data Access, and Basic Processing Techniques” of Franz Meyer’s “SAR Handbook” book, 2019.</li>
+<li>“A Tutorial on Synthetic Aperture Radar” (IEEE Geoscience and remote sensing magazine 2013) by A. Moreira, et al.</li>
+</ul>
+<p>Papers and topics:</p>
+<ul>
+<li>SAR Classification (Miller, et al. “Graph-based Active Learning for Semi-supervised Classification of SAR Data.” 2022)</li>
+<li>SAR Features (Zhang, et al. “Sparse Feature Clustering Network for Unsupervised SAR Image Change Detection.” IEEE Transactions on Geoscience and Remote Sensing 2022)</li>
+<li>SAR Despeckling (Gu, et al. “A Two-Component Deep Learning Network for SAR Image Denoising.” IEEE Access 2021)</li>
+<li>SAR Despeckling (Yuan, et al. “Blind SAR Image Despeckling Using Self-Supervised Dense Dilated Convolutional Neural Network.” 2019)</li>
+<li>SAR Features (Jiang ,et al. “Unsupervised Deep Sparse Features Extraction for SAR Image Segmentation.” IEEE Transactions on Geoscience and Remote Sensing 2022)</li>
+</ul>
+
+</details>
+
+<details>
+  <summary><b>Disentangled Representations</b> (click to expand)</summary>
+  
+<p>Motivation: Computing a disentangled representation is a very desirable property for modern deep learning architectures. Having access to individual, disentangled factors is expected to provide significant improvements for generalisation, interpretability and explainability.</p>
+
+<p>Overview:</p>
+<ul>
+<li>What is a good representation? (Bengio, et al., "Representation Learning: A Review and New Perspectives", 2013)</li>
+<li>Two common architectures used for disentanglement:</li>
+<ul>
+<li>Variational Auto-Encoders (Kingma & Welling, "Auto-Encoding Variational Bayes", 2013, and  "An Introduction to Variational Autoencoders", 2019)</li>
+<li>Generative Adversarial Networks (Goodfellow, et al., "Generative Adversarial Nets", 2014)</li>
+</ul>
+</ul>
+<p>Papers and topics:</p>
+<ul>
+<li>survey on useful Metrics (Carbonneau, et al., "Measuring Disentanglement: A Review of Metrics", 2022; and Eastwood & Williams, "A Framework for the Quantitative Evaluation of Disentangled Representations", 2018; and Do & Tran, "Theory and Evaluation Metrics for Learning Disentangled Representations", 2019)</li>
+<li>fairness (Creager, et al., "Flexibly Fair Representation Learning by Disentanglement", 2019)</li>
+<li>contrastive Learning (Cao, et al., "An Empirical Study on Disentanglement of Negative-free Contrastive Learning", 2022)</li>
+<li>recommender Systems (Ma, et al., "Learning Disentangled Representations for Recommendation", 2019)</li>
+<li>weakly-Supervised (Locatello, et al., "Weakly-Supervised Disentanglement Without Compromises", 2020)</li>
+<li>semi-supervised (Nie, et al., "Semi-Supervised StyleGAN for Disentanglement Learning", 2020)</li>
+</ul>
+
+</details>
+
+<details>
+  <summary><b>Generalisation</b> (click to expand)</summary>
+  
+<p>Motivation: The ability of a model to adapt and perform well on new data is crucial. A model which generalises not only performs well on the training set, but on unseen data as well. Understanding and characterising why and how deep learning can generalise well is still an open question.</p>
+
+<p>Overview:</p>
+<ul>
+<li>notes on generalisation (Prof. Roger Grosse) <a href="https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf">(link)</a></li>
+<li>generalisation and overfitting <a href="https://www.youtube.com/watch?v=pFWiauHOFpY">(youtube-link)</a></li>
+</ul>
+<p>Papers and topics:</p>
+<ul>
+<li>memorisation (Arpit, et al. "A closer look at memorization in deep networks." ICML 2017)</li>
+<li>double-descent (Belkin, et al. "Reconciling modern machine-learning practice and the classical bias–variance trade-off." Proceedings of the National Academy of Sciences 2019)</li>
+<li>generalisation gap (Keskar, et al. "On large-batch training for deep learning: Generalization gap and sharp minima." ICLR 2017)</li>
+<li>loss landscape (Fort and Jastrzebski. "Large scale structure of neural network loss landscapes." NeurIPS 2019 <b>and</b> Li, et al. "Visualizing the loss landscape of neural nets." NeurIPS 2018)</li>
+</ul>
+
+</details>
