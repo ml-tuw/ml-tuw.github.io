@@ -57,8 +57,10 @@ scholar:
   sort_by: author
   order: descending
 
-  group_by: publicationtype, year
+  group_by: type, year
   group_order: descending
+  type_order: [online, inproceedings, article]
+  type_names: {online: Other Articles, inproceedings: Top Conference Articles, article: Journal Articles}
 
   source: ./_bibliography
 #  bibliography: "*.bib"
