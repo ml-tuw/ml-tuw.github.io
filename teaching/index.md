@@ -27,6 +27,8 @@ title: Teaching
 ### Ongoing Thesis Supervision
 
  - Fabian Traxler: *Antibody-Antigen Binding Affinity Prediction through the use of geometric deep learning* (MSc thesis)
+ - Tin Marin Tunjic: *Using Temporal Information to Improve Learning of the Molecular Dynamics Simulation Trajectories for Proteins* (MSc thesis)
+ - Nikola Georgiev: *Predictive Maintenance of Damper Systems in the Real World Based on Simulated Data* (BSc thesis)
 
 ## Student Publications
 
