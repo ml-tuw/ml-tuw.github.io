@@ -11,7 +11,7 @@ title: Reproducibility of ML papers
 
 **Context**: Reproducibility, i.e., obtaining similar output using the same data, is a critical quality in research. Unfortunately, this is often not the case.
 
-**Suggested approach**: Choose a paper from one of the following venues: NeurIPS, ICML, ICLR, ECML, JMLR. Please do no just re-use existing code! (i.e., re-implement in a different programming language/library, or implement methods from multiple papers to perform a comparison!
+**Suggested approach**: Choose a paper from one of the following venues: NeurIPS, ICML, ICLR, ECML, JMLR, MLJ. Please do no just re-use existing code! (i.e., re-implement in a different programming language/library, or implement methods from multiple papers to perform a comparison.)
 
 **Related work**:
 - NeurIPS reproducibility program (Pineau, Joelle, et al. "Improving reproducibility in machine learning research (a report from the NeurIPS 2019 reproducibility program)." JMLR, 2021)

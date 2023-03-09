@@ -19,7 +19,7 @@ This seminar simulates a machine learning conference, where the students take on
 Attend the **mandatory** first meeting either in person or remotely (details on TUWEL).
 
 #### Option 1: our suggestions
- > You select **two** topics/papers (i.e., two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the project-specific resources.   
+ > You select **two** topics/papers (i.e., two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the topic-specific resources.   
 
 
 #### Option 2: your own idea + one of our suggestions

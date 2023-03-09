@@ -20,8 +20,8 @@ Implementation/adaptation of robust GNNs and evaluation of the privacy/utility t
 * Dai, Enyan, et al. "A comprehensive survey on trustworthy graph neural networks: Privacy, robustness, fairness, and explainability." [arXiv](https://arxiv.org/pdf/2204.08570.pdf) (2022).
 
 **Context**:
-A tension betwee differential privacy and robustness (against adversarial examples) has been empirically observed [Song et al., 2019] and theoretically shown [Ghazi et al., 2021].
+A tension between differential privacy and robustness (against adversarial examples) has been empirically observed [Song et al., 2019] and theoretically shown [Ghazi et al., 2021].
 Do these result extend to structured data?
-Focusing on a centralised setting: are more robust algorithm less private (or vice versa)?
+Focusing on a centralised setting: are more robust algorithms less private (or vice versa)?
 
 **Advisor**: Patrick
