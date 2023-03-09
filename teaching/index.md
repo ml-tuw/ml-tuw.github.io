@@ -3,26 +3,19 @@ layout: entitled
 title: Teaching
 ---
 
-
-{% comment %}
-    - Example Topics: **[as]({{ page.dir }}ss2021/theo_projects/Students_Projects.pdf) [mt]({{ page.dir }}ss2021/theo_projects/convexity_parameters_md.html)**
-   - Example Topics: **[mt1]({{ page.dir }}ss2021/ana_projects/graph_active_learning.html) [mt2]({{ page.dir }}ss2021/ana_projects/convexity_real_world_graphs.html) [tg]({{ page.dir }}ss2021/projects_tg/)**
-{% endcomment %}
-
-
-### WiSe 2022/23
+### SoSe 2023
 
 <ul>
-<li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2223/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
-<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2223/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
-<li> MSc <b>Project</b> (6 ECTS) <a href="./ws2223/ana6ects.html"><i>Project in Computer Science 1 - Machine Learning Algorithms and Applications (PR)</i></a></li>
-<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+<li> MSc <b>Lecture</b> (3 ECTS) <a href="./sose23/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./sose23/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./sose23/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./sose23/ana6ects.html"><i>Project in Computer Science 1 - Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./sose23/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
 
 ### Thesis opportunities
 
-<a href="./ws2223/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
+<a href="./sose23/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
 
 ### Ongoing Thesis Supervision
 
@@ -41,7 +34,6 @@ title: Teaching
 
  
  
- 
 ## History
 
 ### Theses
@@ -56,94 +48,58 @@ Molecular Sequence Data* (BSc thesis)
 
 
 <details>
-  <summary><b>SoSe 2022</b> (click to expand)</summary>
+  <summary><b>WiSe 2022/23</b> (click to expand)</summary>
+<ul>
+<li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2223/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2223/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./ws2223/ana6ects.html"><i>Project in Computer Science 1 - Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2223/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+</ul>
+</details>
 
+
+<details>
+  <summary><b>SoSe 2022</b> (click to expand)</summary>
 <ul>
 <li> MSc <b>Lecture</b> <a href="./sose22/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
 <li> MSc <b>Seminar</b> <a href="./sose22/seminar_msc.html"><i>Theoretical Aspects of Machine Learning Algorithms (SE)</i></a></li>
 <li> MSc <b>Project</b> <a href="./sose22/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
 <li> BSc <b>Seminar</b> <a href="./sose22/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
-
 </details>
 
 
 <details>
   <summary><b>WiSe 2021/22</b> (click to expand)</summary>
-
 <ul>
 <li> MSc <b>Lecture</b> <a href="./ws2122/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li>MSc <b>Seminar</b> <a href="./ws2122/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
-</li>
-
-<li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
-{% comment %} 
-<br>We are happy to supervise machine learning theory projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="ws2122" projs="theo_projects" %}
-For other topics you will need to describe the scientific merit and novelty on the machine learning side. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable.
-To answer the question, typically one has conduct a mathematical proof.
-{% endcomment %}
-</li>
-<li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i>
-{% comment %} 
-<br>We are happy to supervise machine learning algorithm and application related projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="ws2122" projs="ana_projects" %}
-For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to implement some machine learning algorithms and apply them to dataset or implement an interesting application that uses machine learning.
-{% endcomment %}
-</li>
+<li>MSc <b>Seminar</b> <a href="./ws2122/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> </li>
+<li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> </li>
+<li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i> </li>
 <li> BSc <b>Seminar</b> <a href="./ws2122/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
-
 </details>
+
  
 <details>
   <summary><b>SoSe 2021</b> (click to expand)</summary>
-
 <ul>
 <li> MSc <b>Lecture</b> <a href="./sose21/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li>MSc <b>Seminar</b> <a href="./sose21/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> 
-</li>
-
-<li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> 
-{% comment %} 
-<br>We are happy to supervise machine learning theory projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="sose21" projs="theo_projects" %}
-For other topics you will need to describe the scientific merit and novelty on the machine learning side. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable.
-To answer the question, typically one has conduct a mathematical proof.
-{% endcomment %}
-</li>
-<li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i>
-{% comment %} 
-<br>We are happy to supervise machine learning algorithm and application related projects that are connected to our research interests. Examples are:
-{% include liq_filter.html term="sose21" projs="ana_projects" %}
-For other topics you will need to describe the scientific merit and novelty. It is very important to narrow down the rough topic to a tentative research question and approach of interest to us. The research question should not have been answered previously and the answer needs to be verifyable. To answer the question, typically one has to implement some machine learning algorithms and apply them to dataset or implement an interesting application that uses machine learning.
-{% endcomment %}
-</li>
+<li>MSc <b>Seminar</b> <a href="./sose21/seminar_msc.html"><i>Theoretical Aspects of Machine Learning (SE)</i></a> </li>
+<li> MSc <b>Project</b> <i>Machine Learning Theory (PR)</i> </li>
+<li> MSc <b>Project</b> <i>Machine Learning Algorithms and Applications (PR)</i> </li>
 <li> BSc <b>Seminar</b> <a href="./sose21/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
 </ul>
-
 </details>
+
 
 <details>
   <summary><b>WiSe 2020/21</b> (click to expand)</summary>
-
-- MSc **Lecture** [*Theoretical Foundations and Research Topics in Machine Learning* (VU)](./ws2021/tfrtML.html)
-- MSc **Seminar** [*Theoretical Aspects of Machine Learning* (SE)](./ws2021/seminar_msc.html)
-- MSc **Project** *Machine Learning Algorithms and Applications* (PR) 
-   - Topics: **[tg](./ws2021/projects_tg.html) [jr](./ws2021/projects_jr.html) [as](./ws2021/projects_as.html)**
-- BSc **Seminar** [*Scientific Research and Writing* (SE)](./ws2021/seminar_bsc.html)
-
-
+<ul>
+<li> MSc Lecture - Theoretical Foundations and Research Topics in Machine Learning (VU)</li>
+<li> MSc Seminar - Theoretical Aspects of Machine Learning (SE)</li>
+<li> MSc Project - Machine Learning Algorithms and Applications (PR) </li>
+<li> BSc Seminar - Scientific Research and Writing</li>
+</ul>
 </details>
-
-
-
-
-
-
-
- 
-{% comment %} 
-
-### Current
-{% endcomment %}
