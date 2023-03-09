@@ -4,7 +4,7 @@ title: Machine Learning Algorithms and Applications
 ---
 ## General information
 
-- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=6386&dsrid=61&courseNumber=194101&courseSemester=2022W)
+- TISS: [(link)](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=1784&dsrid=101&courseNr=194101&semester=2023S)
 - contact: [Tamara Drucks](mailto:tamara.drucks@tuwien.ac.at)
 - meeting link: [https://tuwien.zoom.us/my/tamaradrucks](https://tuwien.zoom.us/my/tamaradrucks)
 - physical meeting room: FB0210, Erzherzog-Johann-Platz 1

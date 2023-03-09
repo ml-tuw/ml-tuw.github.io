@@ -4,7 +4,7 @@ title: Project in Computer Science 1 - Machine Learning Algorithms and Applicati
 ---
 ## General information
 
-- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=3212&dsrid=796&courseNumber=194119&courseSemester=2022W)
+- TISS: [(link)](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=6943&dsrid=980&courseNr=194119&semester=2023S)
 - contact: [Max Thiessen](mailto:maximilian.thiessen@tuwien.ac.at)
 - everything important will be announced in TUWEL.
 

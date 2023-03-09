@@ -18,3 +18,4 @@ title: Modern aspects of learning theory
 - tight bounds (Bousquet, et al., "Proper learning, Helly number, and an optimal SVM bound" COLT 2020)
 - universal learning (Bousquet, et al., "A theory of universal learning" STOC 2021)
 - sample compression schemes (Moran, et al., "Sample compression schemes for VC classes" Journal of the ACM 2016).
+- algorithmic stability (Bousquet, Olivier, and André Elisseeff. "Algorithmic stability and generalization performance." NeurIPS, 2000) 
