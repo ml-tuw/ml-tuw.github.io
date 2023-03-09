@@ -15,4 +15,3 @@ title: Online Learning
 - weighed majority and Littlestone dimension (Littlestone and Warmuth. "The weighted majority algorithm." Information and computation 1994 **and** Littlestone "Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm." Machine Learning 1988).
 - online (sub-)gradient descent (chapter 2-4 of "A modern introduction to online learning", Francesco Orabona, 2020)
 - bandits and expert advice (introduction and chapter 1,5,6 of "Introduction to multi-armed bandits", Aleksandrs Slivkins, 2019)
-- (online) learning with partial orders (Gärtner and Garriga. "The cost of learning directed cuts." ECML 2007 **and** Missura and Gärtner. "Predicting dynamic difficulty." NIPS 2011)

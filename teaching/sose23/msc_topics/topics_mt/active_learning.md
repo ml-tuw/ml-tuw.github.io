@@ -12,8 +12,6 @@ title: Active Learning
 
 **Papers and topics**:
 
-- active learning with graph cuts (Blum and Chawla. "Learning from labeled and unlabeled data using graph mincuts." ICML 2001 **and** Guillory and Bilmes. "Label selection on graphs." NIPS 2009):
-- agnostic/noisy active learning (Balcan, et al. "Agnostic active learning." Journal of computer and system sciences 2009 **and** Beygelzimer, et al. "Importance weighted active learning.")
-- active nearest-neighbour learning (Kontorovich, et al. "Active nearest-neighbor learning in metric spaces." Journal of machine learning research 2017)
-- active learning on trees and graphs (Cesa-Bianchi, et al. "Active learning on trees and graphs", COLT 2013)
-- shortest-path-based active learning (Dasarathy, et al. "S2: an efficient graph based active learning algorithm with application to nonparametric classification." COLT 2015)
+- active learning with comparison queries (Kane, D. M., Lovett, S., Moran, S., & Zhang, J.  "Active classification with comparison queries." FOCS 2017)
+- sample complexity in active learning (Maria-Florina Balcan, Steve Hanneke, and Jennifer Wortman Vaughan "The true sample complexity of active learning." Machine Learning 2010)
+- bounded memory active learning (M. Hopkins, D. Kane, S. Lovett & M. Moshkovitz. "Bounded memory active learning through enriched queries." COLT 2021)
