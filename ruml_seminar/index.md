@@ -17,6 +17,8 @@ title: Research Seminar of the TUW RU Machine Learning
 
 - 25/4/2023 at 3.30pm: [Daniel Springer](https://www.iarai.ac.at/people/daniel/) (IARAI) 
 
+- 30/5/2023 at 2pm: [Tiffany Vlaar](https://tiffanyvlaar.github.io/) (Mila and McGill University)
+
 - 6/6/2023: [Viacheslav Borovitskiy](https://vab.im/) (ETH Zürich) _Geometric Gaussian Processes_ 
 Gaussian processes (GPs) are often considered to be the gold standard in settings where well-calibrated predictive uncertainty is of utter importance, such as decision making.
 It is important for applications to have a class of  “general purpose” GPs. Traditionally, these are the stationary processes, e.g. RBF or Matérn GPs, at least for the usual vectorial inputs. For non-vectorial inputs, however, there is often no such class. This state of affairs hinders the use of GPs in a number of application areas ranging from robotics to drug design.
