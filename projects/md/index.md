@@ -95,8 +95,8 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
    
  - **ML@TU Wien topic**: Trustworthy Machine Learning
  - **ML@TU Wien people**: 
-   - {% include linked_name.html id="PatrickIndri" %}
-   - {% include linked_name.html id="ThomasGaertner" %}
+   - {%- include linked_name.html id="PatrickIndri" -%}
+   - {%- include linked_name.html id="ThomasGaertner" -%}
  - **link**: [SecInt](https://secint.visp.wien/) 
 
  
