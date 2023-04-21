@@ -29,9 +29,10 @@ domain experts.
 {% capture ppl2 %}
 {% include linked_name.md id="ThomasGaertner" %}
 {% endcapture %}
+
  - **ML@TU Wien people**: 
-  - {{ ppl1 | strip_newlines}}
-  - {{ ppl2 | strip_newlines}}
+   - {{ ppl1 | strip_newlines}}
+   - {{ ppl2 | strip_newlines}}
 
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
  - **partners**:
