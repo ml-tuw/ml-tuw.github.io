@@ -93,7 +93,7 @@ algorithms resistant to adversarial attacks, the design of machine learning algo
 privacy analysis, the security analysis of personal medical devices, the design of secure and privacy-
 preserving contact tracing apps, and the enforcement of safety for dynamic robots.
 
-{% assign ppls = "PatrickIndri ThomasGaertner" | split %}
+{% assign ppls = "PatrickIndri ThomasGaertner" | split:" " %}
 
  - **ML@TU Wien topic**: Trustworthy Machine Learning
  - **ML@TU Wien people**: 
