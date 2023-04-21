@@ -36,8 +36,7 @@ domain experts.
 
 
  - test
-   - {{ ppl1 | strip_newlines}}
-   - {{ ppl2 | strip_newlines}}
+   - {{ ppl1 | strip_newlines}} \\   - {{ ppl2 | strip_newlines}}
 
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
  - **partners**:
