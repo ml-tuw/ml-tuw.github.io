@@ -3,7 +3,7 @@ layout: entitled
 title: Collaborations
 ---
 
-## Selected Collaborations
+%## Selected Collaborations
 
 ### Structured Data Learning with General Similarities (StruDL)
 
@@ -23,7 +23,7 @@ prediction of mass spectra will have high impact on several areas of human socie
 promises higher predictive performance, more efficient learning, and better interpretability of the models by
 domain experts.
 
- - **Machine Learning@TU Wien**: 
+ - **ML@TU Wien**: 
    - {% include linked_name.html id="PascalWelke" %}
    - {% include linked_name.html id="ThomasGaertner" %}
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
@@ -53,7 +53,10 @@ ESRs in this highly interdisciplinary field. Through a carefully designed traini
 industry partners, the ESR will acquire a broad career perspective and a strong set of transferable skills. Their unique blend
 of competences from computer science and chemistry will further increase their high employability.
 
- - **Machine Learning@TU Wien**: 
+ - **ML@TU Wien topics**: 
+   - Machine Learning for Automated Synthesis Planning
+   - Computational Lipidomics and Mass Spectrometry – Learning Mechanistical Models
+ - **ML@TU Wien**: 
    - {% include linked_name.html id="ThomasGaertner" %}
  - **funding**: EU Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks (H2020-MSCA-ITN-2020)
  - **partners**:
@@ -69,7 +72,7 @@ of competences from computer science and chemistry will further increase their h
    - Fluigent (France)
    - Harvard Medical School (USA)
  
-### Trustworthy ML
+### Secure and Intelligent Human-Centric Digital Technologies (SecInt, TU Wien Doctoral College
 The goal of SecInt is to develop the scientific foundations of secure and intelligent human-centric
 digital technologies. This requires interdisciplinary research, establishing synergies between
 different research fields (Security and Privacy, Machine Learning, and Formal Methods). Research
@@ -78,10 +81,11 @@ algorithms resistant to adversarial attacks, the design of machine learning algo
 privacy analysis, the security analysis of personal medical devices, the design of secure and privacy-
 preserving contact tracing apps, and the enforcement of safety for dynamic robots.
    
- - **Machine Learning@TU Wien**: 
+ - **ML@TU Wien topic**: Trustworthy Machine Learning
+ - **ML@TU Wien**: 
    - {% include linked_name.html id="PatrickIndri" %}
    - {% include linked_name.html id="ThomasGaertner" %}
- - **project**: [Secure and Intelligent Human-Centric Digital Technologies (SecInt)](https://secint.visp.wien/) (TU Wien Doctoral College)
+ - **link**: [SecInt](https://secint.visp.wien/) 
 
  
 ### AI for Remote Sensing (AI4SAR)
@@ -103,7 +107,9 @@ will be demonstrated with the help of different use
 cases in the fields of forest monitoring, deformation
 monitoring and ground control point transfer
 
- - **Machine Learning@TU Wien**: {% include linked_name.html id="ThomasGaertner" %}
+ - **ML@TU Wien**: 
+   - {% include linked_name.html id="ThomasGaertner" %}
+   - {% include linked_name.html id="AniceJahanjoo" %}
  - **project title**: Artificial Intelligence for Advanced SAR Processing (FFG, ASAP17)  .
  - **partners**: 
    - EODC Earth Observation Data Centre for Water Resources Monitoring GmbH (EODC, PI)  .
@@ -121,7 +127,7 @@ treat, which may result in more serious infections occurring over time, particul
 or those with poor immunity. There is an urgent need to find alternatives to antibiotics which are more sustainable.
 This project will use laboratory experiments and machine learning to build a comprehensive understanding of how phages infect Salmonella under different conditions.
 
- - **Machine Learning@TU Wien**: 
+ - **ML@TU Wien**: 
    - {% include linked_name.html id="TamaraDrucks" %}
    - {% include linked_name.html id="ThomasGaertner" %}
  - **project**: Using bacteriophage to control Salmonella in pigs (BBSRC responsive modes)
@@ -141,7 +147,8 @@ informatischen Themen, für die sie eine besonders hohe Qualifikation und Reputa
 grundlegenden informatischen Themen sollen nicht nur für Informatik-Studien und MINT-Fächer
 geeignet sein, sondern für alle Studien.
 
- - **Machine Learning@TU Wien**: 
+ - **ML@TU Wien topic**: Machine Learning MOOC
+ - **ML@TU Wien**: 
    - {% include linked_name.html id="DavidPenz" %} 
    - {% include linked_name.html id="ThomasGaertner" %}  
  - **project**: [eInformatics@Austria](https://www.tuwien.at/einformatics/) (BMBWF, Digitale und Soziale Transformation in der Hochschulbildung)
@@ -150,16 +157,16 @@ geeignet sein, sondern für alle Studien.
 
 ### ML for Analysis and Design of Molecules and Chemical Reactions
 
- - **Machine Learning@TU Wien**: {% include linked_name.html id="ThomasGaertner" %} 
- - **funding**: UKRI [MR/S502431/1, EP/S515516/1] 
+ - **ML@TU Wien**: {% include linked_name.html id="ThomasGaertner" %} 
+ - **funding**: NPIF PhD studentship through the MRC IMPACT Doctoral Training Programme [MR/S502431/1, EP/S515516/1] 
  - **partners**: 
    - University of Nottingham
    - GlaxoSmithKline plc
 
 ### ML in ShapeTech
 
- - **Machine Learning@TU Wien**: 
-   - {% include linked_name.html id="TamaraDrucks" %}
+ - **ML@TU Wien**: 
+   - {% include linked_name.html id="AniceJahanjoo" %}
    - {% include linked_name.html id="ThomasGaertner" %}
  - **project**: Shaping technology: biometric data, collective empowerment and humanization of work (WWTF, ICT20)
  - **PI**: [Nima TaheriNejad](https://www.ict.tuwien.ac.at/staff/taherinejad/index.html) (TU Wien) 
@@ -175,7 +182,11 @@ graph representations that leads to more accurate and interpretable models than 
  - **type**: WTZ (OeAD, BMBWF, FR 08/2022)
  - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
  - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (University Pierre et Marie Curie, Paris 6)
- - **ruml**: 
+ - **ML@TU Wien**: 
+   - {% include linked_name.html id="FabianJogl" %}
+   - {% include linked_name.html id="DavidPenz" %}
+   - {% include linked_name.html id="PatrickIndri" %}
+   - {% include linked_name.html id="TamaraDrucks" %}
    - {% include linked_name.html id="MaxThiessen" %}
    - {% include linked_name.html id="ThomasGaertner" %}
 
