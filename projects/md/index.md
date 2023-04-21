@@ -108,8 +108,9 @@ cases in the fields of forest monitoring, deformation
 monitoring and ground control point transfer
 
  - **ML@TU Wien people**: 
-   - {% include linked_name.html id="ThomasGaertner" %}
    - {% include linked_name.html id="AniceJahanjoo" %}
+   - {% include linked_name.html id="MaxThiessen" %}
+   - {% include linked_name.html id="ThomasGaertner" %}
  - **project title**: Artificial Intelligence for Advanced SAR Processing (FFG, ASAP17)  .
  - **partners**: 
    - EODC Earth Observation Data Centre for Water Resources Monitoring GmbH (EODC, PI)  .
@@ -167,7 +168,6 @@ geeignet sein, sondern für alle Studien.
 
  - **ML@TU Wien people**: 
    - {% include linked_name.html id="AniceJahanjoo" %}
-   - {% include linked_name.html id="ThomasGaertner" %}
  - **project**: Shaping technology: biometric data, collective empowerment and humanization of work (WWTF, ICT20)
  - **PI**: [Nima TaheriNejad](https://www.ict.tuwien.ac.at/staff/taherinejad/index.html) (TU Wien) 
  
@@ -181,7 +181,7 @@ graph representations that leads to more accurate and interpretable models than 
 
  - **type**: WTZ (OeAD, BMBWF, FR 08/2022)
  - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
- - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (University Pierre et Marie Curie, Paris 6)
+ - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
  - **ML@TU Wien people**: 
    - {% include linked_name.html id="FabianJogl" %}
    - {% include linked_name.html id="DavidPenz" %}
@@ -191,15 +191,3 @@ graph representations that leads to more accurate and interpretable models than 
    - {% include linked_name.html id="ThomasGaertner" %}
 
  
-<!--
-### Name
- - **project**: 
- - **type**: 
- - **partners**: 
- - **ruml**: 
-   - {% include linked_name.html id="ThomasGaertner" %}
- 
-- *`Secure and Intelligent Human-Centric Digital Technologies'* (SecInt, **TU Wien Doctoral College**)
-- *`Using bacteriophage to control Salmonella in pigs'* (**BBSRC** Responsive Mode @ University of Nottingham, submitted April 2019)
-- *`eInformatics@Austria'* (Ausschreibung im Rahmen der Universitätsfinanzierung)
--->
