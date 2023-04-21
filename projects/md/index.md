@@ -28,7 +28,7 @@ domain experts.
 {% include linked_name.md id="PascalWelke" %}
 {% include linked_name.md id="ThomasGaertner" %}
 {% endcapture %}
-{{ ppl }}
+{{ ppl | strip_newlines}}
 
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
  - **partners**:
