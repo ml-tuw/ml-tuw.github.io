@@ -24,9 +24,11 @@ promises higher predictive performance, more efficient learning, and better inte
 domain experts.
 
  - **ML@TU Wien people**: 
-
-{{ include linked_name.md id="PascalWelke" }}
-{{ include linked_name.md id="ThomasGaertner" }}
+{% capture ppl %}
+{% include linked_name.md id="PascalWelke" %}
+{% include linked_name.md id="ThomasGaertner" %}
+{% endcapture %}
+{{ ppl }}
 
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
  - **partners**:
