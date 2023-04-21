@@ -24,14 +24,14 @@ promises higher predictive performance, more efficient learning, and better inte
 domain experts.
 
  - **ML@TU Wien people**: 
-{% capture ppl %}
+{% capture ppl1 %}
    - {% include linked_name.md id="PascalWelke" %}
 {% endcapture %}
-{{ ppl | strip_newlines}}
-{% capture ppl %}
+{% capture ppl2 %}
    - {% include linked_name.md id="ThomasGaertner" %}
 {% endcapture %}
-{{ ppl | strip_newlines}}
+{{ ppl1 | strip_newlines}}
+{{ ppl2 | strip_newlines}}
 
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
  - **partners**:
