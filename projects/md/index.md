@@ -25,8 +25,8 @@ domain experts.
 
  - **ML@TU Wien people**: 
 {% capture ppl %}
-{% include linked_name.md id="PascalWelke" %}
-{% include linked_name.md id="ThomasGaertner" %}
+   - {% include linked_name.md id="PascalWelke" %}
+   - {% include linked_name.md id="ThomasGaertner" %}
 {% endcapture %}
 {{ ppl | strip_newlines}}
 
