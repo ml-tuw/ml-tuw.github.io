@@ -92,12 +92,15 @@ highlights brought forward by the synergies across projects include the design o
 algorithms resistant to adversarial attacks, the design of machine learning algorithms for security and
 privacy analysis, the security analysis of personal medical devices, the design of secure and privacy-
 preserving contact tracing apps, and the enforcement of safety for dynamic robots.
-   
+
+{ "ppls": [ "PatrickIndri","ThomasGaertner"] }
+
  - **ML@TU Wien topic**: Trustworthy Machine Learning
  - **ML@TU Wien people**: 
-   - {% include linked_name.html id="PatrickIndri" -%}  
-   - {% include linked_name.html id="ThomasGaertner" -%}  
- - **link**: [SecInt](https://secint.visp.wien/) 
+{% for ppl in ppls %}
+   - {% include linked_name.html id=ppl %}
+{% endfor %}
+   - **link**: [SecInt](https://secint.visp.wien/) 
 
  
 ### AI for Remote Sensing (AI4SAR)
