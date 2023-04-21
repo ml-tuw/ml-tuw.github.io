@@ -24,8 +24,8 @@ promises higher predictive performance, more efficient learning, and better inte
 domain experts.
 
  - **ML@TU Wien people**: 
-   - {% strip %} {% include linked_name.md id="PascalWelke" %}  {% endstrip %}
-   - {% strip %}  {% include linked_name.md id="ThomasGaertner" %} {% endstrip %}
+   - {% include linked_name.md id="PascalWelke" %}
+   - {% include linked_name.md id="ThomasGaertner" %}
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
  - **partners**:
    - [Christoph Flamm (Universität Wien)](https://www.tbi.univie.ac.at/~xtof/)
