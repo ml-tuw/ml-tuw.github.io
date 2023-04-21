@@ -23,15 +23,15 @@ prediction of mass spectra will have high impact on several areas of human socie
 promises higher predictive performance, more efficient learning, and better interpretability of the models by
 domain experts.
 
- - **ML@TU Wien people**: 
 {% capture ppl1 %}
-   - {% include linked_name.md id="PascalWelke" %}
+{% include linked_name.md id="PascalWelke" %}
 {% endcapture %}
 {% capture ppl2 %}
-   - {% include linked_name.md id="ThomasGaertner" %}
+{% include linked_name.md id="ThomasGaertner" %}
 {% endcapture %}
-{{ ppl1 | strip_newlines}}
-{{ ppl2 | strip_newlines}}
+ - **ML@TU Wien people**: 
+  - {{ ppl1 | strip_newlines}}
+  - {{ ppl2 | strip_newlines}}
 
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
  - **partners**:
