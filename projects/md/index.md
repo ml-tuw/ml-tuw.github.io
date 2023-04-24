@@ -23,8 +23,8 @@ prediction of mass spectra will have high impact on several areas of human socie
 promises higher predictive performance, more efficient learning, and better interpretability of the models by
 domain experts.
 
- - **ML@TU Wien researchers**: {% include listppl.md ppls="PascalWelke ThomasGaertner" -%}
  - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
+ - **ML@TU Wien researchers**: {% include listppl.md ppls="PascalWelke ThomasGaertner" -%}
  - **partners**:
    - [Christoph Flamm (Universität Wien)](https://www.tbi.univie.ac.at/~xtof/)
    - [Nils Kriege (Universität Wien)](https://dm.cs.univie.ac.at/team/person/111520)
@@ -51,12 +51,11 @@ ESRs in this highly interdisciplinary field. Through a carefully designed traini
 industry partners, the ESR will acquire a broad career perspective and a strong set of transferable skills. Their unique blend
 of competences from computer science and chemistry will further increase their high employability.
 
+ - **funding**: EU Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks (H2020-MSCA-ITN-2020)
  - **ML@TU Wien topics**: 
    - Machine Learning for Automated Synthesis Planning
    - Computational Lipidomics and Mass Spectrometry – Learning Mechanistical Models
- - **ML@TU Wien researchers**: 
-   - {% include linked_name.md id="ThomasGaertner" %}
- - **funding**: EU Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks (H2020-MSCA-ITN-2020)
+ - **ML@TU Wien researchers**: {% include linked_name.md id="ThomasGaertner" %}
  - **partners**:
    - Syddansk Universitet (Denmark)
    - Universitat Wien (Austria)
@@ -81,10 +80,9 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
 
  - **ML@TU Wien topic**: Trustworthy Machine Learning
  - **ML@TU Wien researchers**: {% include listppl.md ppls="PatrickIndri ThomasGaertner" -%}
- - **link**: [SecInt](https://secint.visp.wien/) 
- - test: {% include listppl.md ppls="TamaraDrucks PatrickIndri MaxThiessen DavidPenz AniceJahanjoo FabianJogl PascalWelke ThomasGaertner" -%}
- 
-### AI for Remote Sensing (AI4SAR)
+ - **project home**: [SecInt](https://secint.visp.wien/) 
+
+### AI for Advanced SAR Processing (AI4SAR)
 
 The usability of Synthetic Aperture Radar (SAR)
 satellite data depends on the correct interpretation of
@@ -103,8 +101,8 @@ will be demonstrated with the help of different use
 cases in the fields of forest monitoring, deformation
 monitoring and ground control point transfer
 
+ - **funding**: Austrian Space Applications Programme (FFG, ASAP17)
  - **ML@TU Wien researchers**: {% include listppl.md ppls="AniceJahanjoo MaxThiessen ThomasGaertner" -%}
- - **project title**: Artificial Intelligence for Advanced SAR Processing (FFG, ASAP17)  .
  - **partners**: 
    - Earth Observation Data Centre for Water Resources Monitoring GmbH (EODC, PI)  .
    - Joanneum Research Forschungsgesellschaft mbH
@@ -121,8 +119,8 @@ treat, which may result in more serious infections occurring over time, particul
 or those with poor immunity. There is an urgent need to find alternatives to antibiotics which are more sustainable.
 This project will use laboratory experiments and machine learning to build a comprehensive understanding of how phages infect Salmonella under different conditions.
 
+ - **project**: Using bacteriophage to control Salmonella in pigs (BBSRC responsive mode)
  - **ML@TU Wien researchers**: {% include listppl.md ppls="TamaraDrucks ThomasGaertner" -%}
- - **project**: Using bacteriophage to control Salmonella in pigs (BBSRC responsive modes)
  - **partners**: 
    - University of Leicester (PI) 
    - University of Nottingham
@@ -139,24 +137,25 @@ informatischen Themen, für die sie eine besonders hohe Qualifikation und Reputa
 grundlegenden informatischen Themen sollen nicht nur für Informatik-Studien und MINT-Fächer
 geeignet sein, sondern für alle Studien.
 
+ - **funding**: BMBWF, Digitale und Soziale Transformation in der Hochschulbildung
  - **ML@TU Wien topic**: Machine Learning MOOC
  - **ML@TU Wien researchers**: {% include listppl.md ppls="DavidPenz ThomasGaertner" -%}
- - **project**: [eInformatics@Austria](https://www.tuwien.at/einformatics/) (BMBWF, Digitale und Soziale Transformation in der Hochschulbildung)
+ - **project home**: [eInformatics@Austria](https://www.tuwien.at/einformatics/) 
  - **partners**: [Markus Schedl](http://www.mschedl.eu/) (JKU Linz)
 
 
 ### ML for Analysis and Design of Molecules and Chemical Reactions
 
- - **ML@TU Wien researchers**: {% include linked_name.md id="ThomasGaertner" %} 
  - **funding**: NPIF PhD studentship through the MRC IMPACT Doctoral Training Programme [MR/S502431/1, EP/S515516/1] 
+ - **ML@TU Wien researchers**: {% include linked_name.md id="ThomasGaertner" %} 
  - **partners**: 
    - University of Nottingham
    - GlaxoSmithKline plc
 
 ### ML in ShapeTech
 
- - **ML@TU Wien researchers**: {% include linked_name.md id="AniceJahanjoo" %}
  - **project**: Shaping technology: biometric data, collective empowerment and humanization of work (WWTF, ICT20)
+ - **ML@TU Wien researchers**: {% include linked_name.md id="AniceJahanjoo" %}
  - **PI**: [Nima TaheriNejad](https://www.ict.tuwien.ac.at/staff/taherinejad/index.html) (TU Wien) 
  
 ## ML for Biological and Chemical Data
@@ -167,9 +166,9 @@ structure and can be modelled as sequences, graphs, or hypergraphs. We are inter
 two interrelated problems: 1) learning unknown underlying structure in data, and 2) learning efficient
 graph representations that leads to more accurate and interpretable models than the state-of-the-art.
 
- - **type**: WTZ (OeAD, BMBWF, FR 08/2022)
+ - **funding**: WTZ (OeAD, BMBWF, FR 08/2022)
  - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
- - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
  - **ML@TU Wien researchers**: {% include listppl.md ppls="TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" -%}
+ - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
 
  
