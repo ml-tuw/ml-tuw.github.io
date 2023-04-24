@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: Collaborations
+title: Projects and Collaborations
 ---
 
 
@@ -49,7 +49,7 @@ ESRs in this highly interdisciplinary field. Through a carefully designed traini
 industry partners, the ESR will acquire a broad career perspective and a strong set of transferable skills. Their unique blend
 of competences from computer science and chemistry will further increase their high employability.
 
- - **funding**: EU Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks (H2020-MSCA-ITN-2020)
+ - **funding**: EU Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks (H2020-MSCA-ITN-2020,  101072930)
  - **ML@TU Wien topics**: 
    - Machine Learning for Automated Synthesis Planning
    - Computational Lipidomics and Mass Spectrometry – Learning Mechanistical Models
@@ -169,4 +169,15 @@ graph representations that leads to more accurate and interpretable models than 
  - **PI**: [Nima TaheriNejad](https://www.ict.tuwien.ac.at/staff/taherinejad/index.html) (TU Wien) 
  
 
- 
+# Previous Projects 
+
+### ML for Constructing Novel Relational Structures
+ - **project**: Learning to construct novel relational structures of a given class with machine learning algorithms (2009-2016)
+ - **funding**: Emmy Noether grant from the German Research Foundation (DFG, 149669013) 
+ - **host**: University of Bonn
+
+### Effective Well-Behaved Pattern Mining Through Sampling
+ - **project**: Data Mining Algorithmen, die mittels direkten Stichprobenziehungen aus dem Musterraum ein effktives und kontrolliertes Laufzeitverhalten aufweisen
+ - **funding**: German Research Foundation (DFG, 191169928)
+ - **partners**: Stefan Wrobel (University of Bonn)
+ - **host**: University of Bonn
