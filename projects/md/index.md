@@ -30,7 +30,7 @@ domain experts.
 {% include linked_name.md id="ThomasGaertner" %}
 {% endcapture %}
 
- - **ML@TU Wien people**: 
+ - **ML@TU Wien researchers**: 
    - {{ ppl1 | strip_newlines}}
    - {{ ppl2 | strip_newlines}}
 
@@ -68,7 +68,7 @@ of competences from computer science and chemistry will further increase their h
  - **ML@TU Wien topics**: 
    - Machine Learning for Automated Synthesis Planning
    - Computational Lipidomics and Mass Spectrometry – Learning Mechanistical Models
- - **ML@TU Wien people**: 
+ - **ML@TU Wien researchers**: 
    - {% include linked_name.md id="ThomasGaertner" %}
  - **funding**: EU Horizon 2020 Marie Skłodowska-Curie Innovative Training Networks (H2020-MSCA-ITN-2020)
  - **partners**:
@@ -99,14 +99,14 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
 {% capture pn %}
 {% for ppl in ppls %}
 {%- include linked_name.md id=ppl -%}
-{% if forloop.index < forloop.length and forloop.length>2 %} / {% endif %}
+{% if forloop.index < forloop.length %} / {% endif %}
 {% endfor %}
 {% endcapture %}
 
  - **ML@TU Wien topic**: Trustworthy Machine Learning
- - **ML@TU Wien people**: {{ pn | strip_newlines}}
+ - **ML@TU Wien researchers**: {{ pn | strip_newlines}}
  - **link**: [SecInt](https://secint.visp.wien/) 
- - test: {%- include listppl.md ppls="PatrickIndri ThomasGaertner" -%}
+ - test: {% include listppl.md ppls="PatrickIndri ThomasGaertner" -%}
  
 ### AI for Remote Sensing (AI4SAR)
 
@@ -127,7 +127,7 @@ will be demonstrated with the help of different use
 cases in the fields of forest monitoring, deformation
 monitoring and ground control point transfer
 
- - **ML@TU Wien people**: 
+ - **ML@TU Wien researchers**: 
    - {% include linked_name.md id="AniceJahanjoo" %}
    - {% include linked_name.md id="MaxThiessen" %}
    - {% include linked_name.md id="ThomasGaertner" %}
@@ -148,7 +148,7 @@ treat, which may result in more serious infections occurring over time, particul
 or those with poor immunity. There is an urgent need to find alternatives to antibiotics which are more sustainable.
 This project will use laboratory experiments and machine learning to build a comprehensive understanding of how phages infect Salmonella under different conditions.
 
- - **ML@TU Wien people**: 
+ - **ML@TU Wien researchers**: 
    - {% include linked_name.md id="TamaraDrucks" %}
    - {% include linked_name.md id="ThomasGaertner" %}
  - **project**: Using bacteriophage to control Salmonella in pigs (BBSRC responsive modes)
@@ -169,7 +169,7 @@ grundlegenden informatischen Themen sollen nicht nur für Informatik-Studien und
 geeignet sein, sondern für alle Studien.
 
  - **ML@TU Wien topic**: Machine Learning MOOC
- - **ML@TU Wien people**: 
+ - **ML@TU Wien researchers**: 
    - {% include linked_name.md id="DavidPenz" %} 
    - {% include linked_name.md id="ThomasGaertner" %}  
  - **project**: [eInformatics@Austria](https://www.tuwien.at/einformatics/) (BMBWF, Digitale und Soziale Transformation in der Hochschulbildung)
@@ -178,7 +178,7 @@ geeignet sein, sondern für alle Studien.
 
 ### ML for Analysis and Design of Molecules and Chemical Reactions
 
- - **ML@TU Wien people**: {% include linked_name.md id="ThomasGaertner" %} 
+ - **ML@TU Wien researchers**: {% include linked_name.md id="ThomasGaertner" %} 
  - **funding**: NPIF PhD studentship through the MRC IMPACT Doctoral Training Programme [MR/S502431/1, EP/S515516/1] 
  - **partners**: 
    - University of Nottingham
@@ -186,7 +186,7 @@ geeignet sein, sondern für alle Studien.
 
 ### ML in ShapeTech
 
- - **ML@TU Wien people**: 
+ - **ML@TU Wien researchers**: 
    - {% include linked_name.md id="AniceJahanjoo" %}
  - **project**: Shaping technology: biometric data, collective empowerment and humanization of work (WWTF, ICT20)
  - **PI**: [Nima TaheriNejad](https://www.ict.tuwien.ac.at/staff/taherinejad/index.html) (TU Wien) 
@@ -202,7 +202,7 @@ graph representations that leads to more accurate and interpretable models than 
  - **type**: WTZ (OeAD, BMBWF, FR 08/2022)
  - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
  - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
- - **ML@TU Wien people**: 
+ - **ML@TU Wien researchers**: 
    - {% include linked_name.md id="FabianJogl" %}
    - {% include linked_name.md id="DavidPenz" %}
    - {% include linked_name.md id="PatrickIndri" %}
