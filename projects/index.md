@@ -177,7 +177,7 @@ graph representations that leads to more accurate and interpretable models than 
  - **host**: University of Bonn
 
 ### Effective Well-Behaved Pattern Mining Through Sampling
- - **project**: Data Mining Algorithmen, die mittels direkten Stichprobenziehungen aus dem Musterraum ein effktives und kontrolliertes Laufzeitverhalten aufweisen
+ - **project**: Data Mining Algorithmen, die mittels direkten Stichprobenziehungen aus dem Musterraum ein effktives und kontrolliertes Laufzeitverhalten aufweisen (2011 – 2017)
  - **funding**: German Research Foundation (DFG, 191169928)
  - **partners**: Stefan Wrobel (University of Bonn)
  - **host**: University of Bonn
