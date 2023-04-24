@@ -84,7 +84,7 @@ of competences from computer science and chemistry will further increase their h
    - Fluigent (France)
    - Harvard Medical School (USA)
  
-### Secure and Intelligent Human-Centric Digital Technologies (SecInt, TU Wien Doctoral College
+### Secure and Intelligent Human-Centric Digital Technologies (SecInt, TU Wien Doctoral College)
 The goal of SecInt is to develop the scientific foundations of secure and intelligent human-centric
 digital technologies. This requires interdisciplinary research, establishing synergies between
 different research fields (Security and Privacy, Machine Learning, and Formal Methods). Research
@@ -98,7 +98,7 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
 
 {% capture pn %}
 {% for ppl in ppls %}
-{%- include linked_name.md id=ppl -%}{% if forloop.index < forloop.length and forloop.length>2 %}, {% endif %}{% if forloop.index == forloop.length-1 %} & {% endif %}
+{%- include linked_name.md id=ppl -%}{% if forloop.index < forloop.length and forloop.length>2 %}, {% endif %}{% if forloop.index == forloop.length-1 %} XXX {% endif %}{% if forloop.index == forloop.length-1 %} YYY {% endif %}
 {% endfor %}
 {% endcapture %}
 
