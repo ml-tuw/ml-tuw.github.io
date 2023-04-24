@@ -7,4 +7,3 @@
 {%- endfor -%}
 {%- endcapture -%}
 {{ pn | strip_newlines }}
-
