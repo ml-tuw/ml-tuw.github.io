@@ -106,7 +106,7 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
  - **ML@TU Wien topic**: Trustworthy Machine Learning
  - **ML@TU Wien researchers**: {{ pn | strip_newlines}}
  - **link**: [SecInt](https://secint.visp.wien/) 
- - test: {% include listppl.md ppls="PatrickIndri ThomasGaertner" -%}
+ - test: {% include listppl.md ppls="PatrickIndri ThomasGaertner AniceJahanjoo PascalWelke" -%}
  
 ### AI for Remote Sensing (AI4SAR)
 
