@@ -101,7 +101,7 @@ cases in the fields of forest monitoring, deformation
 monitoring and ground control point transfer
 
  - **funding**: Austrian Space Applications Programme (FFG, ASAP17)
- - **ML@TU Wien researchers**: {% include listppl.md ppls="AniceJahanjoo MaxThiessen ThomasGaertner" -%}
+ - **ML@TU Wien researchers**: {% include listppl_ul.md ppls="AniceJahanjoo MaxThiessen ThomasGaertner" -%}
  - **partners**: 
    - Earth Observation Data Centre for Water Resources Monitoring GmbH (EODC, PI)  .
    - Joanneum Research Forschungsgesellschaft mbH
