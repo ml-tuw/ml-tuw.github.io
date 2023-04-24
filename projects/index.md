@@ -15,8 +15,8 @@ algorithms to use more general similarities which can be embedded in Krein space
 shows the potential of this approach to learning with structured data, this possibility has never been
 systematically explored. Furthermore, even these approaches have no means for dealing naturally with
 asymmetric notions of similarity like the ones based on substructure relations. This project will close the
-described gaps by (i) designing and investigating general similarities for structured data, (ii) developing
-learning algorithms for general similarities, and (iii) applying combinations of these for concrete problems in
+described gaps by (_i_) designing and investigating general similarities for structured data, (_ii_) developing
+learning algorithms for general similarities, and (_iii_) applying combinations of these for concrete problems in
 cheminformatics. Progress in the design of RNA therapeutics, polyketide pharmaceuticals, and the
 prediction of mass spectra will have high impact on several areas of human society. Our approach
 promises higher predictive performance, more efficient learning, and better interpretability of the models by
