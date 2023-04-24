@@ -96,7 +96,13 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
 {% assign ppls = "PatrickIndri ThomasGaertner" | split:" " %}
 
  - **ML@TU Wien topic**: Trustworthy Machine Learning
- - **ML@TU Wien people**: {% for ppl in ppls -%}{%- include linked_name.md id=ppl -%} / {% endfor -%}
+ - **ML@TU Wien people**: 
+{% for ppl in ppls %}
+{% capture pn %}
+{%- include linked_name.md id=ppl -%}
+{% endcapture %}
+   - {{ pn | strip_newlines}}
+{% endfor %}
    - **link**: [SecInt](https://secint.visp.wien/) 
 
  - **ML@TU Wien people**: 
