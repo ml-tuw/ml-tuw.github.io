@@ -22,7 +22,7 @@ prediction of mass spectra will have high impact on several areas of human socie
 promises higher predictive performance, more efficient learning, and better interpretability of the models by
 domain experts.
 
- - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022
+ - **funding**: Vienna Science and Technology Fund---Information and Communication Technology 2022 (ICT22-059)
  - **ML@TU Wien researchers**: {% include listppl.md ppls="PascalWelke ThomasGaertner" -%}
  - **partners**:
    - [Christoph Flamm (Universität Wien)](https://www.tbi.univie.ac.at/~xtof/)
@@ -66,6 +66,7 @@ of competences from computer science and chemistry will further increase their h
    - BASF (Germany)
    - Fluigent (France)
    - Harvard Medical School (USA)
+ - **project home**: [TACsy.eu](https://TACsy.eu)
  
 ### Secure and Intelligent Human-Centric Digital Technologies
 The goal of SecInt is to develop the scientific foundations of secure and intelligent human-centric
