@@ -6,7 +6,6 @@ title: Collaborations
 
 
 ### Structured Data Learning with General Similarities (StruDL)
-
 We will systematically investigate similarity-based machine learning with structured data such
 as strings, trees and graphs. While most off-the-shelf machine learning algorithms require data to be
 embedded in a (finite or infinite) dimensional inner product space, most intuitive notions of similarity for
@@ -31,7 +30,6 @@ domain experts.
 
 
 ### Training Alliance for Computational Systems chemistry (TACsy)
-
 Many important questions and grand challenges in research, industry, and society involve large and complex networks of
 chemical reactions. Some examples are: studying metabolic networks in humans; planning and optimizing chemical
 synthesis in industry and research labs; modeling the fragmentation process in mass spectrometry; developing personalized
@@ -69,7 +67,7 @@ of competences from computer science and chemistry will further increase their h
    - Fluigent (France)
    - Harvard Medical School (USA)
  
-### Secure and Intelligent Human-Centric Digital Technologies (SecInt, TU Wien Doctoral College)
+### Secure and Intelligent Human-Centric Digital Technologies
 The goal of SecInt is to develop the scientific foundations of secure and intelligent human-centric
 digital technologies. This requires interdisciplinary research, establishing synergies between
 different research fields (Security and Privacy, Machine Learning, and Formal Methods). Research
@@ -78,12 +76,12 @@ algorithms resistant to adversarial attacks, the design of machine learning algo
 privacy analysis, the security analysis of personal medical devices, the design of secure and privacy-
 preserving contact tracing apps, and the enforcement of safety for dynamic robots.
 
+ - **funding**: TU Wien Doctoral College
  - **ML@TU Wien topic**: Trustworthy Machine Learning
  - **ML@TU Wien researchers**: {% include listppl.md ppls="PatrickIndri ThomasGaertner" -%}
  - **project home**: [SecInt](https://secint.visp.wien/) 
 
 ### AI for Advanced SAR Processing (AI4SAR)
-
 The usability of Synthetic Aperture Radar (SAR)
 satellite data depends on the correct interpretation of
 the underlying scatter mechanism, where current
@@ -119,14 +117,14 @@ treat, which may result in more serious infections occurring over time, particul
 or those with poor immunity. There is an urgent need to find alternatives to antibiotics which are more sustainable.
 This project will use laboratory experiments and machine learning to build a comprehensive understanding of how phages infect Salmonella under different conditions.
 
- - **project**: Using bacteriophage to control Salmonella in pigs (BBSRC responsive mode)
+ - **funding**: BBSRC responsive mode (UK)
+ - **project**: Using bacteriophage to control Salmonella in pigs
  - **ML@TU Wien researchers**: {% include listppl.md ppls="TamaraDrucks ThomasGaertner" -%}
  - **partners**: 
    - University of Leicester (PI) 
    - University of Nottingham
 
 ### ML MOOC
-
 Ziel des Projekts ist es einen qualitativ hochwertigen Pool an Lehreinheiten und Kursen aus
 Informatik-Basiswissen in deutscher Sprache zu entwickeln, der für alle Universitätsstandorte
 nutzbar ist. Eine Umsetzung in deutscher Sprache ermöglicht den Einsatz in allen Bachelorstudien
@@ -143,10 +141,21 @@ geeignet sein, sondern für alle Studien.
  - **project home**: [eInformatics@Austria](https://www.tuwien.at/einformatics/) 
  - **partners**: [Markus Schedl](http://www.mschedl.eu/) (JKU Linz)
 
+### ML for Biological and Chemical Data
+Our project focuses on Machine Learning and its applications to complex real-world data processing.
+Many real-world data sets, such as biological, chemical or materials science data, have an inherent
+structure and can be modelled as sequences, graphs, or hypergraphs. We are interested, in particular, in
+two interrelated problems: 1) learning unknown underlying structure in data, and 2) learning efficient
+graph representations that leads to more accurate and interpretable models than the state-of-the-art.
+
+ - **funding**: WTZ (OeAD, BMBWF, FR 08/2022)
+ - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
+ - **ML@TU Wien researchers**: {% include listppl.md ppls="TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" -%}
+ - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
 
 ### ML for Analysis and Design of Molecules and Chemical Reactions
 
- - **funding**: NPIF PhD studentship through the MRC IMPACT Doctoral Training Programme [MR/S502431/1, EP/S515516/1] 
+ - **funding**: NPIF PhD studentship through the MRC IMPACT Doctoral Training Programme (MR/S502431/1) 
  - **ML@TU Wien researchers**: {% include linked_name.md id="ThomasGaertner" %} 
  - **partners**: 
    - University of Nottingham
@@ -158,17 +167,5 @@ geeignet sein, sondern für alle Studien.
  - **ML@TU Wien researchers**: {% include linked_name.md id="AniceJahanjoo" %}
  - **PI**: [Nima TaheriNejad](https://www.ict.tuwien.ac.at/staff/taherinejad/index.html) (TU Wien) 
  
-## ML for Biological and Chemical Data
-
-Our project focuses on Machine Learning and its applications to complex real-world data processing.
-Many real-world data sets, such as biological, chemical or materials science data, have an inherent
-structure and can be modelled as sequences, graphs, or hypergraphs. We are interested, in particular, in
-two interrelated problems: 1) learning unknown underlying structure in data, and 2) learning efficient
-graph representations that leads to more accurate and interpretable models than the state-of-the-art.
-
- - **funding**: WTZ (OeAD, BMBWF, FR 08/2022)
- - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
- - **ML@TU Wien researchers**: {% include listppl.md ppls="TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" -%}
- - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
 
  
