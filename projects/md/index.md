@@ -130,9 +130,9 @@ cases in the fields of forest monitoring, deformation
 monitoring and ground control point transfer
 
  - **ML@TU Wien people**: 
-   - {% include linked_name.html id="AniceJahanjoo" %}
-   - {% include linked_name.html id="MaxThiessen" %}
-   - {% include linked_name.html id="ThomasGaertner" %}
+   - {% include linked_name.md id="AniceJahanjoo" %}
+   - {% include linked_name.md id="MaxThiessen" %}
+   - {% include linked_name.md id="ThomasGaertner" %}
  - **project title**: Artificial Intelligence for Advanced SAR Processing (FFG, ASAP17)  .
  - **partners**: 
    - EODC Earth Observation Data Centre for Water Resources Monitoring GmbH (EODC, PI)  .
