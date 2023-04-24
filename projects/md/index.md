@@ -98,7 +98,7 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
 
 {% capture pn %}
 {% for ppl in ppls %}
-{%- include linked_name.md id=ppl -%}, 
+{%- include linked_name.md id=ppl -%}{%- if not foorloop.last -%}, {%- endif -%}
 {% endfor %}
 {% endcapture %}
 
