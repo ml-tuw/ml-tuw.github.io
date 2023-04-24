@@ -98,14 +98,14 @@ preserving contact tracing apps, and the enforcement of safety for dynamic robot
 
 {% capture pn %}
 {% for ppl in ppls %}
-{%- include linked_name.md id=ppl -%}{% if forloop.index < forloop.length and forloop.length>2 %}, {% endif %}{% if forloop.index == forloop.length-1 %} XXX {% endif %}{% if forloop.index == forloop.length-1 %} YYY {% endif %}
+{%- include linked_name.md id=ppl -%}{% if forloop.index < forloop.length and forloop.length>2 %}, {% endif %}{% if forloop.index == forloop.length-1 %} XXX {% endif %}{% if forloop.index == forloop.length-2 %} YYY {% endif %}
 {% endfor %}
 {% endcapture %}
 
  - **ML@TU Wien topic**: Trustworthy Machine Learning
  - **ML@TU Wien people**: {{ pn | strip_newlines}}
  - **link**: [SecInt](https://secint.visp.wien/) 
-
+ - test: {%- include listppl.md ppls="PatrickIndri ThomasGaertner" -%}
  
 ### AI for Remote Sensing (AI4SAR)
 
