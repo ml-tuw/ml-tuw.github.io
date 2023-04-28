@@ -148,13 +148,13 @@ Many real-world data sets, such as biological, chemical or materials science dat
 structure and can be modelled as sequences, graphs, or hypergraphs. We are interested, in particular, in
 two interrelated problems: 1) learning unknown underlying structure in data, and 2) learning efficient
 graph representations that leads to more accurate and interpretable models than the state-of-the-art.
-{% capture ppl %}
+{%- capture ppl -%}
 {{ "TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" | split:" " | sample:5 | join:" " }}
-{% endcapture %}
+{%- endcapture -%}
 
  - **funding**: WTZ (OeAD, BMBWF, FR 08/2022)
  - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
- - **ML@TU Wien researchers**: {% include listppl.md ppls="{{ppl}}" -%}
+ - **ML@TU Wien researchers**: {% include listppl.md ppls="{{ ppl }}" -%}
  - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
 
 "TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner"
