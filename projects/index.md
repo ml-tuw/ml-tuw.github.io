@@ -154,6 +154,8 @@ graph representations that leads to more accurate and interpretable models than 
  - **ML@TU Wien researchers**: {% include listppl.md ppls="TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" -%}
  - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
 
+{{ "TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" | split | sample 5 }} 
+ 
 ### ML for Analysis and Design of Molecules and Chemical Reactions
 
  - **funding**: NPIF PhD studentship through the MRC IMPACT Doctoral Training Programme (MR/S502431/1) 
