@@ -4,13 +4,14 @@ title: Empirically understanding the role of depth in GNNs
 ---
 
 **Type**: 
-Mostly Coding with Pytorch and some simple algorithms to generate graphs.
+Coding with Python and Pytorch. Simple algorithms to generate graphs and implement the 1-WL test (or use a library for it).
 
-**Question**: How deep do GNNs need to be? (on average)  
+**Question**: How deep do GNNs need to be? (on average)
 
-**Context**: It has been shown that GNNs, in terms of classifying graphs up to isomorphism, are only as expressive as the 1-dimensional Weisfeiler-Lehman test [1]. However, Babai and Kucera [2] showed that 1-WL is enough to classify almost all graphs (generated under a uniform distribution). Furthermore, they show that only 2 colour refinement steps of WL are enough to classify almost all graphs. 
+**Context**: 
+It has been shown that GNNs, in terms of classifying graphs up to isomorphism, are only as expressive as the 1-dimensional Weisfeiler-Lehman test [1]. However, Babai and Kucera [2] showed that 1-WL is enough to classify almost all graphs (generated under a uniform distribution). Furthermore, they show that only two colour refinement steps of WL are enough to classify almost all graphs.
 
-We can draw a rather indirect connection between the depth of GNN and the number of colour-refinement steps, whereby the depth of the GNN and the number of refinement steps needed in 1-WL to classify graphs is the same. 
+We can draw a rather indirect connection between the depth of GNN and the number of colour-refinement steps, whereby the depth of the GNN and the number of refinement steps needed in 1-WL to classify graphs is the same. Given this analogy between GNN depth and colour-refinement steps, are GNN with depth two enough for classifying almost all graphs?
 
 **Goal**: In this project, we would like to investigate the role of depth in GNNs empirically. The project would consist of the following sub-goals:
 
@@ -27,4 +28,3 @@ Additional Step: Most real-world graphs do not follow an Erdos-Reyni distributio
 **Related work**:
 - [1] Morris et. al. Weisfeiler and Leman go neural: higher-order graph neural networks. In Proceedings of the 33rd AAAI Conference on Artificial Intelligence.
 - [2] Babai and Kucera. Canonical labelling of graphs in linear average time.
-
