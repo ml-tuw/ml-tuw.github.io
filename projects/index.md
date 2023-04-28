@@ -149,8 +149,8 @@ structure and can be modelled as sequences, graphs, or hypergraphs. We are inter
 two interrelated problems: 1) learning unknown underlying structure in data, and 2) learning efficient
 graph representations that leads to more accurate and interpretable models than the state-of-the-art.
 {%- capture ppl -%}
-{{ "TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" | split:" " | sample:5 | join:" " }}
-{%- endcapture -%}
+{{ "TamaraDrucks PatrickIndri MaxThiessen DavidPenz FabianJogl ThomasGaertner" | split:" " | sample:6 | join:" " }}
+{% endcapture %}
 
  - **funding**: WTZ (OeAD, BMBWF, FR 08/2022)
  - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
