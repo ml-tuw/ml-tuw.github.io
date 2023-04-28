@@ -154,7 +154,7 @@ graph representations that leads to more accurate and interpretable models than 
 
  - **funding**: WTZ (OeAD, BMBWF, FR 08/2022)
  - **project**: Modelling Complex Structured Real Biological and Chemical Data using Machine Learning
- - **ML@TU Wien researchers**: {%- include listppl.md ppls=ppl -%}
+ - **ML@TU Wien researchers**: {% include listppl.md ppls=ppl -%}
  - **partners**: [Nataliya Sokolovska](https://sites.google.com/view/nsokolovska) (Nataliya Sokolovska, Paris, France)
 
 
