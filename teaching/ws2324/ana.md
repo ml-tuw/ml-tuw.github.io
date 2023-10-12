@@ -54,7 +54,7 @@ We are happy to supervise machine learning related projects that are connected t
 
 <!-- ### Competitions & challenges
 
-{% include di_filter.html term="sose23" projs="competitions" %} -->
+{% include di_filter.html term="ws2324" projs="competitions" %} -->
 
 
 ### Your own idea!
