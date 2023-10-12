@@ -12,16 +12,13 @@ title: Teaching
 <li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
 <li> MSc <b>Project</b> (6 ECTS) <a href="./ws2324/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
 <li> PhD <b>Seminar</b> (2 ECTS) <a href="./ws2324/seminar_phd.html"><i>für DissertantInnen</i></a></li>
-
-<!-- <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> -->
-<!-- <li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li> -->
 </ul>
 
 
 
 ### Thesis opportunities
 
-<a href="./sose23/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
+<a href="./ws2324/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
 
 ### Ongoing Thesis Supervision
 
