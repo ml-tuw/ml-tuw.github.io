@@ -22,3 +22,5 @@ title: Boosting GNNs With Graph Transformations
 2. Graph transformations:
 - Jogl et al., _Expressivity-Preserving GNN Simulation Poster_, NeurIPS (preprint via email), 2023
 - Veličković, _Message Passing All The Way Up_, GTRL workshop @ ICLR, 2022
+
+**Advisor:** Fabian

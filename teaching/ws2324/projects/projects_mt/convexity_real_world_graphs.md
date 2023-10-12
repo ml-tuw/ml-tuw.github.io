@@ -19,3 +19,4 @@ Check for node-labelled graphs in benchmark datasets (e.g., http://snap.stanford
 While classical notions of convexity in Euclidean space are largely studied and used by the machine learning community, related notions in discrete spaces (e.g., graphs) have been mostly overlooked. A vertex set S is in a graph is *geodesically convex*, if all shortest paths joining two vertices in S stay in S. Recently, we (and other groups) have started to use the notion of convexity in graphs to achieve guarantees for machine learning problems on graphs.
 Currently, these results are mainly of theoretical interest, but the next step is to evaluate and test the developed methods on real-world graphs. For that, we have to find reasonable datasets and application areas that fit our convexity-based assumptions. Your goal is to identify graphs where the labelled subgraphs are (close to) convex.
 
+**Advisor:** Max

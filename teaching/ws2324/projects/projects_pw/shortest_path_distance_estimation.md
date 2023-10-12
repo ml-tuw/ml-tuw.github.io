@@ -1,15 +1,13 @@
 ---
 layout: entitled
-title: Kernel Methods for Large Scale Graph Learning Problems
+title: Shortest Path Distance Estimation
 ---
 
 **Type**: 
-
 Coding and evaluation in python, likely using pytorch (maybe pytorch geometric)
 
 
 **Question**:
-
 Can we accurately predict shortest path distances in a large graph in sublinear time and space using a specialized neural network?
 
 
@@ -36,7 +34,6 @@ $$ d(s,t) \simeq \frac{(d(l,s) + d(l,t) - |d(l,s) - d(l,t)|)}{2} + |d(l,s) - d(l
 But can we do better?
 
 **Suggested approach**:
-
 We consider the distance estimation problem as a supervised learning task. 
 Given a pair $(s,t)$ of vertices, predict $d(s,t)$. 
 As features, we will use the lower and upper bounds that we obtain from several landmarks, at training time, we can allow a certain number of shortest path distance computations to obtain ground truth distances $d(s,t)$.
@@ -51,7 +48,7 @@ Your tasks include
 
 
 **Related work**:
-
 [1] Maria Christoforaki, Torsten Suel:
 Estimating pairwise distances in large graphs. IEEE BigData 2014: 335-344
 
+**Advisor:** Pascal

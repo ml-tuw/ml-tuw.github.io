@@ -41,3 +41,6 @@ If ensembling of models is an integral part of recent practical approaches using
 [3] Karsten M. Borgwardt, M. Elisabetta Ghisu, Felipe Llinares-López, Leslie O'Bray, Bastian Rieck: Graph Kernels: State-of-the-Art and Future Challenges. Found. Trends Mach. Learn. 13(5-6) (2020)\
 [4] [https://scikit-learn.org/](https://scikit-learn.org/)\
 [5] [https://ysig.github.io/GraKeL/](https://ysig.github.io/GraKeL/)
+
+
+**Advisor:** Pascal
