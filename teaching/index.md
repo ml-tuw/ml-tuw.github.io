@@ -3,25 +3,30 @@ layout: entitled
 title: Teaching
 ---
 
-### SoSe 2023
-
+### WiSe 2023/2024
 <ul>
-<li> MSc <b>Lecture</b> (3 ECTS) <a href="./sose23/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li> MSc <b>Seminar</b> (3 ECTS) <a href="./sose23/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
-<li> MSc <b>Project</b> (3 ECTS) <a href="./sose23/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
-<li> MSc <b>Project</b> (6 ECTS) <a href="./sose23/ana6ects.html"><i>Project in Computer Science 1 - Machine Learning Algorithms and Applications (PR)</i></a></li>
-<li> BSc <b>Seminar</b> (3 ECTS) <a href="./sose23/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+<li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2324/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
+<!-- <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>  -->
+<li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2324/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./ws2324/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> PhD <b>Seminar</b> (2 ECTS) <a href="./ws2324/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
 </ul>
+
+
 
 ### Thesis opportunities
 
-<a href="./sose23/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
+<a href="./ws2324/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
 
 ### Ongoing Thesis Supervision
 
+ <!-- - Andrei Brasoveanu: ** -->
+ <!-- - Bijan: *(MSc Thesis)* -->
+ <!-- - Felix Gross: *Localized Graph Neural Networks (BSc Thesis)* -->
  - Fabian Traxler: *Antibody-Antigen Binding Affinity Prediction through the use of geometric deep learning* (MSc thesis)
  - Tin Marin Tunjic: *Using Temporal Information to Improve Learning of the Molecular Dynamics Simulation Trajectories for Proteins* (MSc thesis)
- - Nikola Georgiev: *Predictive Maintenance of Damper Systems in the Real World Based on Simulated Data* (BSc thesis)
 
 ## Student Publications
 
@@ -37,6 +42,7 @@ title: Teaching
 ## History
 
 ### Theses
+ - Nikola Georgiev: *Predictive Maintenance of Damper Systems in the Real World Based on Simulated Data* (BSc thesis)
  - Philipp Lenz: *Measuring Textual Reasoning in Neural Networks with External Memories* (BSc thesis)
  - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc thesis)
  - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis)
@@ -45,6 +51,18 @@ title: Teaching
  - Sabrina Herbst: *Analysis of Bacteriophages---Predicting Hosts of Bacteriophages Based on
 Molecular Sequence Data* (BSc thesis)
  - Philip Vonderlind: *Domain Transfer for Multi-Agent Reinforcement Learning* (BSc thesis)
+
+<details>
+<summary><b>SoSe 2023</b> (click to expand)</summary>
+
+<ul>
+<li> MSc <b>Lecture</b> (3 ECTS) <a href="./sose23/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./sose23/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./sose23/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./sose23/ana6ects.html"><i>Project in Computer Science 1 - Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./sose23/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>
+</ul>
+</details>
 
 
 <details>
