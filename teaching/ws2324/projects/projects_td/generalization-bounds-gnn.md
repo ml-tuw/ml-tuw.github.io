@@ -1,9 +1,9 @@
 ---
 layout: entitled
-title: Empirical validation of generalization bounds for graph neural networks
+title: Empirical investigation of generalization bounds for GNNs
 ---
 
-**Type**: Mostly implementing graph neural networks with (ideally) PyTorch, some going through related work and collecting interesting generalization bounds
+**Type**: Mostly implementing and training GNNs with PyTorch (Geometric), some going through related work and collecting interesting generalization bounds
 
 **Recommended Skills**: (Some) experience with machine learning in Python. Familiarity with mathematical proofs is helpful to understand the related work, but not strictly required for this project
 
