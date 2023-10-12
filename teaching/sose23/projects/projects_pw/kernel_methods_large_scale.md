@@ -29,7 +29,7 @@ If ensembling of models is an integral part of recent practical approaches using
 
 1. Split the training data in reasonable size chunks (e.g. 2000 graphs each) on which kernel methods are empirically fast
 2. Train SVM/SVR on each chunk independently, using multiple graph kernels.
-3. Ensemble the trained models using a Voting scheme or a simple model such as linear regression to obtain a global model.
+3. Ensemble the trained models using a voting scheme or a simple model such as linear regression to obtain a global model.
 4. Optimize the approach such that a leaderboard position can be achieved, where you can write 'Hardware: My Laptop'
 
 
