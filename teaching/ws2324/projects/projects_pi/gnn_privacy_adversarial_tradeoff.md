@@ -11,6 +11,7 @@ Are private GNNs less robust?
 
 **Suggested Approach**:
 Implementation/adaptation of robust GNNs and evaluation of the privacy/utility trade-off on benchmark datasets against a number of privacy attacks.
+A possible focus can be on private/adversarial perturbations on the edges of the graphs: how does the accuracy of an adversarially attacked GNN compare to that of a private one?
 
 
 **Related Work**:
@@ -22,6 +23,6 @@ Implementation/adaptation of robust GNNs and evaluation of the privacy/utility t
 **Context**:
 A tension between differential privacy and robustness (against adversarial examples) has been empirically observed [Song et al., 2019] and theoretically shown [Ghazi et al., 2021].
 Do these result extend to structured data?
-Focusing on a centralised setting: are more robust algorithms less private (or vice versa)?
+Focusing on a centralised setting and possibly on perturbations of the graph structure: are more robust algorithms less private (or vice versa)?
 
 **Advisor**: Patrick

@@ -14,6 +14,8 @@ title: Disentangled Representations
 **Suggested approach**: Find suitable data sets, i.e., data sets that come with additional meta information such as gender and age (e.g., LFM2b, MovieLens, BIOS); implement and train a variety of different algorithms suitable for the given task (e.g., beta-VAE, FactorVAE); evaluate performance of the task and metrics related to disentanglement
 
 **Related work**:  
+
+- Zhang and Sugiyama, _A Category-theoretical Meta-analysis of Definitions of Disentanglement_, PMLR 2023
 - Eastwood and Williams, _A Framework for the Quantitative Evaluation of Disentangled Representations_, ICLR 2018
 - Kim and Mnih, _Disentangling by Factorising_, PMLR 2018
 - Burgess et al., _Understanding disentangling in beta-VAE_

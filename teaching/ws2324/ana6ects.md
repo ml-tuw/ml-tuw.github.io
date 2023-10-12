@@ -4,7 +4,7 @@ title: Project in Computer Science 1 - Machine Learning Algorithms and Applicati
 ---
 ## General information
 
-- TISS: [(link)](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=6943&dsrid=980&courseNr=194119&semester=2023S)
+- TISS: [(link)](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?dswid=6943&dsrid=980&courseNr=194119)
 - contact: [Max Thiessen](mailto:maximilian.thiessen@tuwien.ac.at)
 - everything important will be announced in TUWEL.
 
@@ -46,7 +46,7 @@ Write a final report to present the results of your work.
 
 We are happy to supervise machine learning related projects that are connected to our research interests. Examples are:
 
-{% include di_filter.html term="sose23" projs="projects" %}
+{% include di_filter.html term="ws2324" projs="projects" %}
 
 
 <!-- ### Competitions & challenges

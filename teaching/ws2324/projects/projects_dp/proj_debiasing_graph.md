@@ -15,6 +15,7 @@ title: Debiasing graph-based models (GNNs)
 
 **Related work**:  
 - Chen et al., _Bias and Debias in Recommender System: A Survey and Future Directions_, ACM Transactions on Information Systems, Vol. 41, No. 3
+- Fan et al., _Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure_, NeurIPS 2022
 - Ganhör et al., _Unlearning Protected User Attributes in Recommendations with Adversarial Training_, SIGIR 2022
 - RecBole as a framework for Recommender Systems and related data sets [https://recbole.io/]
 
