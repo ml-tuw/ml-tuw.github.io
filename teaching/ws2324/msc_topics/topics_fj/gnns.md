@@ -14,18 +14,16 @@ title: GNNs
 
 _Note:_ For very long papers we do not expect you to read the entire appendix.
 
-1. Expressiveness of GNNs
-    - Zhang et al., _Rethinking the Expressive Power of GNNs via Graph Biconnectivity_, ICLR, 2023  
-    - Lim et al., _Sign and Basis Invariant Networks for Spectral Graph Representation Learning_, ICLR, 2023 
-    - Hwang et al., _An Analysis of Virtual Nodes in Graph Neural Networks for Link Prediction_, LoG, 2022
-2. Oversmoothing & Over-Squashing
-    - Keriven, _Not too little, not too much: a theoretical analysis of graph (over)smoothing_, NeurIPS, 2023
-    - Abboud et al., _Shortest Path Networks for Graph Property Prediction_, LoG, 2022
-    - Huang et al., _You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained GNNs Tickets_, LoG, 2022
+1. Expressiveness of GNNs 
+  - Zahng et al., _A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests_, ICML, 2023
+  - Zhang et al., _Rethinking the Expressive Power of GNNs via Graph Biconnectivity_, ICLR, 2023
+  - Lim et al., _Sign and Basis Invariant Networks for Spectral Graph Representation Learning_, ICLR, 2023
 
-3. Neural Algorithmic Reasoning / Algorithm Representation Learning
-    - Numeroso et al., _Dual Algorithmic Reasoning_, ICLR, 2023
+2. Oversmoothing, Over-Squashing and Graph Rewiring
+  - Topping et al., _ Understanding over-squashing and bottlenecks on graphs via curvature_, ICLR 2022
+  - Keriven, _Not too little, not too much: a theoretical analysis of graph (over)smoothing_, NeurIPS, 2023
+  - Karhadkar et al., _FOSR: First-Order Spectral Rewiring For
+Addresing Oversquashing In GNNs_, ICLR, 2023
 
-4. Learning from Graph Data with MLPs
-    - Tian et al., _Learning MLPs on Graphs: A Unified View of Effectiveness, Robustness, and Efficiency_, ICLR, 2023
-
+3. Others
+  - Huang et al., _You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained GNNs Tickets_, LoG, 2022

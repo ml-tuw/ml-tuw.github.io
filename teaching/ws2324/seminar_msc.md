@@ -5,7 +5,7 @@ title: Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learn
 
 ## General information
 
-- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=2138&dsrid=904&courseNr=194118&semester=2022W&locale=en)
+- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=2138&dsrid=904&courseNr=194118&locale=en)
 - contact: [Patrick Indri](mailto:patrick.indri@tuwien.ac.at)
 - meeting link: [https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)
 - everything important will be announced in TUWEL/TISS.
