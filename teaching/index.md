@@ -6,7 +6,7 @@ title: Teaching
 ### WiSe 2023/2024
 <ul>
 <li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2324/intrML.html"><i>Introduction to Machine Learning</i></a></li>
-<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing</i></a></li> 
+<!-- <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing</i></a></li>  -->
 <li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2324/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
 <li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications</i></a></li>
 <li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
