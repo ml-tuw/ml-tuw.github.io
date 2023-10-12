@@ -5,13 +5,13 @@ title: Teaching
 
 ### WiSe 2023/2024
 <ul>
-<li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2324/intrML.html"><i>Introduction to Machine Learning</i></a></li>
-<!-- <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing</i></a></li>  -->
+<li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2324/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
+<!-- <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>  -->
 <li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2324/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications</i></a></li>
-<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
 <li> MSc <b>Project</b> (6 ECTS) <a href="./ws2324/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
-<li> PhD <b>Seminar</b> (2 ECTS) <a href="./ws2324/seminar_phd.html"><i>für DissertantInnen</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> PhD <b>Seminar</b> (2 ECTS) <a href="./ws2324/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
 </ul>
 
 
@@ -22,6 +22,9 @@ title: Teaching
 
 ### Ongoing Thesis Supervision
 
+ <!-- - Andrei Brasoveanu: ** -->
+ <!-- - Bijan: *(MSc Thesis)* -->
+ <!-- - Felix Gross: *Localized Graph Neural Networks (BSc Thesis)* -->
  - Fabian Traxler: *Antibody-Antigen Binding Affinity Prediction through the use of geometric deep learning* (MSc thesis)
  - Tin Marin Tunjic: *Using Temporal Information to Improve Learning of the Molecular Dynamics Simulation Trajectories for Proteins* (MSc thesis)
 
