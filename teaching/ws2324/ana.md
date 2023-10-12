@@ -49,7 +49,7 @@ Design a poster and write a short final report to present the results of your wo
 
 We are happy to supervise machine learning related projects that are connected to our research interests. Examples are:
 
-{% include di_filter.html term="sose23" projs="projects" %}
+{% include di_filter.html term="ws2324" projs="projects" %}
 
 
 <!-- ### Competitions & challenges
