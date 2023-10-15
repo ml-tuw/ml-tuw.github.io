@@ -6,7 +6,7 @@ title: Teaching
 ### WiSe 2023/2024
 <ul>
 <li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2324/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
-<!-- <li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li>  -->
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> 
 <li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2324/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
 <li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
 <li> MSc <b>Project</b> (6 ECTS) <a href="./ws2324/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
@@ -23,9 +23,8 @@ title: Teaching
 ### Ongoing Thesis Supervision
 
  <!-- - Andrei Brasoveanu: ** -->
- <!-- - Bijan: *(MSc Thesis)* -->
- <!-- - Felix Gross: *Localized Graph Neural Networks (BSc Thesis)* -->
- - Fabian Traxler: *Antibody-Antigen Binding Affinity Prediction through the use of geometric deep learning* (MSc thesis)
+ - Felix Gross: *Localized Graph Neural Networks (BSc Thesis)*
+ - Bijan Nikkhah: *Interactive Optimization of Sequence Submodular Functions (MSc Thesis)*
  - Tin Marin Tunjic: *Using Temporal Information to Improve Learning of the Molecular Dynamics Simulation Trajectories for Proteins* (MSc thesis)
 
 ## Student Publications
@@ -42,14 +41,18 @@ title: Teaching
 ## History
 
 ### Theses
+ - Peter Blohm - *Breaking the Radon Machine - Investigating the Robustness of a Machine Learning Parallelization Scheme* (BSc Thesis)
+ - Dominik Gall: *How to Predict the Effectiveness of Bacteriophages* (BSc Thesis)
  - Nikola Georgiev: *Predictive Maintenance of Damper Systems in the Real World Based on Simulated Data* (BSc thesis)
- - Philipp Lenz: *Measuring Textual Reasoning in Neural Networks with External Memories* (BSc thesis)
- - Maximilian Holzmüller: *Procedural Level Generation for Video Games* (BSc thesis)
- - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis)
- - Fabian Jogl: *Do we need to Improve Message Passing? Improving Graph Neural Networks with Graph Transformations* (MSc thesis)
- - Dominik Schmidt: *Generalization and Transfer Learning in Multi-Task Reinforcement Learning* (BSc thesis)
  - Sabrina Herbst: *Analysis of Bacteriophages---Predicting Hosts of Bacteriophages Based on
+ - Maximilian Holzmüller: *Generating Levels with NEAT and Stochastic Gradient Descent* (BSc thesis)
+ - Fabian Jogl: *Do we need to Improve Message Passing? Improving Graph Neural Networks with Graph Transformations* (MSc thesis)
+ - Philipp Lenz: *Measuring Textual Reasoning in Neural Networks with External Memories* (BSc thesis)
+ - Maximilian Plattner: *On SGD with Momentum* (MSc Thesis)
+ - Dominik Schmidt: *Generalization and Transfer Learning in Multi-Task Reinforcement Learning* (BSc thesis)
+ - Thomas Schmied: *Self-supervised offline reinforcement learning for real-world decision-making agents* (MSc thesis)
 Molecular Sequence Data* (BSc thesis)
+ - Fabian Traxler: *Antibody-Antigen Binding Affinity Prediction through the use of geometric deep learning* (MSc thesis)
  - Philip Vonderlind: *Domain Transfer for Multi-Agent Reinforcement Learning* (BSc thesis)
 
 <details>
