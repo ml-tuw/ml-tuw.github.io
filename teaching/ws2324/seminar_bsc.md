@@ -71,4 +71,3 @@ Give a final presentation and submit your report.
 You should have access to the literature and papers through Google scholar, DBLP, the provided links, or the TU library.
 
 {% include di_filter.html term="ws2324" projs="bsc_topics" %}
-
