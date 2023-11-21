@@ -4,7 +4,7 @@ raw=./publications/repositum_extract.html
 select=./publications/repositum_select.html
 clean=./publications/repositum_select.md
 header=./publications/repositum_header.md
-pubs=./publications/repositum_pubs.md
+pubs=./publications/index.md
 
 # download current paper list of 194_06 from repositum
 curl https://repositum.tuwien.at/rest/orgunit/publications_html/tiss_id/6233 \
