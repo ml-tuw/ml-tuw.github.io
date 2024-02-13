@@ -14,11 +14,20 @@ echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
 echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
-- install bundler
-'gem install bundler'
+- install bundler and jekyll
+```gem install bundler```
+```gem install jekyll```
 
 - install the local stuff (from this directory)
 ```gem install```
 
 - start jekyll server
 ```bundle exec jekyll serve```
+
+
+# to update our list of publications
+
+Our publications are extracted from repositum.tuwien.ac.at. If you want them to appear on our webpage, add them to repositum first and get them accepted ;)
+
+Then, from the main directory, run (locally)
+```bash update_bibliography.sh```
