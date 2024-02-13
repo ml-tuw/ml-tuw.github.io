@@ -26,6 +26,7 @@ title: Publications
     > $header
 
 # remove messy repositum markup
+# replace '>https://doi.org/...<' by '>(doi)<' to make links prettier
 cat $select \
     | sed 's/  <div class="csl-entry">/- /g' \
     | sed 's/<div class="csl-bib-body">//g' \
@@ -33,7 +34,11 @@ cat $select \
     | sed "s/<div class='row citation-entry'>//g" \
     | sed 's-</div></div></div>-\n-g' \
     | awk  '{$1=$1; print} '  RS='</div>\n\n' FS='\n' OFS=" " \
+    | sed 's- reposiTUm-reposiTUm-g' \
+    | sed -E 's-(>https://doi.org/[^<]*)->\(doi\)-g' \
     > $clean
+
+
 
 # glue stuff together
 cat $header $clean \
