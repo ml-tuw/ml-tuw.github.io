@@ -3,15 +3,14 @@ layout: entitled
 title: Teaching
 ---
 
-### WiSe 2023/2024
+### SoSe 2024
 <ul>
-<li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2324/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
-<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> 
-<li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2324/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
-<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
-<li> MSc <b>Project</b> (6 ECTS) <a href="./ws2324/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
-<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
-<li> PhD <b>Seminar</b> (2 ECTS) <a href="./ws2324/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./sose24/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> 
+<li> MSc <b>Lecture</b> (3 ECTS) <a href="./sose24/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./sose24/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./sose24/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./sose24/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> PhD <b>Seminar</b> (2 ECTS) <a href="./sose24/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
 </ul>
 
 
@@ -56,9 +55,23 @@ Molecular Sequence Data* (BSc thesis)
  - Fabian Traxler: *Antibody-Antigen Binding Affinity Prediction through the use of geometric deep learning* (MSc thesis)
  - Philip Vonderlind: *Domain Transfer for Multi-Agent Reinforcement Learning* (BSc thesis)
 
+
+<details>
+<summary><b>WiSe 2023/24</b> (click to expand)</summary>
+<ul>
+<li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2324/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> 
+<li> MSc <b>Lecture</b> (3 ECTS) <a href="./ws2324/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2324/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./ws2324/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2324/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> PhD <b>Seminar</b> (2 ECTS) <a href="./ws2324/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
+</ul>
+</details>
+
+
 <details>
 <summary><b>SoSe 2023</b> (click to expand)</summary>
-
 <ul>
 <li> MSc <b>Lecture</b> (3 ECTS) <a href="./sose23/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
 <li> MSc <b>Seminar</b> (3 ECTS) <a href="./sose23/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
