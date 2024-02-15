@@ -16,8 +16,26 @@ title: Research Seminar of the TUW RU Machine Learning
 
 ### Past Events
 
+- [Johannes Fürnkranz](https://www.jku.at/en/institute-for-application-oriented-knowledge-processing/about-us/team/johannes-fuernkranz/) (JKU Linz)
+_Towards Deep and Interpretable Rule Learning_
+(15/3/2024 at tba)<br />
+Inductive rule learning is concerned with the learning of classification rules from data. Learned rules are inherently interpretable and easy to implement, so they are very suitable for formulating learned models in many domains. Nevertheless, current rule learning algorithms have several shortcomings. First, with respect to the current praxis of equating high interpretability with low complexity, we argue that while shorter rules are important for discrimination, longer rules are often more interpretable than shorter rules, and that the tendency of current rule learning algorithms to strive for short and concise rules should be replaced with alternative methods that allow for longer concept descriptions. Second, we think that the main impediment of current rule learning algorithms is that they are not able to learn deeply structured rule sets, unlike the successful deep learning techniques. Both points are currently under investigation in our group, and we will show some
+results. 
+ 
+
+- **Nataliya Sokolovska** (Sorbonne University) 
+_Interpretable models in machine learning and their application in medicine_
+(16/08/2023 at 2pm **in person**)<br />
+An important aspect of practical classifiers is interpretability. Learning compact but highly accurate models that help in human decision-making is challenging. Most such simple scoring systems were constructed by human experts using some heuristics and are not optimal. In many prediction tasks such as medical diagnostics, there are many more challenges: finding optimal individual treatment; taking budget into consideration, and the budget (any finite resource such as time, money, or side effects of medications) in real-life applications is always limited. I will consider principled methods to learn interpretable simple rules purely from data. I will also show  possible solutions to take the limited budget into account, and discuss some perspectives for development of methods of personalised medicine. 
+
+- [Viacheslav Borovitskiy](https://vab.im/) (ETH Zürich) _Geometric Gaussian Processes_ (6/6/2023 **in person**)<br/>
+Gaussian processes (GPs) are often considered to be the gold standard in settings where well-calibrated predictive uncertainty is of utter importance, such as decision making.
+It is important for applications to have a class of  “general purpose” GPs. Traditionally, these are the stationary processes, e.g. RBF or Matérn GPs, at least for the usual vectorial inputs. For non-vectorial inputs, however, there is often no such class. This state of affairs hinders the use of GPs in a number of application areas ranging from robotics to drug design.
+In this talk, I will consider GPs taking inputs on a manifold, on a node set of a graph, or in a discrete “space” of graphs. I will discuss a framework for defining the appropriate general purpose GPs, as well as the analytic and numerical techniques that make them tractable.
+
 - [Linara Adilova](https://informatik.rub.de/ml/personen/adilova/) (Uni Bochum) _Information Plane Analysis for Dropout Neural Networks_ (25/4/2023 at 1pm)<br/>
 The information-theoretic framework promises to explain the predictive power of neural networks. In particular, the information plane analysis, which measures mutual information (MI) between input and representation as well as representation and output, should give rich insights into the training process. This approach, however, was shown to strongly depend on the choice of estimator of the MI. The problem is amplified for deterministic networks if the MI between input and representation is infinite. Thus, the estimated values are defined by the different approaches for estimation, but do not adequately represent the training process from an information-theoretic perspective. In this work, we show that dropout with continuously distributed noise ensures that MI is finite. We demonstrate in a range of experiments that this enables a meaningful information plane analysis for a class of dropout neural networks that is widely used in practice.
+
 
 - [Daniel Springer](https://www.iarai.ac.at/people/daniel/) (IARAI) _A Machine Learning Approach to the Analytic Continuation Problem_ (25/4/2023 at 3.30pm **in person**)<br/>
 Machine learning (ML) models have proven to be successful in detecting
@@ -28,13 +46,11 @@ able to motivate the usage of different state-of-the-art ML models and
 train them to predict highly accurate spectra of the metal-insulator
 transition in the single band Hubbard model at half filling. 
 
+<!--
 - [Tiffany Vlaar](https://tiffanyvlaar.github.io/) (Mila and McGill University) _Constrained and Multirate Training of Neural Networks_  (30/5/2023 at 2pm)<br/>
 I will describe algorithms for regularizing and training deep neural networks. Soft constraints, which add a penalty term to the loss, are typically used as a form ofexplicit regularization for neural network training. In this talk I describe a method for efficiently incorporating constraints into a stochastic gradient Langevin framework for the training of deep neural networks. In contrast to soft constraints, our constraints offer direct control of the parameter space, which allows us to study their effect on generalization. In the second part of the talk, I illustrate the presence of latent multiple time scales in deep learning applications. Different features present in the data can be learned by training a neural network on different time scales simultaneously. By choosing appropriate partitionings of the network parameters into fast and slow parts I show that our multirate techniques can be used to train deep neural networks for transfer learning applications in vision and natural language processing in half the time, without reducing the generalization performance of the model.
+-->
 
-- [Viacheslav Borovitskiy](https://vab.im/) (ETH Zürich) _Geometric Gaussian Processes_ (6/6/2023 **in person**)<br/>
-Gaussian processes (GPs) are often considered to be the gold standard in settings where well-calibrated predictive uncertainty is of utter importance, such as decision making.
-It is important for applications to have a class of  “general purpose” GPs. Traditionally, these are the stationary processes, e.g. RBF or Matérn GPs, at least for the usual vectorial inputs. For non-vectorial inputs, however, there is often no such class. This state of affairs hinders the use of GPs in a number of application areas ranging from robotics to drug design.
-In this talk, I will consider GPs taking inputs on a manifold, on a node set of a graph, or in a discrete “space” of graphs. I will discuss a framework for defining the appropriate general purpose GPs, as well as the analytic and numerical techniques that make them tractable.
 
 - [C’Est La Wien](https://cestlawien.github.io/) _Community Event for Students of Learning Algorithms in Wien_ (27/2/2023, 8.30am-6pm, **in person**)
  
@@ -49,7 +65,7 @@ attributed graph types are equally expressive and have the same modeling
 power.
 
 
-- Arsen Sultanov (Sorbonne University) _Generating stable crystal structures with denoising diffusion_ (22/11/2022, 3.30pm, **in person**)  
+- **Arsen Sultanov** (Sorbonne University) _Generating stable crystal structures with denoising diffusion_ (22/11/2022, 3.30pm, **in person**)  
 In recent years, diffusion-based generative models have achieved SoTA
 performance on various tasks, including generation of images, audio,
 point clouds and molecular conformations. In our work, we adapt existing diffusion models to solve the problem of periodic crystal structure
@@ -85,7 +101,7 @@ The majority of popular graph kernels is based on the concept of Haussler's $\ma
 - {% include linked_name.md id="PascalWelke" %}  (University of Bonn) _Efficient Graph Similarity Learning_ (27/4/2021, 2pm)
 
 
-- % include linked_name.md id="MarioBoley" %} (Monash) _Better Short Than Greedy: Interpretable Models Through Optimal Rule Boosting_ (20/4/2021, **11am**)  
+- {% include linked_name.md id="MarioBoley" %} (Monash) _Better Short Than Greedy: Interpretable Models Through Optimal Rule Boosting_ (20/4/2021, **11am**)  
  Rule ensembles are designed to provide a useful trade-off between predictive accuracy and model interpretability. However, the myopic and random search components of current rule ensemble methods can compromise this goal: they often need more rules than necessary to reach a certain accuracy level or can even outright fail to accurately model a distribution that can actually be described well with a few rules. Here, we present a novel approach aiming to fit rule ensembles of maximal predictive power for a given ensemble size (and thus model comprehensibility). In particular, we present an efficient branch-and-bound algorithm that optimally solves the per-rule objective function of the popular second-order gradient boosting framework. Our main insight is that the boosting objective can be tightly bounded in linear time of the number of covered data points. Along with an additional novel pruning technique related to rule redundancy, this leads to a computationally feasible approach for boosting optimal rules that, as we demonstrate on a wide range of common benchmark problems, consistently outperforms the predictive performance of boosting greedy rules.
 
 - [Antoine Ledent](https://ml.informatik.uni-kl.de/people/antoine-ledent.html) (TU Kaiserslautern) _Orthogonal Inductive Matrix Completion_ (13/4/2021, 2pm)  

@@ -15,20 +15,9 @@ title: Teaching
 </ul>
 
 
-
-### Thesis opportunities
-
-<a href="./ws2324/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
-
-### Ongoing Thesis Supervision
-
- <!-- - Andrei Brasoveanu: ** -->
- - Felix Gross: *Localized Graph Neural Networks (BSc Thesis)*
- - Bijan Nikkhah: *Interactive Optimization of Sequence Submodular Functions (MSc Thesis)*
- - Tin Marin Tunjic: *Using Temporal Information to Improve Learning of the Molecular Dynamics Simulation Trajectories for Proteins* (MSc thesis)
-
 ## Student Publications
 
+ - Andrei Dragos Brasoveanu, Fabian Jogl, Pascal Welke, Maximilian Thiessen. **Extending Graph Neural Networks with Global Features.** _Learning on Graphs Conference_ 2023.
  - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Weisfeiler and Leman Return with Graph Transformations.** _Mining and Learning with Graphs_ ECMLPKDD Workshop 2022.
  - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Reducing Learning on Cell Complexes to Graphs.** _Geometrical and Topological Representation Learning_ ICLR Workshop 2022.
  - Dominik Schmidt. **Dojo: A Large Scale Benchmark for Multi-Task Reinforcement Learning.** _Agent Learning in Open-Endedness_ ICLR Workshop 2022.
@@ -36,7 +25,19 @@ title: Teaching
  - Dominik Schmidt and Thomas Schmied. **Fast and Data-Efficient Training of Rainbow: an Experimental Study on Atari.** _Deep Reinforcement Learning_ NeurIPS Workshop 2021.
  - Thomas Schmied and Maximilian Thiessen. **Efficient Reinforcement Learning via Self-supervised learning and Model-based methods.** _Challenges of Real-World Reinforcement Learning_ NeurIPS Workshop 2020. ([pdf](https://maxthiessen.ml/publication/schmied2020efficient/schmied2020efficient.pdf))
 
- 
+
+## Thesis opportunities
+
+<a href="./ws2324/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
+
+### Ongoing Thesis Supervision
+
+ <!-- - Andrei Brasoveanu: ** -->
+ - Mate Csikos-Nagy - *Double-Descent in Graph Neural Networks* (BSc Thesis)
+ - Felix Gross: *Localized Graph Neural Networks (BSc Thesis)*
+ - Bijan Nikkhah: *Interactive Optimization of Sequence Submodular Functions (MSc Thesis)*
+ - Tin Marin Tunjic: *Using Temporal Information to Improve Learning of the Molecular Dynamics Simulation Trajectories for Proteins* (MSc thesis)
+
  
 ## History
 
