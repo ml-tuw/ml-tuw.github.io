@@ -6,8 +6,8 @@ title: Bachelor Seminar Wissenschaftliches Arbeiten
 ## General information
 
 - TISS: [(link)](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=193052&dswid=5830&dsrid=791)
-- contact: [Patrick Indri](mailto:patrick.indri@tuwien.ac.at)
-- meeting link: [https://tuwien.zoom.us/my/patrickindri](https://tuwien.zoom.us/my/patrickindri)
+- contact: {% include listppl.md ppls="SagarMalhotra" -%} ([email](mailto:sagar.malhotra@tuwien.ac.at))
+- meeting link: ([zoom](https://tuwien.zoom.us/my/sagarmalhotra))
 - everything important will be announced in TUWEL/TISS.
 
 

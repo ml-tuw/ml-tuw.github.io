@@ -5,7 +5,7 @@ title: Seminar for PhD Students
 
 ## General Information
 
-- TISS: [(link)](https://tiss.tuwien.ac.at/course/courseAnnouncement.xhtml?dswid=5405&dsrid=591&courseNumber=194110)
+- TISS: [(link)](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?courseNr=194110)
 - contact: Prof. Dr. {% include listppl.md ppls="ThomasGaertner" -%}
 
 ## Learning outcomes
