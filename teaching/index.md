@@ -27,7 +27,7 @@ title: Teaching
 
 ## Thesis opportunities
 
-<a href="./ws2324/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
+<a href="./sose24/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
 
 ### Ongoing Thesis Supervision
 
