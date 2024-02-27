@@ -5,8 +5,8 @@ title: Project in Computer Science 1 - Machine Learning Algorithms and Applicati
 ## General information
 
 - TISS: ([link](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=194145))
-- contact: 
-- everything important will be announced in TUWEL.
+- contact: {% include listppl.md ppls="PascalWelke" -%} ([email](mailto:pascal.welke@tuwien.ac.at))
+- please get in contact directly if you plan to do this course with some supervisor from our group
 
 ## Format
 
