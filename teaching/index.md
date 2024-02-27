@@ -31,10 +31,10 @@ title: Teaching
 
 ### Ongoing Thesis Supervision
 
- <!-- - Andrei Brasoveanu: ** -->
- - Mate Csikos-Nagy - *Double-Descent in Graph Neural Networks* (BSc Thesis)
- - Felix Gross: *Localized Graph Neural Networks (BSc Thesis)*
- - Bijan Nikkhah: *Interactive Optimization of Sequence Submodular Functions (MSc Thesis)*
+ - Andrei Brasoveanu: *Extending Graph Neural Networks with Global Features* (MSc Thesis)
+ - Mate Csikos-Nagy: *Double-Descent in Graph Neural Networks* (BSc Thesis)
+ - Felix Gross: *Localized Graph Neural Networks* (BSc Thesis)
+ - Bijan Nikkhah: *Interactive Optimization of Sequence Submodular Functions* (MSc Thesis)
  - Tin Marin Tunjic: *Using Temporal Information to Improve Learning of the Molecular Dynamics Simulation Trajectories for Proteins* (MSc thesis)
 
  
