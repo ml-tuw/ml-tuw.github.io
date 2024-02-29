@@ -27,6 +27,9 @@ title: Publications
 
 # remove messy repositum markup
 # replace '>https://doi.org/...<' by '>(doi)<' to make links prettier
+# last grep keeps all lines containing any of the author names (e.g. Gärtner)
+# so you may add new group members, but should not remove old ones
+# (otherwise, old publications vanish)
 cat $select \
     | sed 's/  <div class="csl-entry">/- /g' \
     | sed 's/<div class="csl-bib-body">//g' \
@@ -36,6 +39,7 @@ cat $select \
     | awk  '{$1=$1; print} '  RS='</div>\n\n' FS='\n' OFS=" " \
     | sed 's- reposiTUm-reposiTUm-g' \
     | sed -E 's-(>https://doi.org/[^<]*)->\(doi\)-g' \
+    | grep -e 'Gärtner' -e 'Welke' -e 'Jogl' -e 'Thiessen' -e 'Indri' -e 'Drucks' -e 'Penz' -e 'Malhotra' -e 'Jahanjoo' -e 'Sandrock' -e 'Sepliarskaia' -e 'Schmidt' \
     > $clean
 
 
