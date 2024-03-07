@@ -3,7 +3,7 @@ layout: entitled
 title: GNNs
 ---
 
-**Motivation:** Graphs are a very general structure and can be applied to many areas: molecules and developing medicine, geographical maps, spread of diseases. They can be used to model physical systems and solve partial differential equations. Even images and text can be seen as a special case of graphs. Thus it makes sense to develop neural networks that can work with graphs. GNNs have strong connections to many classical computer science topics (algorithmics, logic, ...) while also making use of neural networks. This means that work on GNN can be very theoretical, applied or anything in between.
+**Motivation:** Graphs are a very general structure and can be applied to many areas: molecules and developing medicine, geographical maps, spread of diseases. They can be used to model physical systems and solve partial differential equations. Even images and text can be seen as a special case of graphs. Thus it makes sense to develop neural networks that can work with graphs. GNNs have strong connections to many classical computer science topics (algorithmics, logic, ...) while also making use of neural networks. This means that work on GNNs can be very theoretical, applied or anything in between.
 
 **Overview:**
 - Veličković, _Everything is connected: Graph neural networks_, [Current Opinion in Structural Biology](https://www.sciencedirect.com/science/article/abs/pii/S0959440X2300012X), 2023
