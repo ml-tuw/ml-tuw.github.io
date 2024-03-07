@@ -12,8 +12,8 @@ by Moritz Helias and David Dahmen, https://arxiv.org/abs/1901.10416
 
 **Related Works:**
 - Renormalization Group Flow as Optimal Transport
- by Jordan Cotler and Semon Rezchikov, https://arxiv.org/abs/2202.11737
-- Learning Interacting Theories from Data
- by Claudia Merger et al., https://arxiv.org/abs/2304.00599
+  by Jordan Cotler and Semon Rezchikov, https://arxiv.org/abs/2312.16038
+- Physics-informed neural network for solving functional renormalization group on lattice
+  by Takeru Yokota, https://arxiv.org/abs/2304.00599
 
 **Advisor**: Prof. Sabine Andergassen
