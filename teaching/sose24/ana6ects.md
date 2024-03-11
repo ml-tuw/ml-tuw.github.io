@@ -10,11 +10,12 @@ title: Project in Computer Science 1 - Machine Learning Algorithms and Applicati
 
 ## Format
 
-In this course, you will experience the role of a typical machine learning researcher.
+In this course, you will experience the role of a typical machine learning researcher in a research group.
 You will:
 * Familiarise yourself with a specific area of machine learning
 * Understand and summarise research papers
 * Work on a concrete problem/task in machine learning
+* Give regular presentations of your work
 
 There are three types of projects:
 * **Theoretical**: Formulate proofs, find novel bounds, show the complexity of an algorithm
@@ -29,29 +30,24 @@ Working on the project consists of the following steps:
 
 Choose a project topic or come up with your own, original idea. Then, write a short problem statement, including your research question, motivation, related work, methodology, and expected results.
 
-#### 2. Working phase
+#### 2. Literature review
 
-Independently work on your project. Additionally, you will have discussion meetings with your supervisor if needed. 
+Before diving into math and implementation, you will do a literature review of related articles. In a presentation in front of a larger group, you will present an overview over the area of your project and show how your project relates to existing approaches.
 
-#### 3. Final submission
+#### 3. Working phase
 
-Write a final report to present the results of your work.
+You will then independently work on your project. However, you will have regular discussion meetings with your supervisor and regular progress presentations in front of a larger group of students and supervisors.
+
+#### 4. Final submission
+
+In a final report you will present your approach, the results of your work, and your literature review.
 
 
 ## Projects (Tentative)
 
-<!-- Here you can find a list of potential projects to choose from:
-
-### Applied & theoretical projects -->
-
 We are happy to supervise machine learning related projects that are connected to our research interests. Examples are:
 
 {% include di_filter.html term="sose24" projs="projects" %}
-
-
-<!-- ### Competitions & challenges
-
-{% include di_filter.html term="sose24" projs="competitions" %} -->
 
 
 ### Your own idea!
