@@ -21,4 +21,7 @@ _Note:_ For very long papers we do not expect you to read the entire appendix.
   - Lim et al., _Sign and Basis Invariant Networks for Spectral Graph Representation Learning_, ICLR, 2023
   - Joshi et al., _On the Expressive Power of Geometric Graph Neural Networks_, ICML, 2023
   - Huang et al., _You Can Have Better Graph Neural Networks by Not Training Weights at All: Finding Untrained GNNs Tickets_, LoG, 2022
+  - Nils M. Kriege, _Weisfeiler and leman go walking: Random walk kernels revisited_, NeurIPS, 2022
+  - Zhang et al., _Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness_, ICLR, 2024
+  - Franks et al., _Weisfeiler-Leman at the margin: When more expressivity matters_, arXiv, 2024
 

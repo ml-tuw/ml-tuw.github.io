@@ -13,8 +13,19 @@ title: Learning Logically Definable Concepts
 
 **Papers and topics**:
 
-- Martin Grohe and Martin Ritzert. Learning First-Order definable concepts over structures of small degree. 2017
-- Grohe et al. Learning MSO-definable hypotheses on strings. 2017
-- Bergeram et al. On Parameterized Complexity of learning Monadic Second-Order Formulas. 2023
+- Kaifu Wang, Efthymia Tsamoura, Dan Roth. On learning latent models with multi-instance weak supervision. Neurips 2024
+- Sam Adam-Day, Theodor Mihai Iliant, İsmail İlkan Ceylan. Zero-One Laws of Graph Neural Networks. 2024
+- Sam Adam-Day, Michael Benedikt, İsmail İlkan Ceylan, Ben Finkelshtein. Graph neural network outputs are almost surely asymptotically constant. 2024
+- Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec. GNNExplainer: Generating Explanations for Graph Neural Networks. 2019
+
+
+
+
+
+
+
+
+
+
 
 
