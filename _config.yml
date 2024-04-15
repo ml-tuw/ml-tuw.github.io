@@ -41,5 +41,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 permalink: /blog/:year/:month/:day/:title
-exclude: test_jek
+exclude: [test_jek]
 
