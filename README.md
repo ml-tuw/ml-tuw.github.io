@@ -31,3 +31,8 @@ Our publications are extracted from repositum.tuwien.ac.at. If you want them to 
 
 Then, from the main directory, run (locally)
 ```bash update_bibliography.sh```
+
+### Note!
+The script contains a line where we have to manually update all the people which should be *included* in our publication list.
+As repositum only resolves to 194-06 level, there are --by default-- more publications visible than from the immediate Thomas Gärtner RUML group.
+So if you are new, check if your (last) name appears in `update_bibliography.sh`
