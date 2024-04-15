@@ -18,6 +18,10 @@ _Microswimmer learning to swim via genetic algorithm_
 (16/4/2024 2.30pm **in person**)<br />
 In nature, microorganisms employ various swimming mechanisms to propel themselves in the medium. Scientists are trying to develop artificial microswimmers capable of mimicking the propulsion mechanisms of the natural microswimmers to perform specific tasks, such as targeted drug delivery, which is a hot topic in nanomedicine. In this work, we tried to computationally train a model one-dimensional microswimmer to swim and respond to a chemical gradient with the help of a genetic algorithm, specifically NEAT. Here, the shape of the swimmer (arms length) is input to the neural network, while the force on them is the output of the network. The network has to adjust the forces on the swimmer in such a way that it can effectively deform its shape to propel in the medium. The networks that emerge from this training are exceptionally simple to drive the swimmer successively in the medium. We aim to train swimmers in higher dimensions with different propulsion mechanisms. 
 
+- [Matthias Lanzinger](https://dbai.tuwien.ac.at/staff/mlanzing/) (TU Wien)
+_tba_
+(21/5/2024 2pm **in person**)<br />
+
 - [Philipp Wintersberger](https://www.researchgate.net/profile/Philipp-Wintersberger) (University of Applied Sciences Hagenberg & TU Wien) 
 _Enabling Multitasking in Human-AI Cooperation_
 (25/6/2024 2pm **in person**)<br />
