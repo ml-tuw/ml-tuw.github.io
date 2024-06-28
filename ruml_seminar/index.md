@@ -13,13 +13,19 @@ title: Research Seminar of the TUW RU Machine Learning
 - 30/11/2021: [Laura Manduchi](https://mds.inf.ethz.ch/team/detail/laura-manduchi) and [Ricards Marcinkevics](https://mds.inf.ethz.ch/team/detail/ricards-marcinkevics) (both ETH Zürich) _Deep Variational Approaches for Weakly Supervised Clustering With Applications to Survival Data_ 
 -->
 
+- [Anna Krause]() (University of Würzburg)
+_Physics-Informed Deep Learning for Modelling Electromagnetic Fields for Heart Diagnostics_
+(29/7/2024 11am **in person**)<br /> 
+Magnetic Resonant Imaging (MRI) is an important diagnostic tool in heart and thorax diagnostics. Ultra High field MRIs (UHF MRI) promise higher spatial resolution and even higher image contrast in the future. The major obstacle to widespread diagnostic use of UHF MRIs is the theoretical risk of  localized overheating. Conventionally, risk assessment and mitigation are based on electromagnetic field simulations that can take several days to complete.<br />
+In the research project MAGNET4Cardiac7T, we research using Physics-Informed Neural Network to model electromagnetic field distributions in the human thorax. With this, we aim to speed up field simulations for risk assessment to allow UHF MRI diagnostics become a standard tool in heart imaging. 
+
+
+### Past Events
+
 - [Philipp Wintersberger](https://www.researchgate.net/profile/Philipp-Wintersberger) (University of Applied Sciences Hagenberg & TU Wien) 
 _Enabling Multitasking in Human-AI Cooperation_
 (25/6/2024 2pm **in person**)<br />
 In the future, humans will cooperate with a wide range of AI-based systems in both working (i.e., decision and recommender systems, language models, industry robots, etc.) and private (i.e., fully- or semi-automated vehicles, smart home applications, ubiquitous computing systems, etc.) environments. Cooperation with these systems involves both shared (i.e., concurrent multitasking) and traded (i.e., task switching) interaction. As it is known that frequently changing atention can yield decreased performance and higher error rates and stress, these systems must consider the users’ atention levels in their operation and communication to be perceived as valuable and trustworthy team partners. This work addresses the emerging problems that occur when users operate potentially safety-critical real-time AI systems while frequently switching their atention to other, non-task related activities. The work investigated users’ behavior (in terms of performance and physiological stress markers) and subjective perceptions (assessed by subjective scales and interviews) in different situations, such as drivers switching between their smartphones and vehicles, multitasking on bicycles, or when interacting with chatbots and language models. Further, this habilitation contributes to these questions on a methodological level by researching evaluation methods  and research tools such as simulators. Ultimately, the identified problems require a new class of interactive systems that integrally consider users’ atention, atitudes, and trust levels while providing transparent information about their capabilities and behaviors. To reach this goal, the work proposes multiple solutions, which were prototypically implemented and empirically evaluated. Individuals’ trust levels and behaviors can be influenced by augmented reality visualizations and conversational agents that provide transparency regarding their internal working mechanisms (“Explainable Artificial Intelligence”). Additionally, atention management systems based on reinforcement learning have the potential to mitigate the negative issues of multitasking and improve human performance in multitasking scenarios. The work concludes with critically assessing these concepts while providing tools, methods, and a research agenda to integrally improve human-AI cooperation in the future.
-
-
-### Past Events
 
 - [Matthias Lanzinger](https://dbai.tuwien.ac.at/staff/mlanzing/) (TU Wien)
 _Graph Neural Networks and Graph Motif Parameters: From Theory to Practice_
