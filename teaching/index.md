@@ -16,6 +16,8 @@ title: Teaching
 
 ## Student Publications
 
+ - Florian Chen, Felix Weitkämper, Sagar Malhotra. **Understanding Domain-Size Generalization in Markov Logic Networks** _ECMLPKDD_ 2024
+ - Florian Chen, Thomas Gärtner. **Scalable Interactive Data Visualization** _ECMLPKDD_ 2024
  - Andrei Dragos Brasoveanu, Fabian Jogl, Pascal Welke, Maximilian Thiessen. **Extending Graph Neural Networks with Global Features.** _Learning on Graphs Conference_ 2023.
  - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Weisfeiler and Leman Return with Graph Transformations.** _Mining and Learning with Graphs_ ECMLPKDD Workshop 2022.
  - Fabian Jogl, Maximilian Thiessen, and Thomas Gärtner. **Reducing Learning on Cell Complexes to Graphs.** _Geometrical and Topological Representation Learning_ ICLR Workshop 2022.
