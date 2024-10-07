@@ -4,6 +4,7 @@ title: Software and Demos
 ---
 
 Code for several recent projects is freely available:
+ -   [InVis 2.0: A Tool for Interactive Data Visualization](https://github.com/faguodev/invis)
  -   [Effective Parallelisation for Machine Learning](https://bitbucket.org/Michael_Kamp/radonmachine)  [[video](https://www.youtube.com/watch?v=IzaHpwf2FGY)]
  -   [Introducing the ‘active search’ method for iterative virtual screening](https://github.com/rmgarnett/active_virtual_screening)
  -   [Nyström method with Kernel K-means++ samples as landmarks](https://bitbucket.org/doglic/nystroem)
