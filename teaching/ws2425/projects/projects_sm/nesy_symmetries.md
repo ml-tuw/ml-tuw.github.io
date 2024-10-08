@@ -1,4 +1,4 @@
-### Project Proposal: **Exploiting Symmetries in Neuro-Symbolic Models**
+### **Exploiting Symmetries in Neuro-Symbolic Models**
 
 ---
 
