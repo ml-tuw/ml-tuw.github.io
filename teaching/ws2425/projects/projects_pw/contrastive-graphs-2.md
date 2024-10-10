@@ -40,4 +40,4 @@ Fabrice Beaumont (2022) - Learning Graph Similarities Using The Weisfeiler-Leman
 Gabriel Peyré and Marco Cuturi (2018) - Computational Optimal Transport. ArXiv:1803.00567
 Tam Le, Makoto Yamada, Kenji Fukumizu, Marco Cuturi (2019) - Tree-Sliced Variants of Wasserstein Distances. NeurIPS
 
-**Advisor**: {% include listppl.md ppls="PascalWelke" -%} ([email](mailto:pascal.welke@tuwien.ac.at))
+**Advisor**:  [Pascal](mailto:pascal.welke@tuwien.ac.at)

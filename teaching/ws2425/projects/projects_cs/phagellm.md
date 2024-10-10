@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: **LLMs on Virus DNA**
+title: LLMs on Virus DNA
 ---
 
 **Type**:
