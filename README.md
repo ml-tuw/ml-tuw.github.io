@@ -19,7 +19,7 @@ source ~/.bashrc
 ```gem install jekyll```
 
 - install the local stuff (from this directory)
-```gem install```
+```bundle install```
 
 - start jekyll server
 ```bundle exec jekyll serve```
