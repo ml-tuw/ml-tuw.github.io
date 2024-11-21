@@ -13,14 +13,18 @@ title: Research Seminar of the TUW RU Machine Learning
 - 30/11/2021: [Laura Manduchi](https://mds.inf.ethz.ch/team/detail/laura-manduchi) and [Ricards Marcinkevics](https://mds.inf.ethz.ch/team/detail/ricards-marcinkevics) (both ETH Zürich) _Deep Variational Approaches for Weakly Supervised Clustering With Applications to Survival Data_ 
 -->
 
+- [Yueyang Pi](https://scholar.google.com/citations?user=c748qXkAAAAJ) (Fuzhou University)
+_Interpretable and Stable Implicit Graph Neural Networks_
+(29/11/2024 2pm **online**)<br />
+Implicit Graph Neural Networks (IGNNs) have emerged as a promising paradigm in graph representation learning due to their ability to bypass explicit layer stacking and directly optimize for steady-state node representations. Unlike traditional explicit GNNs, IGNNs mitigate the over-smoothing problem and reduce parameter redundancy by relying on a fixed-point iterative process. However, the stability and interpretability of these models remain significant challenges. We aim to enhance the stability and interpretability of IGNNs by investigating their behavior under adversarial and noisy conditions, developing theoretical insights into their convergence properties, and proposing robust optimization techniques. Our approach includes analyzing the sensitivity of the fixed-point iteration process to input perturbations and introducing interpretable mechanisms to better understand the model's decision-making process. 
+
+### Past Events
+
 - [Anna Krause]() (University of Würzburg)
 _Physics-Informed Deep Learning for Modelling Electromagnetic Fields for Heart Diagnostics_
 (29/7/2024 11am **in person**)<br /> 
 Magnetic Resonant Imaging (MRI) is an important diagnostic tool in heart and thorax diagnostics. Ultra High field MRIs (UHF MRI) promise higher spatial resolution and even higher image contrast in the future. The major obstacle to widespread diagnostic use of UHF MRIs is the theoretical risk of  localized overheating. Conventionally, risk assessment and mitigation are based on electromagnetic field simulations that can take several days to complete.<br />
 In the research project MAGNET4Cardiac7T, we research using Physics-Informed Neural Network to model electromagnetic field distributions in the human thorax. With this, we aim to speed up field simulations for risk assessment to allow UHF MRI diagnostics become a standard tool in heart imaging. 
-
-
-### Past Events
 
 - [Philipp Wintersberger](https://www.researchgate.net/profile/Philipp-Wintersberger) (University of Applied Sciences Hagenberg & TU Wien) 
 _Enabling Multitasking in Human-AI Cooperation_
