@@ -20,7 +20,7 @@ Implicit Graph Neural Networks (IGNNs) have emerged as a promising paradigm in g
 
 - [Guillaume Bellec](http://guillaume.bellec.eu/) (EPFL)
 _From neuroscience principles to hardware-aware machine learning algorithms_
-(3/12/2024 2pm)<br />
+(3/12/2024 2pm **in person**)<br />
 The increasing size of Ai models is calling for alternative computing principles. We advocate that computational principles from neuroscience continue to provide inspiration for new computing principles. Looking back at the data on synaptic plasticity from the last decades, we present theory-driven learning algorithms which are designed for contemporary energy-efficient hardware. These neuromorphic algorithms alleviate multiple features of back-propagation learning which are incompatible with a physical always-on learning hardware. Looking forward, we then speculate how the next generation of brain-inspired computing principles can be derived from contemporary brain recordings. Using a new network reconstructions technique we show that it will become possible to measure "brain gradients" and refine our algorithmic understanding of learning in the brain.<br />
 *Bio:*
 Guillaume Bellec is research scientist at EPFL in Switzerland. He studied machine learning during his masters in Paris and worked on bio-inspired computing theories during his PhD at TU Graz in Austria. His theory-driven models are most well-known in computer science for developing algorithms for energy efficient neuromorphic computing devices, and in neuroscience, for showing that a competitive artificial intelligence can emerge from biophysical neural network models. Multiple of his publications are published in selective computer science conferences like NeurIPS or ICLR and journals like Nature Communications.
