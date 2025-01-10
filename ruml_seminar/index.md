@@ -13,6 +13,11 @@ title: Research Seminar of the TUW RU Machine Learning
 - 30/11/2021: [Laura Manduchi](https://mds.inf.ethz.ch/team/detail/laura-manduchi) and [Ricards Marcinkevics](https://mds.inf.ethz.ch/team/detail/ricards-marcinkevics) (both ETH Zürich) _Deep Variational Approaches for Weakly Supervised Clustering With Applications to Survival Data_ 
 -->
 
+- tba
+
+
+### Past Events
+
 - [Yueyang Pi](https://scholar.google.com/citations?user=c748qXkAAAAJ) (Fuzhou University)
 _Interpretable and Stable Implicit Graph Neural Networks_
 (29/11/2024 2pm **online**)<br />
@@ -25,9 +30,6 @@ The increasing size of Ai models is calling for alternative computing principles
 *Bio:*
 Guillaume Bellec is research scientist at EPFL in Switzerland. He studied machine learning during his masters in Paris and worked on bio-inspired computing theories during his PhD at TU Graz in Austria. His theory-driven models are most well-known in computer science for developing algorithms for energy efficient neuromorphic computing devices, and in neuroscience, for showing that a competitive artificial intelligence can emerge from biophysical neural network models. Multiple of his publications are published in selective computer science conferences like NeurIPS or ICLR and journals like Nature Communications.
 Guillaume also co-created the mobile application Chord ai, it uses on-device deep learning to help musicians like him to learn guitar or piano. It now has a million users around the globe.
-
-
-### Past Events
 
 - [Anna Krause]() (University of Würzburg)
 _Physics-Informed Deep Learning for Modelling Electromagnetic Fields for Heart Diagnostics_
