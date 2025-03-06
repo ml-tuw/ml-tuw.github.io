@@ -39,7 +39,7 @@ cat $select \
     | awk  '{$1=$1; print} '  RS='</div>\n\n' FS='\n' OFS=" " \
     | sed 's- reposiTUm-reposiTUm-g' \
     | sed -E 's-(>https://doi.org/[^<]*)->\(doi\)-g' \
-    | grep -e 'Gärtner' -e 'Welke' -e 'Jogl' -e 'Thiessen' -e 'Indri' -e 'Drucks' -e 'Penz' -e 'Malhotra' -e 'Jahanjoo' -e 'Sandrock' -e 'Sepliarskaia' -e 'Schmidt' \
+    | grep -e 'Gärtner' -e 'Welke' -e 'Jogl' -e 'Thiessen' -e 'Indri' -e 'Drucks' -e 'Penz' -e 'Malhotra' -e 'Jahanjoo' -e 'Sandrock' -e 'Sepliarskaia' -e 'Schmidt' -e 'Weinbauer' \
     > $clean
 
 
