@@ -24,6 +24,21 @@ source ~/.bashrc
 - start jekyll server
 ```bundle exec jekyll serve```
 
+## run as docker container
+
+First, you need to build the docker image. You only need to rebuild the image
+when the dependencies change. 
+
+```
+docker build -t ml.github.io:latest .
+```
+
+When you have the image ready you can start the server with the following
+command.
+
+```
+docker run -p 4000:4000 -v .:/src ml.github.io:latest
+```
 
 # to update our list of publications
 
