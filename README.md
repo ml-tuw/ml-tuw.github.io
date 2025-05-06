@@ -40,6 +40,11 @@ command.
 docker run -p 4000:4000 -v .:/src ml.github.io:latest
 ```
 
+# to add a new group member
+- Add the group member to `_data/peoplenl.yml`, creating an identifier for them
+- Add the identifier and additional information to `_data/group/wien.csv`
+- Add the last name to the `grep -e` list of last names in `update_bibliography.sh` 
+
 # to update our list of publications
 
 Our publications are extracted from repositum.tuwien.ac.at. If you want them to appear on our webpage, add them to repositum first and get them accepted ;)
