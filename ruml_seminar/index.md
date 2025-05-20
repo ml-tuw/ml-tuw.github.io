@@ -13,7 +13,10 @@ title: Research Seminar of the TUW RU Machine Learning
 - 30/11/2021: [Laura Manduchi](https://mds.inf.ethz.ch/team/detail/laura-manduchi) and [Ricards Marcinkevics](https://mds.inf.ethz.ch/team/detail/ricards-marcinkevics) (both ETH Zürich) _Deep Variational Approaches for Weakly Supervised Clustering With Applications to Survival Data_ 
 -->
 
-- tba
+- [Celia Rubio Madrigal](https://celrm.github.io/) (CISPA)
+_Rewiring Graph Neural Networks: Less is more and structure matters_
+(27/5/2025 2pm **in person**)<br />
+How can removing edges improve message passing in Graph Neural Networks? GNNs are effective tools for learning on graphs, but they face two persistent challenges. First, information may encounter bottlenecks when traveling across distant parts of the network (over-squashing). Second, repeated message passing layers can make node representations indistinguishable (over-smoothing). Adding edges to improve connectivity helps with over-squashing but often worsens over-smoothing. This trade-off is seen as an inherent limitation of message passing. Inspired by the Braess paradox, where removing roads can improve traffic flow, we challenge this view by showing that removing edges to increase the spectral gap of the graph Laplacian can mitigate both issues at once. Conversely, we find that minimizing the spectral gap can also improve generalization in some node classification tasks. Since a smaller spectral gap indicates stronger communities, performance improves when those communities align with the node labels. These findings motivate three additional rewiring strategies that focus on community structure, feature similarity, and the alignment between them.
 
 
 ### Past Events
