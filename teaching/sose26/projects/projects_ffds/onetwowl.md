@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: 1-WL vs 2-WL: What Standard GNNs Cannot See
+title: 1-WL vs 2-WL - What Standard GNNs Cannot See
 ---
 
 **Type**: Theory + lightweight implementation of WL tests and a 2-WL-inspired GNN

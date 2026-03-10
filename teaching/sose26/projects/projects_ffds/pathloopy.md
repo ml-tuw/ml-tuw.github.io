@@ -1,6 +1,6 @@
 ---
 layout: entitled
-title: Loopy-WL vs Path-WL GNNs: Expressivity on BREC
+title: Loopy-WL vs Path-WL GNNs - Expressivity on BREC
 ---
 
 **Type**: Implementing and benchmarking two WL-inspired GNN families (Loopy-WL vs PAIN) in PyTorch (Geometric)
