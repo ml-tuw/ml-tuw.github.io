@@ -6,8 +6,7 @@ title: Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learn
 ## General information
 
 - TISS: [(link)](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=194118)
-- contact: {% include listppl.md ppls="SagarMalhotra" -%} ([email](mailto:sagar.malhotra@tuwien.ac.at))
-- meeting link: ([zoom](https://tuwien.zoom.us/my/sagarmalhotra))
+- contact: {% include listppl.md ppls="TamaraDrucks" -%} ([email](mailto:tamara.drucks@tuwien.ac.at))
 - everything important will be announced in TUWEL/TISS.
 
 
