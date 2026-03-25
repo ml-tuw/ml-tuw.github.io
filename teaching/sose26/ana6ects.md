@@ -47,7 +47,7 @@ In a final report you will present your approach, the results of your work, and 
 
 We are happy to supervise machine learning related projects that are connected to our research interests. Examples are:
 
-{% include di_filter.html term="sose25" projs="projects" %}
+{% include di_filter.html term="sose26" projs="projects" %}
 
 
 ### Your own idea!
