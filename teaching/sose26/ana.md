@@ -5,7 +5,7 @@ title: Machine Learning Algorithms and Applications
 ## General information
 
 - TISS: [194.101 Machine Learning Algorithms and Applications](https://tiss.tuwien.ac.at/course/educationDetails.xhtml?&courseNr=194101)
-- Contact: {% include listppl.md ppls="KlausWeinbauer" -%} ([email](mailto:klaus.weinbauer@tuwien.ac.at))
+- Contact: {% include listppl.md ppls="FlavianoSantis" -%} ([email](mailto:flaviano.de.santis@tuwien.ac.at))
 - Physical meeting room: FB0210, 2nd floor, Erzherzog-Johann-Platz 1
 - Everything important will be announced in TUWEL/TISS.
 
@@ -48,7 +48,7 @@ Design a poster and write a short final report to present the results of your wo
 
 We are happy to supervise machine learning related projects that are connected to our research interests. Examples are:
 
-{% include di_filter.html term="sose25" projs="projects" %}
+{% include di_filter.html term="sose26" projs="projects" %}
 
 
 <!-- ### Competitions & challenges
