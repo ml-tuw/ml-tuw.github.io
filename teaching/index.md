@@ -3,15 +3,15 @@ layout: entitled
 title: Teaching
 ---
 
-### Summer Semester 2025/2026
+### Winter Semester 2026/2027
 <ul>
-<li> BSc <b>Lecture</b> (6 ECTS) <a href="./sose26/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
-<li> BSc <b>Seminar</b> (3 ECTS) <a href="./sose26/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> 
-<!-- <li> MSc <b>Lecture</b> (3 ECTS/6 ECTS) <a href="./ws2526/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li> -->
-<li> MSc <b>Seminar</b> (3 ECTS) <a href="./sose26/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
-<li> MSc <b>Project</b> (3 ECTS) <a href="./sose26/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
-<li> MSc <b>Project</b> (6 ECTS) <a href="./sose26/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
-<li> PhD <b>Seminar</b> (2 ECTS) <a href="./sose26/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
+<li> BSc <b>Lecture</b> (6 ECTS) <a href="./ws2627/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./ws2627/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> 
+<li> MSc <b>Lecture</b> (3 ECTS/6 ECTS) <a href="./ws2627/tfrtML.html"><i>Theoretical Foundations and Research Topics in Machine Learning (VU)</i></a></li>
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./ws2627/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./ws2627/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./ws2627/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
+<li> PhD <b>Seminar</b> (2 ECTS) <a href="./ws2627/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
 </ul>
 
 
@@ -31,7 +31,7 @@ title: Teaching
 
 ## Thesis opportunities
 
-<a href="./sose26/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
+<a href="./ws2627/thesis.html">Consult this page for more information on how to write a <b>thesis with our group</b></a>.
 
 ### Ongoing Thesis Supervision
 
@@ -59,6 +59,18 @@ Molecular Sequence Data* (BSc thesis)
  - Fabian Traxler: *Antibody-Antigen Binding Affinity Prediction through the use of geometric deep learning* (MSc thesis)
  - Philip Vonderlind: *Domain Transfer for Multi-Agent Reinforcement Learning* (BSc thesis)
 
+
+<details>
+<summary><b>SoSe 2026</b> (click to expand)</summary>
+<ul>
+<li> BSc <b>Lecture</b> (6 ECTS) <a href="./sose26/intro_ml.html"><i>Introduction to Machine Learning (VU)</i></a></li>
+<li> BSc <b>Seminar</b> (3 ECTS) <a href="./sose26/seminar_bsc.html"><i>Scientific Research and Writing (SE)</i></a></li> 
+<li> MSc <b>Seminar</b> (3 ECTS) <a href="./sose26/seminar_msc.html"><i>Seminar in Artificial Intelligence - Theoretical Aspects of Machine Learning (SE)</i></a></li>
+<li> MSc <b>Project</b> (3 ECTS) <a href="./sose26/ana.html"><i>Machine Learning Algorithms and Applications (PR)</i></a></li>
+<li> MSc <b>Project</b> (6 ECTS) <a href="./sose26/ana6ects.html"><i>Project in Computer Science 1 (PR)</i></a></li>
+<li> PhD <b>Seminar</b> (2 ECTS) <a href="./sose26/seminar_phd.html"><i>für DissertantInnen (SE)</i></a></li>
+</ul>
+</details>
 
 <details>
 <summary><b>WiSe 2025/26</b> (click to expand)</summary>
