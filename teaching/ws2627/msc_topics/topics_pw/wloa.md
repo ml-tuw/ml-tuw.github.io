@@ -25,5 +25,3 @@ _Note:_ For very long papers we do not expect you to read the entire appendix.
 - Nikolentzos, Vazirgiannis (2023) - [Graph Alignment Kernels using Weisfeiler and Leman Hierarchies](https://proceedings.mlr.press/v206/nikolentzos23b.html)
 - Chen, Lim, Memoli, Wan, Wang (2022) - [Weisfeiler-Lehman Meets Gromov-Wasserstein](https://proceedings.mlr.press/v162/chen22o.html)
 - Togninalli, Ghisu, Llinares-López, Rieck, Borgwardt (2019) - [Wasserstein Weisfeiler-Lehman Graph Kernels](https://proceedings.neurips.cc/paper_files/paper/2019/hash/73fed7fd472e502d8908794430511f4d-Abstract.html)
-
-**Supervisor**: Pascal
