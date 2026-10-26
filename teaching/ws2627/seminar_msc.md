@@ -19,11 +19,11 @@ This seminar simulates a machine learning conference, where the students take on
 Attend the **mandatory** first meeting either in person or remotely (details on TUWEL).
 
 #### Option 1: our suggestions
- > You select **two** topics/papers (i.e., two bullet points) from one of the topics below. You will work with the material mentioned in the overview and the topic-specific resources.   
+ > You select **a** topic from the topics below. You will work with the material mentioned in the overview and the topic-specific resources.   
 
 
 #### Option 2: your own idea + one of our suggestions
- > You choose **your own** topic to work on. This can be some existing machine learning paper/work or an own creative idea in the context of machine learning. We strongly encourage you to start from existing papers from the following venues: NeurIPS, ICML, ICLR, COLT, AISTATS, UAI, JMLR, MLJ. Importantly, your idea has to be specific and worked out well. Nevertheless, choose **one** of our suggestions as well.
+ > You choose **your own** topic to work on. This can be some existing machine learning paper/work or an own creative idea in the context of machine learning. We strongly encourage you to start from existing papers from the following venues: NeurIPS, ICML, ICLR, COLT, AISTATS, UAI, JMLR, MLJ. Importantly, your idea has to be specific and worked out well.
  
  
 **Independent of the option you chose**, understand the fundamentals of your topic and try to answer the following questions:
