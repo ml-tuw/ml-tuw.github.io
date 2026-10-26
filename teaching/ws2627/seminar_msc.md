@@ -22,7 +22,7 @@ Attend the **mandatory** first meeting either in person or remotely (details on 
  > You select **a** topic from the topics below. You will work with the material mentioned in the overview and the topic-specific resources.   
 
 
-#### Option 2: your own idea + one of our suggestions
+#### Option 2: your own idea
  > You choose **your own** topic to work on. This can be some existing machine learning paper/work or an own creative idea in the context of machine learning. We strongly encourage you to start from existing papers from the following venues: NeurIPS, ICML, ICLR, COLT, AISTATS, UAI, JMLR, MLJ. Importantly, your idea has to be specific and worked out well.
  
  
@@ -33,12 +33,12 @@ Attend the **mandatory** first meeting either in person or remotely (details on 
 - **How** do you plan to approach the problem? /
 **How** have the authors of your topic approached the problem?
 
-Select topics and write a short description of them together with the answers to the questions (~3 sentences should be sufficient) in **TUWEL**.
+Select your topic and write a short description of it together with the answers to the questions (~3 sentences should be sufficient) in **TUWEL**.
 
-We can only accept your own proposals if you can answer the mentioned questions and have a well worked out topic.
+We can only accept your own proposal if you can answer the mentioned questions and have a well worked out topic.
 
 ### 2. Bidding and assignment phase
-You will also act as reviewers and bid on the topics of your peers you want to review. Based on the biddings, we (in the role as chairs of the conference) will select one of each student's proposals as the actual topic you will work on for the rest of this semester. You **do not** need to work on the other topic, anymore. Additionally, we will also assign two different topics from other students to you, which you will have to review later in the semester. 
+You will also act as reviewers and bid on the topics of your peers you want to review. Based on the biddings, we (in the role as chairs of the conference) will assign two topics from other students to you, which you will have to review later in the semester. 
 
 ### 3. Working phase
 Now the actual work starts. Gather deep understanding of your topic, write a first draft of your report and give a 5-minute presentation. We recommend to **go beyond** the given material.
